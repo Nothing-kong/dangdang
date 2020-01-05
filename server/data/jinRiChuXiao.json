@@ -1,0 +1,4509 @@
+{
+    "code": 0,
+    "data": {
+      "nav": [
+        {
+          "id": 0,
+          "content": "小说"
+        },
+        {
+          "id": 1,
+          "content": "文学"
+        },
+        {
+          "id": 2,
+          "content": "童书"
+        },
+        {
+          "id": 3,
+          "content": "青春动漫"
+        },
+        {
+          "id": 4,
+          "content": "艺术"
+        },
+        {
+          "id": 5,
+          "content": "人文历史"
+        },
+        {
+          "id": 6,
+          "content": "古籍文化"
+        },
+        {
+          "id": 7,
+          "content": "哲学心理"
+        },
+        {
+          "id": 8,
+          "content": "社科政治"
+        },
+        {
+          "id": 9,
+          "content": "传记"
+        },
+        {
+          "id": 10,
+          "content": "成功励志"
+        },
+        {
+          "id": 11,
+          "content": "经济投资"
+        }
+      ],
+      "reco_list": [
+        {
+          "name": "减肥，我要饱饱地瘦下去",
+          "price": "40.60",
+          "product_id": 28470249,
+          "author_name": "仰望尾迹云 著",
+          "subtitle": "继畅销书《我的zui后一本减肥书》之后的又一部减肥饮食指导书，彻底粉碎大众对于减肥=限食、禁食的错误认知！这本书告诉你，不是所有的面条、肉类、零食都是减肥的“天敌”！也不是所有的果蔬都是减肥“重器”！",
+          "shop_id": 0,
+          "review_count": 410,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.18.02.00.00.00",
+          "second_category_path": "01.18.00.00.00.00",
+          "category_id": 7211,
+          "category_flag": "",
+          "category_name": "饮食健康",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "保健/养生",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28470249.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m9.ddimg.cn/27/7/28470249-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "机器学习线性代数基础：Python语言描述",
+          "price": "38.70",
+          "product_id": 27921482,
+          "author_name": "张雨萌",
+          "subtitle": "线性代数是机器学习的基石，本书从5个维度+60段代码+53幅图表+2个项目，帮助你理解线性代数与机器学习紧密结合的核心内容，并以Python语言为工具进行数学思想和解决方案的有效实践。",
+          "shop_id": 0,
+          "review_count": 623,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "1",
+          "category_path": "01.54.92.02.00.00",
+          "second_category_path": "01.54.00.00.00.00",
+          "category_id": 52103,
+          "category_flag": "",
+          "category_name": "机器学习",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "计算机/网络",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27921482.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/17/24/27921482-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "人间失格（日本小说家太宰治的自传体小说，李现推荐）",
+          "price": "11.30",
+          "product_id": 23761145,
+          "author_name": "（日）太宰治　著，杨伟　译",
+          "subtitle": "超燃！“丧文化”流行，《人间失格》成了现象级畅销书，创当当3天销售50000+册的奇迹！收录作者绝笔之作《Good bye》。一个“丧失为人资格”少年的心灵独白，一个对村上春树影响至深的绝望凄美故事。",
+          "shop_id": 0,
+          "review_count": 1589106,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "6",
+          "category_path": "01.03.45.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16846,
+          "category_flag": "",
+          "category_name": "社会",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23761145.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/56/4/23761145-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "小熊和最好的爸爸（全7册）",
+          "price": "17.50",
+          "product_id": 20039611,
+          "author_name": "（荷）阿兰德·丹姆  著，（荷）亚历克斯·沃尔夫  绘，漆仰平，爱桐  译",
+          "subtitle": "和爸爸一起读的绘本，极易操作学习增强父子情感的图画书。孩子学习做男子汉：粗犷、睿智、谦逊、幽默，细致；爸爸学习父爱的技巧：了解孩子的梦想，为孩子的勇气而骄傲，成为孩子眼中的英雄。（蒲公英童书馆出品）",
+          "shop_id": 0,
+          "review_count": 975292,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "9",
+          "category_path": "01.41.70.02.03.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 52123,
+          "category_flag": "",
+          "category_name": " ",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/20039611.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/31/4/20039611-1_h_9.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "活着（2017年新版）",
+          "price": "14.00",
+          "product_id": 25137790,
+          "author_name": "余华",
+          "subtitle": "余华是我国当代著名作家，也是享誉世界的小说家，曾荣获众多国内外奖项。《活着》是其代表作，在全球广泛传播，销量逾千万册，获得了普遍好评，已成为中国乃至世界当代文学的经典。",
+          "shop_id": 0,
+          "review_count": 2516370,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.03.45.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16846,
+          "category_flag": "",
+          "category_name": "社会",
+          "reason": "猜您喜欢",
+          "beloved_tag": 1,
+          "second_category_name": "小说",
+          "jump_url": "http://touch.m.dangdang.com/recommend_category.php?cat_path=01.03.00.00.00.00",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "#B0D1F9",
+          "image_url": "http://img3m0.ddimg.cn/7/27/25137790-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "神奇校车·图画书版（全12册，新增科学博览会1册）",
+          "price": "99.00",
+          "product_id": 25252408,
+          "author_name": "(美)乔安娜柯尔 著 ,(美)布鲁斯·迪根 图",
+          "subtitle": "风靡全世界的“神奇校车”再次出发！搭乘神奇校车，跟着卷毛老师来一次时空穿越之旅，去认识那些闪耀在历史星河中的伟大科学家！（蒲公英童书馆出品）",
+          "shop_id": 0,
+          "review_count": 1225424,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "19",
+          "category_path": "01.41.05.03.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 13388,
+          "category_flag": "",
+          "category_name": "科普",
+          "reason": "猜您喜欢",
+          "beloved_tag": 1,
+          "second_category_name": "童书",
+          "jump_url": "http://touch.m.dangdang.com/recommend_category.php?cat_path=01.41.00.00.00.00",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "#B0D1F9",
+          "image_url": "http://img3m8.ddimg.cn/82/19/25252408-1_h_19.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "以吻封缄：莎士比亚抒情诗精选（收录莎翁情诗《十四行诗》百余首，硬壳精装，切口滚金边，向莎翁以及燃烧的爱情致敬！）",
+          "price": "34.00",
+          "product_id": 28476972,
+          "author_name": "（英）莎士比亚",
+          "subtitle": "翻译名家朱生豪译本，搭配莫奈、雷诺阿多幅精美画作。精选传颂400年的莎翁抒情诗百余篇，徐志摩、梁实秋、抖森、胡歌、艾伦·里克曼争相诵读的传世之作。“她将是我永远的女主角！”",
+          "shop_id": 0,
+          "review_count": 1896,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.05.14.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 3807,
+          "category_flag": "",
+          "category_name": "外国诗歌",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28476972.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/18/33/28476972-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "永久记录（“棱镜门主角”斯诺登揭露美国监控全世界的真相）",
+          "price": "32.30",
+          "product_id": 28475555,
+          "author_name": "爱德华·斯诺登 著,博集天卷 出品",
+          "subtitle": "美国政府不想让全世界读到这本书，欧美上市当日作者便被美国司法部起诉！“棱镜门”主角爱德华·斯诺登首次亲自披露美国政府滥用NSA系统监控世界的真相，袒露从“爱国者”到“叛国者”的心路历程。",
+          "shop_id": 0,
+          "review_count": 9657,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.38.25.00.00.00",
+          "second_category_path": "01.38.00.00.00.00",
+          "category_id": 20121,
+          "category_flag": "",
+          "category_name": "自传",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "传记",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28475555.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/86/22/28475555-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "奇妙洞洞书系列：一年12个月+谁和谁一样重（2册）",
+          "price": "44.30",
+          "product_id": 28476042,
+          "author_name": "[意] G.曼泰加扎 等文,[意] G.奥雷基亚 等图，方素珍 译",
+          "subtitle": "0-3岁 全球销量超千万的经典洞洞书；抠洞洞、讲故事、能力培养，开启宝贝智慧探索之旅。意大利国宝级童书，畅销40年经久不衰，“花婆婆”方素珍倾情译写。巧思故事+创意洞洞，锻炼宝宝思维发展。乐乐趣出品",
+          "shop_id": 0,
+          "review_count": 104,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.41.44.13.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50383,
+          "category_flag": "",
+          "category_name": "纸板书",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28476042.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/78/28/28476042-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "我的牧羊日记（《空谷幽兰》作者比尔·波特鼎力推荐！梭罗的《瓦尔登湖》式的智慧、哲思；吉米·哈利的《万物有灵且美》式的温暖、治愈。）",
+          "price": "24.90",
+          "product_id": 28475794,
+          "author_name": "艾克瑟·林登，白马时光出品",
+          "subtitle": "（如果你想在现代浮躁、喧嚣的城市之外找到内心的和平，一定要读一读《我的牧羊日记》！不是我在孤独地牧羊，而是羊儿们在治愈我的孤独。精装双封设计！随书附赠20只小羊贴纸，白马时光）",
+          "shop_id": 0,
+          "review_count": 7074,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "21",
+          "category_path": "01.05.17.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 3810,
+          "category_flag": "",
+          "category_name": "外国随笔",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28475794.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/28/2/28475794-1_h_21.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "丁香医生健康日历2020",
+          "price": "38.20",
+          "product_id": 27907090,
+          "author_name": "丁香医生 著",
+          "subtitle": "丁香医生健康日历2020 团购电话:4001066666转6",
+          "shop_id": 0,
+          "review_count": 71886,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "6",
+          "category_path": "01.18.10.00.00.00",
+          "second_category_path": "01.18.00.00.00.00",
+          "category_id": 7226,
+          "category_flag": "",
+          "category_name": "健康百科",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "保健/养生",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27907090.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/79/25/27907090-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "正面管教(修订版)",
+          "price": "19.00",
+          "product_id": 23990140,
+          "author_name": "[美] 简·尼尔森",
+          "subtitle": "如何不惩罚、不娇纵地有效管教孩子。畅销美国400多万册，被翻译成16种语言畅销全球；让数百万孩子、父母和老师受益终身的经典之作；自1981年本书*版出版以来，《正面管教》已经成为管教孩子的“黄金准则",
+          "shop_id": 0,
+          "review_count": 1087048,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "10",
+          "category_path": "01.15.03.00.00.00",
+          "second_category_path": "01.15.00.00.00.00",
+          "category_id": 50392,
+          "category_flag": "",
+          "category_name": "家教方法",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "亲子/家教",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23990140.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/64/6/23990140-1_h_10.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "三体：全三册 刘慈欣代表作，亚洲首部“雨果奖”获奖作品！",
+          "price": "46.50",
+          "product_id": 23579654,
+          "author_name": "刘慈欣",
+          "subtitle": "",
+          "shop_id": 0,
+          "review_count": 970504,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.41.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16837,
+          "category_flag": "",
+          "category_name": "科幻",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23579654.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/32/35/23579654-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "公文写作从入门到精通(签名版）",
+          "price": "37.72",
+          "product_id": 28471097,
+          "author_name": "谢海德",
+          "subtitle": "100万人受益，汇集20年公文写作经验，通过4大公文写作黄金法则——格式、要领、规范与技巧、66种公文写作要领拆解、113个公文实例演练，手把手教你写出领导认可、群众满意的公文。",
+          "shop_id": 0,
+          "review_count": 700,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "1",
+          "category_path": "01.30.05.02.00.00",
+          "second_category_path": "01.30.00.00.00.00",
+          "category_id": 51274,
+          "category_flag": "",
+          "category_name": "公文写作",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "社会科学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471097.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/83/4/28471097-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "机器学习中的数学",
+          "price": "55.60",
+          "product_id": 28477195,
+          "author_name": "孙博 编著",
+          "subtitle": "一本有趣、好学的机器学习数学基础知识书籍。300+插图，100+示例，50+公式推导，讲故事与实例相结合，学习不枯燥，赠送全书源代码。",
+          "shop_id": 0,
+          "review_count": 222,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.54.92.02.00.00",
+          "second_category_path": "01.54.00.00.00.00",
+          "category_id": 52103,
+          "category_flag": "",
+          "category_name": "机器学习",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "计算机/网络",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28477195.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/43/34/28477195-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "金瓶梅(上下)金瓶梅 无删减 金瓶梅原版 金瓶梅兰陵笑笑生 金瓶梅小说 金瓶梅词话 金瓶梅叙事刘心武评点金瓶梅中的人“性”描写触及广阔的生活领域，以一种*的方式表现人之自然本性对‘天理’禁锢的冲击",
+          "price": "181.80",
+          "product_id": 1327576581,
+          "author_name": "兰陵笑笑生",
+          "subtitle": "加以精细校勘。整理标点，对难懂词语加以注释。可以帮助读者读懂读通，了解主要版本的贤同",
+          "shop_id": 18416,
+          "review_count": 204,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "2",
+          "category_path": "01.03.32.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16818,
+          "category_flag": "",
+          "category_name": "中国古典小说",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1327576581.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/45/5/1327576581-1_h_2.jpg",
+          "productTags": []
+        },
+        {
+          "name": "副业赚钱之道 从0到1打造多元化收入",
+          "price": "37.30",
+          "product_id": 28493274,
+          "author_name": "安晓辉,程涛",
+          "subtitle": "赚钱书籍 教你摆脱朝九晚五的生活 给收支不平衡的职场人兼职挣钱的赚钱教程 让你开拓副业之路 重构收入结构 增强财务自信 开始更加精彩的生活 限量签名版",
+          "shop_id": 0,
+          "review_count": 120,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "6",
+          "category_path": "01.24.16.00.00.00",
+          "second_category_path": "01.24.00.00.00.00",
+          "category_id": 16112,
+          "category_flag": "",
+          "category_name": "理财技巧",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "投资理财",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28493274.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/84/18/28493274-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "花婆婆——清华附小推荐的经典绘本！美国国家图书奖作品！",
+          "price": "31.40",
+          "product_id": 28479620,
+          "author_name": "文/图：〔美〕芭芭拉库尼",
+          "subtitle": "★邓超微博推荐的绘本上线啦：《我不敢说，我怕被骂》《我喜欢自己》《是谁嗯嗯在我的头上》《爱打嗝的斑马》 邓超微博强烈推荐  新的一年带给孩子更多勇气和自信的绘本！",
+          "shop_id": 0,
+          "review_count": 284447,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.41.70.01.03.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 52119,
+          "category_flag": "",
+          "category_name": " ",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28479620.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/92/17/28479620-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "游牧民的世界史（精装修订，《忽必烈的挑战》《疾驰的草原征服者：辽西夏金元》作者杉山正明重磅之作）",
+          "price": "34.90",
+          "product_id": 28481307,
+          "author_name": "杉山正明",
+          "subtitle": "权威作者：日本研究草原民族与蒙古历史的首席专家；一种创见：游牧民是挑起“国家”的中坚力量，支撑了欧亚大陆历史发展；梁文道、腾讯文化、新周刊、新京报推荐",
+          "shop_id": 0,
+          "review_count": 91,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.36.09.00.00.00",
+          "second_category_path": "01.36.00.00.00.00",
+          "category_id": 17541,
+          "category_flag": "",
+          "category_name": "民族史",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "历史",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28481307.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/96/2/28481307-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "别害怕一个人生活(当当独家签名本，随机彩蛋限量掉落哦~)",
+          "price": "33.10",
+          "product_id": 28484306,
+          "author_name": "丁一晨",
+          "subtitle": "超级畅销书《好想回到小时候》作者丁一晨2019全新绘本，微博800万粉丝翘首以待。沉淀四年，超人气漫画形象“丁小点”暖心回归。/2014",
+          "shop_id": 0,
+          "review_count": 20,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "5",
+          "category_path": "01.09.01.30.00.00",
+          "second_category_path": "01.09.00.00.00.00",
+          "category_id": 11802,
+          "category_flag": "",
+          "category_name": "其他大陆漫画",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "动漫/幽默",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28484306.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/26/4/28484306-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "写给儿童的中国历史（全14册）",
+          "price": "177.50",
+          "product_id": 23427436,
+          "author_name": "陈卫平著 步印童书 出品",
+          "subtitle": "第十届文津奖获奖图书，畅销台湾三十载，贯通上下五千年。学会了解自己，评价世界。台湾小鲁镇社之宝（步印童书馆出品）",
+          "shop_id": 0,
+          "review_count": 687301,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.41.26.03.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50007,
+          "category_flag": "",
+          "category_name": "成长/校园小说",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23427436.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/76/35/23427436-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "神奇校车·桥梁书版（全20册）",
+          "price": "75.00",
+          "product_id": 23444350,
+          "author_name": "乔安娜柯尔　著 布鲁斯迪根 图　施芳　译",
+          "subtitle": "（新老版本交替发货）美国Scholastic学子出版社金牌畅销系列，继续打造神奇校车的科学冒险之旅！全新内容，全新体验，小神校迷不可错过的独立阅读读本！（蒲公英童书馆出品）",
+          "shop_id": 0,
+          "review_count": 833619,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.41.05.03.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 13388,
+          "category_flag": "",
+          "category_name": "科普",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23444350.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/61/3/23444350-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "东野圭吾：白夜行（易烊千玺、孟非推荐，东野圭吾作品无冕之王）",
+          "price": "59.60",
+          "product_id": 25119332,
+          "author_name": "[日]东野圭吾 著，新经典 出品",
+          "subtitle": "我一直走在白夜里，从来就没有太阳，所以不怕失去。中文版发行量超600万册。",
+          "shop_id": 0,
+          "review_count": 1452497,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "9",
+          "category_path": "01.03.45.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16846,
+          "category_flag": "",
+          "category_name": "社会",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25119332.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/62/32/25119332-1_h_9.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "少年读史记（套装全5册）",
+          "price": "50.00",
+          "product_id": 23778791,
+          "author_name": "张嘉骅",
+          "subtitle": "精巧32开本，当当独家定制版。荣获第六届中华优秀出版物奖 ；史学、文学、哲学、国学一次到位，台湾著名儿童文学作家张嘉骅倾力打造更适合孩子阅读的《史记》！",
+          "shop_id": 0,
+          "review_count": 638382,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.41.26.11.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50011,
+          "category_flag": "",
+          "category_name": "经典名著少儿版",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23778791.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/80/1/23778791-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "平凡的世界：全三册（故事里的中国，董卿、朱一龙推荐，八年级下册自主阅读推荐）",
+          "price": "108.00",
+          "product_id": 25090502,
+          "author_name": "路遥 著，新经典 出品",
+          "subtitle": "新晋男神朱一龙推荐阅读。茅盾文学奖皇冠上的明珠，激励亿万读者的不朽经典。深受老师和学生喜爱的新课标必读书",
+          "shop_id": 0,
+          "review_count": 1125355,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "5",
+          "category_path": "01.03.45.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16846,
+          "category_flag": "",
+          "category_name": "社会",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25090502.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/41/25/25090502-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "信谊世界精选图画书·猜猜我有多爱你",
+          "price": "19.40",
+          "product_id": 25218540,
+          "author_name": "[英]麦克布雷尼 编文；[英]婕朗 绘；梅子涵 译",
+          "subtitle": "家有二宝要看《猜猜我有多爱你》+《你们都是我的zui爱》亲子共读书单上不可缺少的一本绘本，开启中国孩子的图画书阅读时代（央视【朗读者】节目第9期 奥运冠军邹市明、冉莹颖 一家四口甜蜜朗读）",
+          "shop_id": 0,
+          "review_count": 653732,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.41.70.01.03.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 52119,
+          "category_flag": "",
+          "category_name": " ",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25218540.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/72/6/25218540-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "好吃的悲伤：怎样靠自己战胜抑郁症？（耶鲁大学“抑郁自救”课：陷入抑郁的人，该怎样放过自己？）",
+          "price": "27.00",
+          "product_id": 28472133,
+          "author_name": "（英）安妮塔·佩雷斯·索耶",
+          "subtitle": "你有抑郁症前兆吗？为什么你比别人更容易抑郁？怎样战胜抑郁症？她是耶鲁大学心理导师，她抑郁了。她用自己的自愈故事，给所有人上了一堂抑郁自救课！写给每个离抑郁症很近的人。",
+          "shop_id": 0,
+          "review_count": 1383,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.31.02.00.00.00",
+          "second_category_path": "01.31.00.00.00.00",
+          "category_id": 51430,
+          "category_flag": "",
+          "category_name": "心理百科",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "心理学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28472133.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/30/4/28472133-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "国富论",
+          "price": "21.60",
+          "product_id": 28473201,
+          "author_name": "（英）斯密 著,博集天卷 出品",
+          "subtitle": "经济学史上三部伟大巨著之一，经济学鼻祖亚当?斯密的开山之作，被誉为西方经济学“圣经” “推动世界历史进程的十大著作之一”，后世经济学家的工作仅仅是在《国富论》的框架基础上做些修补。",
+          "shop_id": 0,
+          "review_count": 2038,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.25.01.05.00.00",
+          "second_category_path": "01.25.00.00.00.00",
+          "category_id": 7430,
+          "category_flag": "",
+          "category_name": "其他经济学理论",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "经济",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473201.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/9/36/28473201-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "深度销售：一线销售的实战行动指南",
+          "price": "24.70",
+          "product_id": 28473637,
+          "author_name": "朱圣金 著，斯坦威 出品",
+          "subtitle": "一线销售的实战行动指南！思维×行动×沟通×分析×协作，360°全方位提升销售能力，轻松实现爆发式赢单。销售精英硬核力作，多年实战笔记独家公开，十余家企业高管感动推荐！",
+          "shop_id": 0,
+          "review_count": 345,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "10",
+          "category_path": "01.22.03.05.00.00",
+          "second_category_path": "01.22.00.00.00.00",
+          "category_id": 9076,
+          "category_flag": "",
+          "category_name": "销售",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "管理",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473637.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/49/28/28473637-1_h_10.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "傩神：崔老道和打神鞭（精装）（天下霸唱作品）",
+          "price": "29.80",
+          "product_id": 28484742,
+          "author_name": "天下霸唱 著，新华先锋 出品",
+          "subtitle": "天下霸唱经典作品，崔老道探四宝将军墓，“打神鞭”杨方闯金顶宝城。一朝结拜，便去翻江倒海，入地寻龙。揭开黄河傩王的神秘面具！",
+          "shop_id": 0,
+          "review_count": 76,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.38.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16834,
+          "category_flag": "",
+          "category_name": "侦探/悬疑/推理",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28484742.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/66/33/28484742-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "作家榜经典：月亮与六便士（畅销250万册！荣获2018当当名著桂冠！2017豆瓣阅读桂冠！上海国际学校指定必读译本）",
+          "price": "18.90",
+          "product_id": 24175371,
+          "author_name": "毛姆 著，徐淳刚 译，大星文化 出品，作家榜经典文库，高更 绘",
+          "subtitle": "荣获4项大奖译本！开创当当820816名读者真实5星好评奇迹！全新未删节插图珍藏版，译者荣获波比小说大奖！认准作家榜，拒绝山寨版！满地都是六便士，他却抬头看见了月亮！大星文化出品",
+          "shop_id": 0,
+          "review_count": 820816,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "103",
+          "category_path": "01.03.56.01.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16859,
+          "category_flag": "",
+          "category_name": "欧洲",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24175371.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/66/15/24175371-1_h_103.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "人生海海（麦家重磅新作！莫言、董卿、王家卫、高晓松、杨洋倾力推荐）",
+          "price": "27.50",
+          "product_id": 26921715,
+          "author_name": "麦家  著 ，新经典  出品",
+          "subtitle": "60天发行60万册！茅盾文学奖得主麦家力作！豆瓣zui受关注图书榜虚构类连续六周TOP1。挑战常人不敢落笔之处，解密人性的荒唐与高尚",
+          "shop_id": 0,
+          "review_count": 271650,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "2",
+          "category_path": "01.03.30.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16816,
+          "category_flag": "",
+          "category_name": "中国当代小说",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26921715.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/51/34/26921715-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "我喜欢生命本来的样子(周国平经典散文作品集)",
+          "price": "22.50",
+          "product_id": 24198400,
+          "author_name": "周国平",
+          "subtitle": "影响和改变万千年轻人对人生的思考和生活的态度！上市半年以来，销售突破10万册，4万读者诚挚推荐！2017年，周国平散文ZUI佳精选集！裸书脊精装，四色印刷，林帝浣插图，但愿你保持住一份生命的本色!",
+          "shop_id": 0,
+          "review_count": 599662,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.05.06.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 5686,
+          "category_flag": "",
+          "category_name": "文集",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24198400.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/28/30/24198400-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "万历十五年 一本好书 腾讯视频栏目推荐",
+          "price": "13.00",
+          "product_id": 23445575,
+          "author_name": "黄仁宇",
+          "subtitle": "（《人民的名义》多次提到《万历十五年》，为什么这么多人研究呢？三联书店出版黄仁宇先生的成名代表之作。万历十五年是大明王朝的转折点，腐败、敷衍，社风奢靡，都是悄悄埋葬大明王朝的导火线，值得当下深思。）",
+          "shop_id": 0,
+          "review_count": 651181,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "5",
+          "category_path": "01.36.02.00.00.00",
+          "second_category_path": "01.36.00.00.00.00",
+          "category_id": 50946,
+          "category_flag": "",
+          "category_name": "历史随笔",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "历史",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23445575.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/98/7/23445575-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "皮囊（350万册纪念版。直面人生的终极问题，刻在骨头里的故事，容纳一个个既失去家乡又未到达远方的生命。感动千万读者的国民读本）",
+          "price": "24.70",
+          "product_id": 27872661,
+          "author_name": "蔡崇达，果麦文化 出品",
+          "subtitle": "刘德华、韩寒、白岩松感动推荐。2019全新升级，书封采用具有肌肤质感的SKINS纸。命运是一条闪闪发光的金色河流，我们彼此相遇，卸下皮囊，以心相交。果麦出品",
+          "shop_id": 0,
+          "review_count": 855901,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "13",
+          "category_path": "01.05.16.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 3809,
+          "category_flag": "",
+          "category_name": "中国现当代随笔",
+          "reason": "猜您喜欢",
+          "beloved_tag": 1,
+          "second_category_name": "文学",
+          "jump_url": "http://touch.m.dangdang.com/recommend_category.php?cat_path=01.05.00.00.00.00",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "#B0D1F9",
+          "image_url": "http://img3m1.ddimg.cn/3/6/27872661-1_h_13.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "丰子恺万般滋味，都是生活",
+          "price": "21.00",
+          "product_id": 25308985,
+          "author_name": "丰子恺",
+          "subtitle": "杨澜、延参法师、央视财经频道一致推荐！全彩插图珍藏本，丰子恺*温暖的散文作品。献给曾是孩子的你！愿你永葆童真，并乐此不疲，去生活！超值赠送精美书签1枚，明信片4张。团购电话400-1066666转6",
+          "shop_id": 0,
+          "review_count": 263618,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "8",
+          "category_path": "01.05.16.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 3809,
+          "category_flag": "",
+          "category_name": "中国现当代随笔",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25308985.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/31/23/25308985-1_h_8.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "孤儿故事",
+          "price": "21.00",
+          "product_id": 28471006,
+          "author_name": "[美]帕姆·杰诺芙",
+          "subtitle": "“图书界的奥斯卡”鹅毛笔大奖提名作家帕姆?杰诺芙《纽约时报》畅销书，亚网美国犹太小说第4位，好读网（Goodreads）40000+好评发生在德国马戏团中的“辛德勒名单”故事权威媒体、作家、书评人联袂",
+          "shop_id": 0,
+          "review_count": 1248,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.35.02.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16827,
+          "category_flag": "",
+          "category_name": "美国",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471006.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/91/24/28471006-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "深度说服（马东 黄执中 马薇薇 推荐）",
+          "price": "24.00",
+          "product_id": 28480866,
+          "author_name": "梁秋阳 主编   华文天下出品",
+          "subtitle": "马东倾情推荐 黄执中 马薇薇作序 胡渐彪 颜如晶 刘京京客串分享",
+          "shop_id": 0,
+          "review_count": 1256,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "1",
+          "category_path": "01.21.12.03.00.00",
+          "second_category_path": "01.21.00.00.00.00",
+          "category_id": 19515,
+          "category_flag": "",
+          "category_name": "说服力/说话技巧",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "成功/励志",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28480866.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/51/5/28480866-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "月亮虎（每个人的心中都有一只爱情的猛虎！布克奖50周年“金布克奖”：评委评选《英国病人》，读者评选《月亮虎》）",
+          "price": "33.10",
+          "product_id": 28476469,
+          "author_name": "[英]佩内洛普·莱夫利 郭国良 译",
+          "subtitle": "当当小说榜首，风靡英伦30年现象级畅销书，英国女性枕边书。与《英国病人》《午夜之子》《自由国度》《辛德勒名单》《盲刺客》同等震撼，与巴恩斯、阿特伍德、J.K.罗琳、托卡尔丘克、石黑一雄同样耀眼。",
+          "shop_id": 0,
+          "review_count": 918,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.03.35.01.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16826,
+          "category_flag": "",
+          "category_name": "英国",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28476469.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m9.ddimg.cn/10/11/28476469-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "促",
+              "type": 1,
+              "label_type": "3206"
+            }
+          ]
+        },
+        {
+          "name": "斗罗大陆4 终极斗罗13 唐家三少",
+          "price": "25.00",
+          "product_id": 28485134,
+          "author_name": "唐家三少 著，中南天使 出品",
+          "subtitle": "斗罗大陆第四部终JI斗罗第13册震撼上市！！系列之作畅销百万，唐家三少经典之作，*不能错过！",
+          "shop_id": 0,
+          "review_count": 19,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "9",
+          "category_path": "01.01.07.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11565,
+          "category_flag": "",
+          "category_name": "玄幻/新武侠/魔幻/科幻",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28485134.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/62/18/28485134-1_h_9.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "【2.7折价：14.9元，仅限12.25-12.31岁末狂欢！】森马休闲裤男2018冬季新款韩版小脚长裤男士净色商务青年裤子潮",
+          "price": "55.00",
+          "product_id": 1089273618,
+          "author_name": "",
+          "subtitle": "",
+          "shop_id": 8525,
+          "review_count": 1137,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "4",
+          "category_path": "58.71.04.00.00.00",
+          "second_category_path": "58.71.00.00.00.00",
+          "category_id": 4008122,
+          "category_flag": "",
+          "category_name": "休闲裤",
+          "reason": "猜您喜欢",
+          "beloved_tag": 2,
+          "second_category_name": "男士服装",
+          "jump_url": "http://shop.m.dangdang.com/8525.html?t=1577432531",
+          "shop_logo": "http://img62.ddimg.cn/2018/5/3/2018050315001031731.jpg",
+          "shop_name": "森马官方旗舰店",
+          "color_value": "#F3C1A3",
+          "image_url": "http://img3m8.ddimg.cn/81/19/1089273618-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "",
+              "type": 0,
+              "label_type": "2002"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "满折",
+              "type": 1,
+              "label_type": "3207"
+            }
+          ],
+          "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1089273618_2.jpg",
+          "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1089273618_1.jpg"
+        },
+        {
+          "name": "你当像鸟飞往你的山（比尔·盖茨年度特别推荐，登顶《纽约时报》畅销榜80 周！多一个人读到这个真实故事，就多一个人勇敢做自己！）",
+          "price": "29.20",
+          "product_id": 28473192,
+          "author_name": "塔拉 · 韦斯特弗  著 ， 新经典  出品",
+          "subtitle": "17岁前从未上过学的女孩，如何成为剑桥大学博士？我们要背叛多少曾经，才能找到真正的自我！《纽约时报》 等数十家媒体一致公推“年度图书”，作者获选《时代周刊》年度影响力人物！这本书比你听说的还要好！",
+          "shop_id": 0,
+          "review_count": 9172,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.05.17.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 3810,
+          "category_flag": "",
+          "category_name": "外国随笔",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473192.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/0/27/28473192-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "知日·甲午海战，再认识",
+          "price": "34.90",
+          "product_id": 28486791,
+          "author_name": "茶乌龙 主编",
+          "subtitle": "125年前的海战里，到底发生了什么？透过甲午海战的滚滚硝烟，窥探甲午战争的历史真相。粉丝期待已久的“知日”全新特集第23期《知日·甲午海战，再认识》精装珍藏版，震撼上市！",
+          "shop_id": 0,
+          "review_count": 28,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "1",
+          "category_path": "01.36.05.02.00.00",
+          "second_category_path": "01.36.00.00.00.00",
+          "category_id": 50964,
+          "category_flag": "",
+          "category_name": "亚洲史",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "历史",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28486791.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/36/10/28486791-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "庆余年套装3册：远来是客+人在京都+北海有雾",
+          "price": "81.90",
+          "product_id": 410272670,
+          "author_name": "猫腻",
+          "subtitle": "此套书赠送《庆余年》全员祥云图海报一张+24张明信片",
+          "shop_id": 0,
+          "review_count": 0,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/410272670.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/38/20/410272670-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "笑背古诗：漫画版（全4册 ），中国诗词大会点评嘉宾推荐 含小学生必背古诗词75首+80首 适合小学生的国学经典儿童诗歌 当当首发独家",
+          "price": "70.00",
+          "product_id": 27871865,
+          "author_name": "刘义良 著，夏和 绘",
+          "subtitle": "“笨狼的故事“作者汤素兰、中国诗词大会评委杨雨、儿童阅读专家王林联袂推荐，100个独立音频，扫码即听。4册图书800多幅漫画，一套超大开本，精美有趣的古诗词！",
+          "shop_id": 0,
+          "review_count": 72598,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "21",
+          "category_path": "01.41.26.19.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50025,
+          "category_flag": "",
+          "category_name": "传统文化",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27871865.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/98/24/27871865-1_h_21.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "【2.7折价：48.3元，仅限12.25-12.31岁末狂欢！】森马黑色牛仔裤男春夏韩版男士修身小脚裤子学生休闲男裤潮男装",
+          "price": "179.00",
+          "product_id": 1255097595,
+          "author_name": "",
+          "subtitle": "",
+          "shop_id": 8525,
+          "review_count": 1728,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "13",
+          "category_path": "58.71.03.00.00.00",
+          "second_category_path": "58.71.00.00.00.00",
+          "category_id": 4008121,
+          "category_flag": "",
+          "category_name": "牛仔裤",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "男士服装",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1255097595.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/48/23/1255097595-1_h_13.jpg",
+          "productTags": [
+            {
+              "name": "",
+              "type": 0,
+              "label_type": "2002"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "满折",
+              "type": 1,
+              "label_type": "3207"
+            }
+          ],
+          "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1255097595_2.jpg",
+          "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1255097595_1.jpg"
+        },
+        {
+          "name": "东野圭吾：布谷鸟的蛋",
+          "price": "36.70",
+          "product_id": 28473193,
+          "author_name": "（日）东野圭吾  著 ， 新经典   出品",
+          "subtitle": "东野圭吾长篇悬疑杰作。我含辛茹苦养大的女儿，竟是妻子偷来的，而她居然和我有相同的“天赋”！天赋到底是什么？人生不时会被这个词摆弄。",
+          "shop_id": 0,
+          "review_count": 1325,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.03.35.07.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16832,
+          "category_flag": "",
+          "category_name": "日本",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473193.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/1/28/28473193-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "精油大全（芳香疗法入门大图鉴！全家人从头到脚都适用的精油配方大全）",
+          "price": "48.90",
+          "product_id": 28471230,
+          "author_name": "[日] 盐屋绍子 著 快读慢活 出品",
+          "subtitle": "从简单的涂抹、泡澡、熏香，到进阶的按摩技法，一本统统搞定！选对精油、用对方法，既可以美容、安神，又能缓解40多种常见的身心不适症状，即使是精油小白，也能轻松上手！随书附赠《芳香疗法按摩手册》！",
+          "shop_id": 0,
+          "review_count": 496,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "5",
+          "category_path": "01.11.03.00.00.00",
+          "second_category_path": "01.11.00.00.00.00",
+          "category_id": 50413,
+          "category_flag": "",
+          "category_name": "时尚",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "时尚/美妆",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471230.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/18/26/28471230-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "活法",
+          "price": "28.50",
+          "product_id": 28481444,
+          "author_name": "【日】稻盛和夫",
+          "subtitle": "稻盛和夫代表作《活法》2019版上市。 季羡林、马云、樊登推荐。超销量400万。告诉我们如何正确判断，做出人生与经营的正确选择和决策。",
+          "shop_id": 0,
+          "review_count": 215396,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "5",
+          "category_path": "01.21.20.01.00.00",
+          "second_category_path": "01.21.00.00.00.00",
+          "category_id": 19539,
+          "category_flag": "",
+          "category_name": "经典励志/作品集",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "成功/励志",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28481444.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/35/28/28481444-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "菜市场鱼图鉴(自然观察丛书)",
+          "price": "27.50",
+          "product_id": 28488058,
+          "author_name": "吴佳瑞",
+          "subtitle": "",
+          "shop_id": 0,
+          "review_count": 37,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "2",
+          "category_path": "01.52.03.04.00.00",
+          "second_category_path": "01.52.00.00.00.00",
+          "category_id": 50923,
+          "category_flag": "",
+          "category_name": "生物学",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "科普读物",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28488058.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m8.ddimg.cn/16/19/28488058-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "时光男孩米小扬（6册）",
+          "price": "75.00",
+          "product_id": 26924341,
+          "author_name": "毛小懋",
+          "subtitle": "文学性和科学性兼具，用时空的主题，让孩子理解爱的真谛和梦想的意义。科幻+校园，是小学生课外阅读的好伙伴。",
+          "shop_id": 0,
+          "review_count": 916,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "2",
+          "category_path": "01.41.26.03.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50007,
+          "category_flag": "",
+          "category_name": "成长/校园小说",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26924341.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/4/33/26924341-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "一看就会的思维导图启蒙绘本（歪歪兔童书馆出品）",
+          "price": "64.00",
+          "product_id": 27854383,
+          "author_name": "歪歪兔关键期早教 项目组编绘",
+          "subtitle": "训练思维能力，大幅提升学习力。用绘本故事形象演示8种神奇的思维魔法，益智思维训练，让学龄前和小学中低年级孩子轻松掌握高效的思维与学习方法。4-6岁亲子阅读，7岁以上独立阅读",
+          "shop_id": 0,
+          "review_count": 63535,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "81",
+          "category_path": "01.41.45.05.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50079,
+          "category_flag": "",
+          "category_name": "幼儿园教材及入学准备",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27854383.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/40/6/27854383-1_h_81.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "薛兆丰经济学讲义",
+          "price": "37.10",
+          "product_id": 25307907,
+          "author_name": "薛兆丰",
+          "subtitle": "新老版本封面随机发货。奇葩说导师马东、蔡康永、高晓松等力荐，马化腾、罗永浩、罗振宇、徐小平等都在上的经济学课，撕掉“经济学”吓人表象，核心概念+大师思想+日常案例，用有趣的经济学，助你看懂这个复杂世界",
+          "shop_id": 0,
+          "review_count": 176247,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "9",
+          "category_path": "01.25.01.05.00.00",
+          "second_category_path": "01.25.00.00.00.00",
+          "category_id": 7430,
+          "category_flag": "",
+          "category_name": "其他经济学理论",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "经济",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25307907.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/42/18/25307907-1_h_9.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "因为这是你的人生（蔡康永19年新作，当当专享签章版）",
+          "price": "23.40",
+          "product_id": 28484107,
+          "author_name": "蔡康永 著,博集天卷 出品",
+          "subtitle": "继《蔡康永的情商课》&《蔡康永的说话之道》1、2热销六百万册后，蔡康永再次奉上“人际关系之道”！用不造成伤害的温柔手法化解人际冲突，主动塑造你想要的人际关系，强势自我表达的同时，完成简洁、高效的沟通。",
+          "shop_id": 0,
+          "review_count": 2142,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "8",
+          "category_path": "01.21.06.01.00.00",
+          "second_category_path": "01.21.00.00.00.00",
+          "category_id": 19474,
+          "category_flag": "",
+          "category_name": "情商总论",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "成功/励志",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28484107.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/25/27/28484107-1_h_8.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "李诞 冷场（新版！《奇葩说》导师，《吐槽大会》总策划李诞全新自扯自蛋短篇故事集）",
+          "price": "22.30",
+          "product_id": 26456953,
+          "author_name": "李诞  韩寒监制， 果麦文化 出品",
+          "subtitle": "一个平行宇宙中的李诞，嬉笑怒骂背后对人间的终极吐槽，摇摆不定的恋人、坚定信仰的窃贼，每个人都会从中找到自己。果麦出品",
+          "shop_id": 0,
+          "review_count": 104572,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.05.06.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 5686,
+          "category_flag": "",
+          "category_name": "文集",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26456953.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/94/29/26456953-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "庆余年·远来是客（陈道明、张若昀、吴刚、李沁、肖战主演电视剧原著小说，修订版第一卷）",
+          "price": "27.30",
+          "product_id": 28485850,
+          "author_name": "猫腻",
+          "subtitle": "随书赠送8张剧照明信片",
+          "shop_id": 0,
+          "review_count": 96,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "9",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28485850.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/85/31/28485850-1_h_9.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "彩铅的魔法:手绘菜鸟的完全入门手册",
+          "price": "29.00",
+          "product_id": 28477962,
+          "author_name": "(俄罗斯)奥莉加·施玛托娃绘著;韩绍昆译",
+          "subtitle": "与手绘大师奥莉加的教学课堂全接触，从0到1，打开彩铅绘画新世界的大门。超多案例，详细解析，轻松上手，一学就会，零基础掌握风靡欧美的前沿技法",
+          "shop_id": 0,
+          "review_count": 111,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "2",
+          "category_path": "01.07.07.02.00.00",
+          "second_category_path": "01.07.00.00.00.00",
+          "category_id": 51035,
+          "category_flag": "",
+          "category_name": "技法教程",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "艺术",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28477962.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/18/24/28477962-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "我不怕这漫长黑夜（百万畅销作家苑子豪全新短篇故事集。何炅、韩寒真挚推荐，愿在迷茫的黑暗中，你的坚持都被照亮）",
+          "price": "22.50",
+          "product_id": 28486170,
+          "author_name": "苑子豪，果麦文化 出品",
+          "subtitle": "七篇寻光故事，七种奇遇人生，送给成长路上孤独前行的你，每个人的生活都有被困在井里一样的绝望时刻，而这本书就想做点亮黑夜的那束光芒。耐心一些，保持相信，我们终会穿越漫长黑夜，抵达属于自己的黎明。果麦出品",
+          "shop_id": 0,
+          "review_count": 1391,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "8",
+          "category_path": "01.01.02.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11561,
+          "category_flag": "",
+          "category_name": "爱情/情感",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28486170.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/9/18/28486170-1_h_8.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "走出孤独：阿德勒孤独十五讲（樊登读书会重磅推荐：比《超越自卑》更重要的，是《走出孤独》）",
+          "price": "24.00",
+          "product_id": 28470318,
+          "author_name": "阿尔弗雷德·阿德勒（Alfred Adler） 著，胡慎之 译",
+          "subtitle": "为什么你不喜欢社交，却又害怕孤独？你能一边享受孤独，一边开心社交吗？学会化解孤独与社交的冲突，即便你独来独往，也能应对复杂人事。关系心理学家胡慎之精心编译，附赠胡慎之10堂音频课",
+          "shop_id": 0,
+          "review_count": 3063,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "5",
+          "category_path": "01.31.04.00.00.00",
+          "second_category_path": "01.31.00.00.00.00",
+          "category_id": 51438,
+          "category_flag": "",
+          "category_name": "心灵疗愈",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "心理学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28470318.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m8.ddimg.cn/96/2/28470318-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "中国经济2020（当当独家赠送2020年日历）",
+          "price": "29.00",
+          "product_id": 28483298,
+          "author_name": "王德培",
+          "subtitle": "中美贸易摩擦持续，第四次金融危机逐渐展开，数字货币走上历史舞台，5G等高新技术弯道超车…… 百年一遇之大变局，究竟是谁开启了碎片化的序幕？ 聚焦经济热点难点，指明大变局中的中国经济走向",
+          "shop_id": 0,
+          "review_count": 56,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "9",
+          "category_path": "01.25.09.01.00.00",
+          "second_category_path": "01.25.00.00.00.00",
+          "category_id": 7451,
+          "category_flag": "",
+          "category_name": "中国经济概况",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "经济",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28483298.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m8.ddimg.cn/8/32/28483298-1_h_9.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "人生海海（麦家重磅新作！莫言、董卿、王家卫、高晓松、杨洋倾力推荐）",
+          "price": "27.50",
+          "product_id": 26921715,
+          "author_name": "麦家  著 ，新经典  出品",
+          "subtitle": "60天发行60万册！茅盾文学奖得主麦家力作！豆瓣zui受关注图书榜虚构类连续六周TOP1。挑战常人不敢落笔之处，解密人性的荒唐与高尚",
+          "shop_id": 0,
+          "review_count": 271650,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "2",
+          "category_path": "01.03.30.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16816,
+          "category_flag": "",
+          "category_name": "中国当代小说",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26921715.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/51/34/26921715-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "我喜欢生命本来的样子(周国平经典散文作品集)",
+          "price": "22.50",
+          "product_id": 24198400,
+          "author_name": "周国平",
+          "subtitle": "影响和改变万千年轻人对人生的思考和生活的态度！上市半年以来，销售突破10万册，4万读者诚挚推荐！2017年，周国平散文ZUI佳精选集！裸书脊精装，四色印刷，林帝浣插图，但愿你保持住一份生命的本色!",
+          "shop_id": 0,
+          "review_count": 599662,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "4",
+          "category_path": "01.05.06.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 5686,
+          "category_flag": "",
+          "category_name": "文集",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24198400.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/28/30/24198400-1_h_4.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "万历十五年 一本好书 腾讯视频栏目推荐",
+          "price": "13.00",
+          "product_id": 23445575,
+          "author_name": "黄仁宇",
+          "subtitle": "（《人民的名义》多次提到《万历十五年》，为什么这么多人研究呢？三联书店出版黄仁宇先生的成名代表之作。万历十五年是大明王朝的转折点，腐败、敷衍，社风奢靡，都是悄悄埋葬大明王朝的导火线，值得当下深思。）",
+          "shop_id": 0,
+          "review_count": 651181,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "5",
+          "category_path": "01.36.02.00.00.00",
+          "second_category_path": "01.36.00.00.00.00",
+          "category_id": 50946,
+          "category_flag": "",
+          "category_name": "历史随笔",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "历史",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23445575.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/98/7/23445575-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "只能陪你走一程（蕊希2019新作）",
+          "price": "20.90",
+          "product_id": 27904794,
+          "author_name": "蕊希 著,博集天卷 出品",
+          "subtitle": "陪伴千万人、音频总播放量过60亿的人气电台主持人、畅销书作家蕊希继《总要习惯一个人》后全新力作，写给每一个不论顺遂险阻，都在各自的天地里努力生长的人。愿你我永远潇洒坦荡，干净纯良。",
+          "shop_id": 0,
+          "review_count": 55533,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "12",
+          "category_path": "01.01.02.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11561,
+          "category_flag": "",
+          "category_name": "爱情/情感",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27904794.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/60/23/27904794-1_h_12.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "撒野（巫哲新书）",
+          "price": "41.80",
+          "product_id": 25350561,
+          "author_name": "巫哲",
+          "subtitle": "晋江年度十大高人气原创文学之一，晋江年度纯爱现象级作品，大神级作者巫哲代表作",
+          "shop_id": 0,
+          "review_count": 67151,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "6",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25350561.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/27/11/25350561-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "小鸡球球触感玩具书：全5册",
+          "price": "125.00",
+          "product_id": 24105221,
+          "author_name": "[日]入山智 著绘；崔维燕 译；心喜阅童书 出品",
+          "subtitle": "0-3岁幼儿纸板绘本，1种发声器+5种互动游戏+14种模切洞洞+ 28种触摸材料，和畅销百万册的小鸡球球一起玩触摸游戏，以发展触感为主，其他感官为辅，助力早期认知发展。（心喜阅童书出品）",
+          "shop_id": 0,
+          "review_count": 185314,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "25",
+          "category_path": "01.41.44.09.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50156,
+          "category_flag": "",
+          "category_name": "游戏书",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24105221.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/8/17/24105221-1_h_25.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "盗墓笔记十年",
+          "price": "31.70",
+          "product_id": 28490256,
+          "author_name": "南派三叔",
+          "subtitle": "静候数载，《盗墓笔记》系列全新出版作品震撼上市！南派三叔亲撰写作心路序言，随书附赠精美印签明信片+藏书票书签。",
+          "shop_id": 0,
+          "review_count": 1056,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.38.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16834,
+          "category_flag": "",
+          "category_name": "侦探/悬疑/推理",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28490256.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/36/34/28490256-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "哈利·波特（套装1-7册）《语文》教材推荐阅读书目，外国儿童文学经典，新英国版封面平装版",
+          "price": "328.50",
+          "product_id": 25583206,
+          "author_name": "（英）J.K.罗琳 著； 苏农，马爱农，马爱新 译",
+          "subtitle": "",
+          "shop_id": 0,
+          "review_count": 210848,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.41.27.09.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50019,
+          "category_flag": "",
+          "category_name": "幻想小说",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25583206.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/22/0/25583206-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "协和医生说：坚持做好这些事 健康生活一辈子",
+          "price": "33.80",
+          "product_id": 28483232,
+          "author_name": "北京协和医院组织编写 赵玉沛 姜玉新 主编",
+          "subtitle": "北京协和医院官方发布的健康知识，赵玉沛院士、邱贵兴院士、郎景和院士联合推荐",
+          "shop_id": 0,
+          "review_count": 11,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.18.05.00.00.00",
+          "second_category_path": "01.18.00.00.00.00",
+          "category_id": 7216,
+          "category_flag": "",
+          "category_name": "常见病预防和治疗",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "保健/养生",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28483232.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/41/3/28483232-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "孟子 孟子；苏立康",
+          "price": "9.30",
+          "product_id": 1525473520,
+          "author_name": "孟子",
+          "subtitle": "【文轩网正版图书】孟子 孟子；苏立康",
+          "shop_id": 22159,
+          "review_count": 0,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "2",
+          "category_path": "01.43.18.01.00.00",
+          "second_category_path": "01.43.00.00.00.00",
+          "category_id": 15891,
+          "category_flag": "",
+          "category_name": "语文",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "中小学教辅",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1525473520.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/43/2/1525473520-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "赠品",
+              "type": 1,
+              "label_type": "3012"
+            }
+          ]
+        },
+        {
+          "name": "迷人的材料（彩图升级版）：10种改变世界的神奇物质和它们背后的科学故事",
+          "price": "33.30",
+          "product_id": 28473125,
+          "author_name": "【英】马克·米奥多尼克 著，赖盈满 译，未读 出品，",
+          "subtitle": "未读·探索家|“大众喜爱的50种图书”“文津图书奖”科普类推荐图书、英国皇家学会科学图书奖获奖作品。大师级科普范本，畅销200000册《迷人的材料》全新彩图升级",
+          "shop_id": 0,
+          "review_count": 51839,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "6",
+          "category_path": "01.52.04.04.00.00",
+          "second_category_path": "01.52.00.00.00.00",
+          "category_id": 50927,
+          "category_flag": "",
+          "category_name": "科学史话",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "科普读物",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473125.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/32/34/28473125-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "5G时代：生活方式和商业模式的大变革",
+          "price": "37.70",
+          "product_id": 28479407,
+          "author_name": "【日】龟井卓也",
+          "subtitle": "5G商用正式开启，一本书讲透5G对生活和商务的影响 继《大数据时代》，重磅推出畅销书《5G时代》 日本畅销100000册",
+          "shop_id": 0,
+          "review_count": 124,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "2",
+          "category_path": "01.25.16.00.00.00",
+          "second_category_path": "01.25.00.00.00.00",
+          "category_id": 7498,
+          "category_flag": "",
+          "category_name": "经济通俗读物",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "经济",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28479407.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/77/26/28479407-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "你皮肤真好：皮肤科医生的科学护肤经",
+          "price": "24.90",
+          "product_id": 28481976,
+          "author_name": "尹志强",
+          "subtitle": "独家赠送玉泽面膜，数量有限，先到先得！比闺蜜看起来年轻10岁的秘密！三甲医院皮肤科医生20年临床护肤宝典，中华医学会皮肤专家郑捷、高兴华教授作序推荐！修护皮肤屏障，从源头解决皮肤问题。",
+          "shop_id": 0,
+          "review_count": 116,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "6",
+          "category_path": "01.11.11.00.00.00",
+          "second_category_path": "01.11.00.00.00.00",
+          "category_id": 17441,
+          "category_flag": "",
+          "category_name": "护肤/美容整形",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "时尚/美妆",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28481976.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/72/5/28481976-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "呼吸（每一个“科幻必读”书单上都有特德·姜！9个短篇，9集《黑镜》，融科幻的诗意与哲学的浪漫于一体：我所有的欲望和沉思，都是这个宇宙缓缓呼出的气流。）",
+          "price": "25.20",
+          "product_id": 28482634,
+          "author_name": "特德·姜",
+          "subtitle": "豆瓣9.3！豆瓣2019年度读书榜单高分图书NO.1！《纽约时报》2019年度十佳好书！《时代》2019年周刊年度必读好书！",
+          "shop_id": 0,
+          "review_count": 34,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.41.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16837,
+          "category_flag": "",
+          "category_name": "科幻",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28482634.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/37/34/28482634-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "撒野（巫哲新书）",
+          "price": "41.80",
+          "product_id": 25350561,
+          "author_name": "巫哲",
+          "subtitle": "晋江年度十大高人气原创文学之一，晋江年度纯爱现象级作品，大神级作者巫哲代表作",
+          "shop_id": 0,
+          "review_count": 67151,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "6",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25350561.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/27/11/25350561-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "半小时漫画股票实战法  随书附赠2020年专属日历（财经杂质作品，从零开始学炒股，股票漫画相结合，实战扫盲利器）",
+          "price": "34.00",
+          "product_id": 28494367,
+          "author_name": "财经杂质",
+          "subtitle": "“财经杂质”讲股票，无论多么深奥难懂，到他这里都变简单了",
+          "shop_id": 0,
+          "review_count": 40,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.24.01.00.00.00",
+          "second_category_path": "01.24.00.00.00.00",
+          "category_id": 16101,
+          "category_flag": "",
+          "category_name": "证券/股票",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "投资理财",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28494367.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/88/1/28494367-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "【双旦狂欢价：259元】探路者冲锋衣 户外情侣男女三合一透湿保暖外套冲锋衣KAWF91603_熔岩红/深枣红男91603,XXL",
+          "price": "259.00",
+          "product_id": 1514541162,
+          "author_name": "",
+          "subtitle": "年终大促，满400-40，满600-60元",
+          "shop_id": 9957,
+          "review_count": 1,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "1",
+          "category_path": "58.61.15.01.00.00",
+          "second_category_path": "58.61.00.00.00.00",
+          "category_id": 4009574,
+          "category_flag": "",
+          "category_name": "冲锋衣裤",
+          "reason": "猜您喜欢",
+          "beloved_tag": 1,
+          "second_category_name": "运动户外",
+          "jump_url": "http://touch.m.dangdang.com/recommend_category.php?cat_path=58.61.00.00.00.00",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "#B0D1F9",
+          "image_url": "http://img3m2.ddimg.cn/57/34/1514541162-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "庆余年·人在京都（陈道明、张若昀、吴刚、李沁、肖战主演电视剧原著小说，修订版第二卷）",
+          "price": "27.30",
+          "product_id": 28490031,
+          "author_name": "猫腻",
+          "subtitle": "",
+          "shop_id": 0,
+          "review_count": 79,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "6",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28490031.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/9/31/28490031-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "赛雷三分钟漫画中国史（赛雷重磅新书）",
+          "price": "24.90",
+          "product_id": 28489527,
+          "author_name": "赛雷 著,博集天卷 出品",
+          "subtitle": "ZUI生动的四色漫画中国史！1000万人都在看的“超萌赛雷”重磅打造漫画中国史！几乎每页都有一个大家会心一笑的梗，在哈哈大笑中通晓中国历史。附赠创意历史大事记主题书签。",
+          "shop_id": 0,
+          "review_count": 1131,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "8",
+          "category_path": "01.36.01.01.00.00",
+          "second_category_path": "01.36.00.00.00.00",
+          "category_id": 50941,
+          "category_flag": "",
+          "category_name": "中国古代史",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "历史",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28489527.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/0/8/28489527-1_h_8.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "【双旦狂欢价：259元】探路者冲锋衣 户外情侣男女三合一透湿保暖外套冲锋衣KAWF91603",
+          "price": "259.00",
+          "product_id": 1514541112,
+          "author_name": "",
+          "subtitle": "年终大促，满400-40，满600-60元",
+          "shop_id": 9957,
+          "review_count": 422,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "1",
+          "category_path": "58.61.15.01.00.00",
+          "second_category_path": "58.61.00.00.00.00",
+          "category_id": 4009574,
+          "category_flag": "",
+          "category_name": "冲锋衣裤",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "运动户外",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1514541112.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/7/21/1514541112-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "有限责任家庭（当当专享李雪签名版）",
+          "price": "32.40",
+          "product_id": 28477626,
+          "author_name": "李雪",
+          "subtitle": "心理学者李雪全新作品，亲子关系百万畅销书《当我遇见一个人》姊妹篇 尹建莉、张德芬鼓掌推荐！",
+          "shop_id": 0,
+          "review_count": 4836,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "12",
+          "category_path": "01.15.03.00.00.00",
+          "second_category_path": "01.15.00.00.00.00",
+          "category_id": 50392,
+          "category_flag": "",
+          "category_name": "家教方法",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "亲子/家教",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28477626.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/78/21/28477626-1_h_12.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "冰雪奇缘2双语故事（官方电影版）（套装共3册）",
+          "price": "25.20",
+          "product_id": 28471788,
+          "author_name": "【美】迪士尼公司 著，国开童媒 编",
+          "subtitle": "精彩电影永不落幕，双语故事永久珍藏 冰雪女王华丽回归 魔法世界再掀波澜 全新冒险即可启程 迪士尼正版官方授权 中英双语不对照编排 精心提炼的重点单词 专业纯正的双语音频",
+          "shop_id": 0,
+          "review_count": 316,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "8",
+          "category_path": "01.41.50.03.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 50142,
+          "category_flag": "",
+          "category_name": "卡通",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471788.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m8.ddimg.cn/81/29/28471788-1_h_8.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "妈妈的红沙发——这是一本可以影响孩子一生的好书  1983年美国凯迪克大奖作品！",
+          "price": "21.00",
+          "product_id": 28469420,
+          "author_name": "薇拉·威廉斯 著；柯倩华 译",
+          "subtitle": "1983年凯迪克银奖★经典绘本 :大卫系列、大脚丫系列、奥莉薇系列、花婆婆、我爸爸我妈妈、天空在脚下、是谁嗯嗯在我头上、让路给小鸭子、不许抠鼻子、海伦凯勒、雪花人、*次自己睡觉、蝴蝶豌豆花、菲菲生气了",
+          "shop_id": 0,
+          "review_count": 35178,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.41.70.01.03.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 52119,
+          "category_flag": "",
+          "category_name": " ",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28469420.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/89/29/28469420-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "超级跑跑镇",
+          "price": "26.20",
+          "product_id": 28484320,
+          "author_name": "亚东（文）,麦克小奎",
+          "subtitle": "《跑跑镇》作者重磅新作！撞出更多可能，想象升级，快乐翻倍！文末还有惊喜翻翻设计，内含绘本主题曲！",
+          "shop_id": 0,
+          "review_count": 109,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.41.70.01.01.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 52117,
+          "category_flag": "",
+          "category_name": " ",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28484320.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/40/18/28484320-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "【2.7折价：48.3元，仅限12.25-12.31岁末狂欢！】森马黑色牛仔裤男春夏韩版男士修身小脚裤子学生休闲男裤潮男装",
+          "price": "179.00",
+          "product_id": 1255097595,
+          "author_name": "",
+          "subtitle": "",
+          "shop_id": 8525,
+          "review_count": 1728,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "13",
+          "category_path": "58.71.03.00.00.00",
+          "second_category_path": "58.71.00.00.00.00",
+          "category_id": 4008121,
+          "category_flag": "",
+          "category_name": "牛仔裤",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "男士服装",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1255097595.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/48/23/1255097595-1_h_13.jpg",
+          "productTags": [
+            {
+              "name": "",
+              "type": 0,
+              "label_type": "2002"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "满折",
+              "type": 1,
+              "label_type": "3207"
+            }
+          ],
+          "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1255097595_2.jpg",
+          "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1255097595_1.jpg"
+        },
+        {
+          "name": "东野圭吾：布谷鸟的蛋",
+          "price": "36.70",
+          "product_id": 28473193,
+          "author_name": "（日）东野圭吾  著 ， 新经典   出品",
+          "subtitle": "东野圭吾长篇悬疑杰作。我含辛茹苦养大的女儿，竟是妻子偷来的，而她居然和我有相同的“天赋”！天赋到底是什么？人生不时会被这个词摆弄。",
+          "shop_id": 0,
+          "review_count": 1325,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.03.35.07.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16832,
+          "category_flag": "",
+          "category_name": "日本",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473193.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/1/28/28473193-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "精油大全（芳香疗法入门大图鉴！全家人从头到脚都适用的精油配方大全）",
+          "price": "48.90",
+          "product_id": 28471230,
+          "author_name": "[日] 盐屋绍子 著 快读慢活 出品",
+          "subtitle": "从简单的涂抹、泡澡、熏香，到进阶的按摩技法，一本统统搞定！选对精油、用对方法，既可以美容、安神，又能缓解40多种常见的身心不适症状，即使是精油小白，也能轻松上手！随书附赠《芳香疗法按摩手册》！",
+          "shop_id": 0,
+          "review_count": 496,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "5",
+          "category_path": "01.11.03.00.00.00",
+          "second_category_path": "01.11.00.00.00.00",
+          "category_id": 50413,
+          "category_flag": "",
+          "category_name": "时尚",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "时尚/美妆",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471230.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/18/26/28471230-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "瑕疵品，谨慎购买！耐克（Nike）儿童鞋毛毛虫童鞋舒适运动休闲鞋 小童",
+          "price": "239.00",
+          "product_id": 1538555826,
+          "author_name": "",
+          "subtitle": "瑕疵品,线头、变形、鞋内标染色、胶水",
+          "shop_id": 21253,
+          "review_count": 76,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "2",
+          "category_path": "58.75.21.01.00.00",
+          "second_category_path": "58.75.00.00.00.00",
+          "category_id": 4009377,
+          "category_flag": "",
+          "category_name": "运动/户外鞋",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童装童鞋",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1538555826.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/93/33/1538555826-1_h_2.jpg",
+          "productTags": []
+        },
+        {
+          "name": "你皮肤真好：皮肤科医生的科学护肤经",
+          "price": "24.90",
+          "product_id": 28481976,
+          "author_name": "尹志强",
+          "subtitle": "独家赠送玉泽面膜，数量有限，先到先得！比闺蜜看起来年轻10岁的秘密！三甲医院皮肤科医生20年临床护肤宝典，中华医学会皮肤专家郑捷、高兴华教授作序推荐！修护皮肤屏障，从源头解决皮肤问题。",
+          "shop_id": 0,
+          "review_count": 116,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "6",
+          "category_path": "01.11.11.00.00.00",
+          "second_category_path": "01.11.00.00.00.00",
+          "category_id": 17441,
+          "category_flag": "",
+          "category_name": "护肤/美容整形",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "时尚/美妆",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28481976.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/72/5/28481976-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "呼吸（每一个“科幻必读”书单上都有特德·姜！9个短篇，9集《黑镜》，融科幻的诗意与哲学的浪漫于一体：我所有的欲望和沉思，都是这个宇宙缓缓呼出的气流。）",
+          "price": "25.20",
+          "product_id": 28482634,
+          "author_name": "特德·姜",
+          "subtitle": "豆瓣9.3！豆瓣2019年度读书榜单高分图书NO.1！《纽约时报》2019年度十佳好书！《时代》2019年周刊年度必读好书！",
+          "shop_id": 0,
+          "review_count": 34,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.41.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16837,
+          "category_flag": "",
+          "category_name": "科幻",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28482634.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/37/34/28482634-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "撒野（巫哲新书）",
+          "price": "41.80",
+          "product_id": 25350561,
+          "author_name": "巫哲",
+          "subtitle": "晋江年度十大高人气原创文学之一，晋江年度纯爱现象级作品，大神级作者巫哲代表作",
+          "shop_id": 0,
+          "review_count": 67151,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "6",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25350561.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/27/11/25350561-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "半小时漫画股票实战法  随书附赠2020年专属日历（财经杂质作品，从零开始学炒股，股票漫画相结合，实战扫盲利器）",
+          "price": "34.00",
+          "product_id": 28494367,
+          "author_name": "财经杂质",
+          "subtitle": "“财经杂质”讲股票，无论多么深奥难懂，到他这里都变简单了",
+          "shop_id": 0,
+          "review_count": 40,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.24.01.00.00.00",
+          "second_category_path": "01.24.00.00.00.00",
+          "category_id": 16101,
+          "category_flag": "",
+          "category_name": "证券/股票",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "投资理财",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28494367.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/88/1/28494367-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "【双旦狂欢价：259元】探路者冲锋衣 户外情侣男女三合一透湿保暖外套冲锋衣KAWF91603_熔岩红/深枣红男91603,XXL",
+          "price": "259.00",
+          "product_id": 1514541162,
+          "author_name": "",
+          "subtitle": "年终大促，满400-40，满600-60元",
+          "shop_id": 9957,
+          "review_count": 1,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "1",
+          "category_path": "58.61.15.01.00.00",
+          "second_category_path": "58.61.00.00.00.00",
+          "category_id": 4009574,
+          "category_flag": "",
+          "category_name": "冲锋衣裤",
+          "reason": "猜您喜欢",
+          "beloved_tag": 1,
+          "second_category_name": "运动户外",
+          "jump_url": "http://touch.m.dangdang.com/recommend_category.php?cat_path=58.61.00.00.00.00",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "#B0D1F9",
+          "image_url": "http://img3m2.ddimg.cn/57/34/1514541162-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "庆余年·人在京都（陈道明、张若昀、吴刚、李沁、肖战主演电视剧原著小说，修订版第二卷）",
+          "price": "27.30",
+          "product_id": 28490031,
+          "author_name": "猫腻",
+          "subtitle": "",
+          "shop_id": 0,
+          "review_count": 79,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "6",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28490031.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/9/31/28490031-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "赛雷三分钟漫画中国史（赛雷重磅新书）",
+          "price": "24.90",
+          "product_id": 28489527,
+          "author_name": "赛雷 著,博集天卷 出品",
+          "subtitle": "ZUI生动的四色漫画中国史！1000万人都在看的“超萌赛雷”重磅打造漫画中国史！几乎每页都有一个大家会心一笑的梗，在哈哈大笑中通晓中国历史。附赠创意历史大事记主题书签。",
+          "shop_id": 0,
+          "review_count": 1131,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "8",
+          "category_path": "01.36.01.01.00.00",
+          "second_category_path": "01.36.00.00.00.00",
+          "category_id": 50941,
+          "category_flag": "",
+          "category_name": "中国古代史",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "历史",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28489527.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/0/8/28489527-1_h_8.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "乖，摸摸头2.0（大冰作品！当当专享100%大冰签名。和大冰一起，DIY专属自己的小乖！）",
+          "price": "28.50",
+          "product_id": 28470463,
+          "author_name": "大冰  磨铁出品",
+          "subtitle": "大冰畅·销450万册作品升级版！重写续写增写原书内容，增加10篇全新文章！随书附赠书中主人公们对话声音、18首原创民谣歌曲！乖，摸摸头，来，不要走散，抱团取暖。",
+          "shop_id": 0,
+          "review_count": 113586,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "18",
+          "category_path": "01.03.45.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16846,
+          "category_flag": "",
+          "category_name": "社会",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28470463.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/43/36/28470463-1_h_18.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "东野圭吾新作：魔力的胎动（限量东野圭吾印签版本）",
+          "price": "38.30",
+          "product_id": 28484744,
+          "author_name": "（日）东野圭吾",
+          "subtitle": "喜欢《解忧杂货店》，就一定要读这本书。珍藏印签。有了想要守护的东西，生命就会变得有力量。悲凉的人生、千疮百孔的命运、一桩桩悲剧的发生与救赎，读来令人喟叹不已。",
+          "shop_id": 0,
+          "review_count": 308,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "6",
+          "category_path": "01.03.38.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16834,
+          "category_flag": "",
+          "category_name": "侦探/悬疑/推理",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28484744.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/68/35/28484744-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "清明上河图密码6：醒世大结局（隐藏在千古名画中的阴谋与杀局！全画824个人物原地复活！豆瓣9.3！）",
+          "price": "34.90",
+          "product_id": 28483083,
+          "author_name": "冶文彪",
+          "subtitle": "中国小说罕见的恢宏格局！被读者誉为“中国第五大名著”！20多种推理诡计，80多起大小案件，824个人物逐一复活！口碑奇好！影视由阿里影业火热启动中。读客熊猫君出品",
+          "shop_id": 0,
+          "review_count": 28265,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "10",
+          "category_path": "01.03.38.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16834,
+          "category_flag": "",
+          "category_name": "侦探/悬疑/推理",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28483083.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/90/2/28483083-1_h_10.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "人格阴影:学会接纳自己性格中的阴暗面",
+          "price": "24.90",
+          "product_id": 28494822,
+          "author_name": "[瑞士]维雷娜?卡斯特（Verena Kast）",
+          "subtitle": "阴影的接纳不仅与阴影本身有关，也与自我的发展有关。正如本书的题目中所指出的，阴影常常是起破坏作用的生命力量，然而一旦能够成功接纳，它对于我们了解自己和他人，促进自我的发展，更好地适应生活和建立良好的人",
+          "shop_id": 0,
+          "review_count": 71,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.31.01.00.00.00",
+          "second_category_path": "01.31.00.00.00.00",
+          "category_id": 51429,
+          "category_flag": "",
+          "category_name": "心理学入门",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "心理学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28494822.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/48/12/28494822-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "STEAM科学动起来",
+          "price": "69.50",
+          "product_id": 28488127,
+          "author_name": "（英）罗布·贝迪 著，（英）萨姆·皮特 绘，爱心树童书 出品",
+          "subtitle": "STEAM跨学科教育代表读物，35个在家就能完成的科学实验，让孩子轻松掌握机械、建筑、磁场、电力的科学知识。一件件不起眼的日常物品，将在孩子的巧手中变成能“跑”、会“跳”甚至一“飞”冲天的科学小装置。",
+          "shop_id": 0,
+          "review_count": 1,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "3",
+          "category_path": "01.41.05.03.00.00",
+          "second_category_path": "01.41.00.00.00.00",
+          "category_id": 13388,
+          "category_flag": "",
+          "category_name": "科普",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "童书",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28488127.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/85/14/28488127-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "党的十九届四中全会《决定》学习辅导百问 团购电话:4001066666转6",
+          "price": "22.40",
+          "product_id": 28479790,
+          "author_name": "本书编写组",
+          "subtitle": "党的十九届四中全会精神辅导读本、党员干部必读",
+          "shop_id": 0,
+          "review_count": 15753,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "1",
+          "category_path": "01.27.01.09.00.00",
+          "second_category_path": "01.27.00.00.00.00",
+          "category_id": 7528,
+          "category_flag": "",
+          "category_name": "党政读物",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "政治/军事",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28479790.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/64/2/28479790-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "经济学原理",
+          "price": "20.20",
+          "product_id": 28473199,
+          "author_name": "马歇尔 著,博集天卷 出品",
+          "subtitle": "经济学诞生的标志，三部划时代的巨著之一，一本任何人都读得懂的经济学巨著，微观经济学的奠基之作。",
+          "shop_id": 0,
+          "review_count": 11644,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.25.01.05.00.00",
+          "second_category_path": "01.25.00.00.00.00",
+          "category_id": 7430,
+          "category_flag": "",
+          "category_name": "其他经济学理论",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "经济",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473199.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m9.ddimg.cn/7/34/28473199-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "三国配角演义（《长安十二时辰》作者马伯庸获奖力作，揭开波谲云诡的历史谜团）",
+          "price": "24.90",
+          "product_id": 28486160,
+          "author_name": "马伯庸 著,博集天卷 出品",
+          "subtitle": "马伯庸获奖力作！三国配角的因缘际会，波谲云诡的历史谜团。在不为人知的历史缝隙中，想象潜藏千年的阴谋与诡计，从微小的史料记载中，想象出许多配角的故事。",
+          "shop_id": 0,
+          "review_count": 58,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "5",
+          "category_path": "01.03.51.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16852,
+          "category_flag": "",
+          "category_name": "历史",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28486160.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m0.ddimg.cn/98/8/28486160-1_h_5.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "你的孩子不是你的孩子",
+          "price": "35.80",
+          "product_id": 28469815,
+          "author_name": "吴晓乐",
+          "subtitle": "这世间*可怕的伤害，打的旗号叫“为你好”。心理学家武志红/小说家骆以军诚意推荐。出版后引发巨大争议，数月雄踞博客来总榜No.1，读者有人愤怒，有人哭泣。同名网剧190国同步播出。（当当专享精美明信片）",
+          "shop_id": 0,
+          "review_count": 1730,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "6",
+          "category_path": "01.15.03.00.00.00",
+          "second_category_path": "01.15.00.00.00.00",
+          "category_id": 50392,
+          "category_flag": "",
+          "category_name": "家教方法",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "亲子/家教",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28469815.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m5.ddimg.cn/88/17/28469815-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "【双旦狂欢价：359元】探路者羽绒服男女 19秋冬户外抗撕裂超轻羽绒外套TADH91935/92936",
+          "price": "359.00",
+          "product_id": 1551694832,
+          "author_name": "",
+          "subtitle": "年终大促，满400-40，满600-60元",
+          "shop_id": 9957,
+          "review_count": 37,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "2",
+          "category_path": "58.61.15.03.00.00",
+          "second_category_path": "58.61.00.00.00.00",
+          "category_id": 4009576,
+          "category_flag": "",
+          "category_name": "户外羽绒服/棉服",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "运动户外",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1551694832.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/17/6/1551694832-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "脑力赋能：一看就会的用脑秘籍，拿来即用的高效指南",
+          "price": "20.10",
+          "product_id": 28472326,
+          "author_name": "（英）菲尔·多布森 著，杨献军 译，斯坦威 出品",
+          "subtitle": "6大途径终结低效努力，360度激活高效的进阶逻辑。BBC、NBC环球、华纳音乐沿用超10年的*强脑力赋能攻略",
+          "shop_id": 0,
+          "review_count": 1863,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.21.02.09.00.00",
+          "second_category_path": "01.21.00.00.00.00",
+          "category_id": 19454,
+          "category_flag": "",
+          "category_name": "效率与能力",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "成功/励志",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28472326.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/25/12/28472326-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "【一件25折】探路者秋冬户外男女透气防风连帽弹力软壳衣外套",
+          "price": "99.00",
+          "product_id": 1025364457,
+          "author_name": "",
+          "subtitle": "年终大促，满400-40，满600-60元",
+          "shop_id": 9957,
+          "review_count": 226,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "2",
+          "category_path": "58.61.15.05.00.00",
+          "second_category_path": "58.61.00.00.00.00",
+          "category_id": 4009578,
+          "category_flag": "",
+          "category_name": "户外休闲",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "运动户外",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1025364457.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/73/33/1025364457-1_h_2.jpg",
+          "productTags": [
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "庆余年小说全集 猫腻 全套2册正版 第一卷远来是客+第二卷人在京都修订版 张若昀李沁肖战出演同名改编电视剧原著 人民文学出版社",
+          "price": "52.80",
+          "product_id": 1566582308,
+          "author_name": "猫腻",
+          "subtitle": "",
+          "shop_id": 21151,
+          "review_count": 0,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "1",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1566582308.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m8.ddimg.cn/71/14/1566582308-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            }
+          ]
+        },
+        {
+          "name": "健康日历2020丁香医生",
+          "price": "50.00",
+          "product_id": 27926347,
+          "author_name": "丁香医生",
+          "subtitle": "",
+          "shop_id": 0,
+          "review_count": 394,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "1",
+          "category_path": "01.18.10.00.00.00",
+          "second_category_path": "01.18.00.00.00.00",
+          "category_id": 7226,
+          "category_flag": "",
+          "category_name": "健康百科",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "保健/养生",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27926347.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/31/5/27926347-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "包邮",
+              "type": 0,
+              "label_type": "1008"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "【限量秒杀】361度男鞋多功能户外鞋男鞋徒步登上鞋",
+          "price": "59.00",
+          "product_id": 1003029497,
+          "author_name": "",
+          "subtitle": "12.26-12.29 361度集团日 再叠加50元优惠！",
+          "shop_id": 8064,
+          "review_count": 1148,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "1",
+          "category_path": "58.61.19.06.00.00",
+          "second_category_path": "58.61.00.00.00.00",
+          "category_id": 4009579,
+          "category_flag": "",
+          "category_name": "徒步/登山鞋",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "运动户外",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/1003029497.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m7.ddimg.cn/8/12/1003029497-1_h_1.jpg",
+          "productTags": [
+            {
+              "name": "",
+              "type": 0,
+              "label_type": "2002"
+            },
+            {
+              "name": "券",
+              "type": 1,
+              "label_type": "1007"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ],
+          "atmosphere_image_180x180": "http://img63.ddimg.cn/promotion/atmosphereImage/20191227150534926_1003029497_2.jpg",
+          "atmosphere_image_56x56": "http://img63.ddimg.cn/promotion/atmosphereImage/20191227150534926_1003029497_1.jpg"
+        },
+        {
+          "name": "斗罗大陆4 终极斗罗12 唐家三少",
+          "price": "25.00",
+          "product_id": 28471572,
+          "author_name": "唐家三少 著，中南天使 出品",
+          "subtitle": "斗罗大陆第四部终JI斗罗第11册震撼上市！！系列之作畅销百万，唐家三少经典之作，*不能错过！",
+          "shop_id": 0,
+          "review_count": 516,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "6",
+          "category_path": "01.01.07.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11565,
+          "category_flag": "",
+          "category_name": "玄幻/新武侠/魔幻/科幻",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471572.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/63/35/28471572-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            }
+          ]
+        },
+        {
+          "name": "薄世宁医学通识讲义",
+          "price": "42.80",
+          "product_id": 28475452,
+          "author_name": "薄世宁",
+          "subtitle": "把深奥的医学专业知识用“显”而不“浅”的方式表达出来，没有任何医学基础也能读懂的医学书，在短时间内构建医学认知体系，对自己和家人受益终生的健康读本，历时3年打磨，“得到”App近8万听众付费收听同主题",
+          "shop_id": 0,
+          "review_count": 2389,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "",
+          "image_version": "6",
+          "category_path": "01.18.10.00.00.00",
+          "second_category_path": "01.18.00.00.00.00",
+          "category_id": 7226,
+          "category_flag": "",
+          "category_name": "健康百科",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "保健/养生",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28475452.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/82/30/28475452-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "预售",
+              "type": 0,
+              "label_type": "1006"
+            }
+          ]
+        },
+        {
+          "name": "天青色等烟雨（方文山新书）",
+          "price": "22.90",
+          "product_id": 28471883,
+          "author_name": "方文山 著,博集天卷 出品",
+          "subtitle": "方文山全新作品。诗词中的世界，文字里的风雪。属于这个时代的回忆与感觉。凝结唐风宋韵，解码绝妙好词。解读14首脍炙人口的经典中国风创作。独家收录29首精选韵脚诗。",
+          "shop_id": 0,
+          "review_count": 2895,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "10",
+          "category_path": "01.05.16.00.00.00",
+          "second_category_path": "01.05.00.00.00.00",
+          "category_id": 3809,
+          "category_flag": "",
+          "category_name": "中国现当代随笔",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28471883.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m3.ddimg.cn/77/13/28471883-1_h_10.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "你皮肤真好：皮肤科医生的科学护肤经",
+          "price": "24.90",
+          "product_id": 28481976,
+          "author_name": "尹志强",
+          "subtitle": "独家赠送玉泽面膜，数量有限，先到先得！比闺蜜看起来年轻10岁的秘密！三甲医院皮肤科医生20年临床护肤宝典，中华医学会皮肤专家郑捷、高兴华教授作序推荐！修护皮肤屏障，从源头解决皮肤问题。",
+          "shop_id": 0,
+          "review_count": 116,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "6",
+          "category_path": "01.11.11.00.00.00",
+          "second_category_path": "01.11.00.00.00.00",
+          "category_id": 17441,
+          "category_flag": "",
+          "category_name": "护肤/美容整形",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "时尚/美妆",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28481976.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m6.ddimg.cn/72/5/28481976-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "呼吸（每一个“科幻必读”书单上都有特德·姜！9个短篇，9集《黑镜》，融科幻的诗意与哲学的浪漫于一体：我所有的欲望和沉思，都是这个宇宙缓缓呼出的气流。）",
+          "price": "25.20",
+          "product_id": 28482634,
+          "author_name": "特德·姜",
+          "subtitle": "豆瓣9.3！豆瓣2019年度读书榜单高分图书NO.1！《纽约时报》2019年度十佳好书！《时代》2019年周刊年度必读好书！",
+          "shop_id": 0,
+          "review_count": 34,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "3",
+          "category_path": "01.03.41.00.00.00",
+          "second_category_path": "01.03.00.00.00.00",
+          "category_id": 16837,
+          "category_flag": "",
+          "category_name": "科幻",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "小说",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28482634.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m4.ddimg.cn/37/34/28482634-1_h_3.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        },
+        {
+          "name": "撒野（巫哲新书）",
+          "price": "41.80",
+          "product_id": 25350561,
+          "author_name": "巫哲",
+          "subtitle": "晋江年度十大高人气原创文学之一，晋江年度纯爱现象级作品，大神级作者巫哲代表作",
+          "shop_id": 0,
+          "review_count": 67151,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "满额减",
+          "image_version": "6",
+          "category_path": "01.01.08.00.00.00",
+          "second_category_path": "01.01.00.00.00.00",
+          "category_id": 11566,
+          "category_flag": "",
+          "category_name": "大陆原创",
+          "reason": "猜您喜欢",
+          "beloved_tag": 0,
+          "second_category_name": "青春文学",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25350561.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m1.ddimg.cn/27/11/25350561-1_h_6.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "满减",
+              "type": 1,
+              "label_type": "3020"
+            }
+          ]
+        },
+        {
+          "name": "醒脑之书（老杨的猫头鹰醒脑之书系列畅销200万册纪念作品，不负责疼爱你，只想要唤醒你）",
+          "price": "29.00",
+          "product_id": 28491442,
+          "author_name": "老杨的猫头鹰",
+          "subtitle": "上市三年，总销量突破二百万册。篇篇有毒，句句戳心。修补思维的漏洞，挤掉脑子里进的水，让你在复杂的时代做一个明白人，在无聊的世界做一个有趣的人。裸脊精装，双色内页，任意书写，附赠卡片",
+          "shop_id": 0,
+          "review_count": 146,
+          "ebook_price": "",
+          "is_mb_exclusive": 0,
+          "promo_flag": "限时抢",
+          "image_version": "13",
+          "category_path": "01.21.02.03.00.00",
+          "second_category_path": "01.21.00.00.00.00",
+          "category_id": 19451,
+          "category_flag": "",
+          "category_name": "激励",
+          "reason": "",
+          "beloved_tag": 0,
+          "second_category_name": "成功/励志",
+          "jump_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28491442.html?t=1577432531';console",
+          "shop_logo": "",
+          "shop_name": "",
+          "color_value": "",
+          "image_url": "http://img3m2.ddimg.cn/34/36/28491442-1_h_13.jpg",
+          "productTags": [
+            {
+              "name": "当当自营",
+              "type": 0,
+              "label_type": "1001"
+            },
+            {
+              "name": "限时抢",
+              "type": 1,
+              "label_type": "3102"
+            }
+          ]
+        }
+      ]
+    }
+}

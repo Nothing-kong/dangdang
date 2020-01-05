@@ -1,0 +1,2903 @@
+{
+  "code": 0,
+  "data": {
+    "nav": [
+      {
+        "iconName": "图书馆",
+        "iconImageUrl": "https://img61.ddimg.cn/2018/8/25/20180825153505715.png",
+        "iconLinkUrl": "http://touch.m.dangdang.com/topics.php?page_id=131706"
+      },
+      {
+        "iconName": "服装馆",
+        "iconImageUrl": "https://img61.ddimg.cn/2018/8/25/2018082515383576435.png",
+        "iconLinkUrl": "http://touch.m.dangdang.com/topics.php?page_id=162371"
+      },
+      {
+        "iconName": "童书馆",
+        "iconImageUrl": "https://img61.ddimg.cn/2018/8/25/2018082515395286917.png",
+        "iconLinkUrl": "http://touch.m.dangdang.com/topics.php?page_id=126310"
+      },
+      {
+        "iconName": "日百馆",
+        "iconImageUrl": "https://img63.ddimg.cn/2018/8/31/2018083116044590576.png",
+        "iconLinkUrl": "http://touch.m.dangdang.com/topics.php?page_id=167159"
+      },
+      {
+        "iconName": "品牌好店",
+        "iconImageUrl":"http://img63.ddimg.cn/upload_img/00660/h5/ddpp-1537350824.png",
+        "iconLinkUrl":"http,://z.dangdang.com/optimize/clothing_brand_list"
+      },
+      {
+        "iconName": "便宜好货",
+        "iconImageUrl": "https://img62.ddimg.cn/2018/8/31/2018083116363087335.png",
+        "iconLinkUrl": "http://z.dangdang.com/optimize/low_price"
+      },
+      {
+        "iconName": "9.9包邮",
+        "iconImageUrl": "https://img62.ddimg.cn/2018/8/31/2018083116355544875.png",
+        "iconLinkUrl": "http://z.dangdang.com/optimize/npn"
+      },
+      {
+        "iconName": "今日促销",
+        "iconImageUrl": "https://img61.ddimg.cn/2018/8/31/2018083116365438226.png",
+        "iconLinkUrl": "http://z.dangdang.com/optimize/today_promote"
+      },
+      {
+        "iconName": "即刻秒杀",
+        "iconImageUrl": "https://img62.ddimg.cn/2018/8/31/2018083116373380162.png",
+        "iconLinkUrl": "http://touch.m.dangdang.com/seckill.php"
+      },
+      {
+        "iconName": "领券中心",
+        "iconImageUrl": "http://img60.ddimg.cn/upload_img/00782/h5/coupon-1537505152.png",
+        "iconLinkUrl": "http://z.dangdang.com/coupon_center.php"
+      }
+    ],
+    "promotions": [
+      {
+        "promotion_id": "6332756",
+        "promotion_type": "20",
+        "title": "12.26-12.31教辅每满79减30",
+        "start": "2019年12月26日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6332756",
+        "link_url": "promotelist://promote_id=6332756",
+        "quantity": "45092",
+        "name": "满额减",
+        "img_url": [
+          "http://img3m2.ddimg.cn/2/23/20998892-1_b_32.jpg",
+          "http://img3m3.ddimg.cn/20/24/25257593-1_b_8.jpg",
+          "http://img3m8.ddimg.cn/78/30/23472978-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6305098",
+        "promotion_type": "206",
+        "title": "12月49元5件",
+        "start": "2019年12月1日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6305098",
+        "link_url": "promotelist://promote_id=6305098",
+        "quantity": "10373",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m1.ddimg.cn/23/34/25340261-1_b_2.jpg",
+          "http://img3m6.ddimg.cn/4/11/25536856-1_b_3.jpg",
+          "http://img3m8.ddimg.cn/13/30/24188188-1_b_3.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6332873",
+        "promotion_type": "20",
+        "title": "电子书好书榜每满20减8",
+        "start": "2019年12月23日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6332873",
+        "link_url": "promotelist://promote_id=6332873",
+        "quantity": "4314",
+        "name": "满额减",
+        "img_url": [
+          "http://img3m1.ddimg.cn/86/3/1901153021-1_b_2.jpg",
+          "http://img3m2.ddimg.cn/15/20/1901149782-1_b_1.jpg",
+          "http://img3m6.ddimg.cn/23/26/1901112566-1_b_3.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334342",
+        "promotion_type": "20",
+        "title": "12.26-12.31图书每满100减50",
+        "start": "2019年12月26日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6334342",
+        "link_url": "promotelist://promote_id=6334342",
+        "quantity": "3271",
+        "name": "满额减",
+        "img_url": [
+          "http://img3m2.ddimg.cn/62/32/25119332-1_b_9.jpg",
+          "http://img3m2.ddimg.cn/41/25/25090502-1_b_5.jpg",
+          "http://img3m6.ddimg.cn/83/20/25138856-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333066",
+        "promotion_type": "207",
+        "title": "森马超品返场",
+        "start": "2019年12月22日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6333066",
+        "link_url": "promotelist://promote_id=6333066",
+        "quantity": "2859",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m8.ddimg.cn/11/7/1110125918-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/52/22/1123623718-1_b_9.jpg",
+          "http://img3m5.ddimg.cn/48/23/1255097595-1_b_13.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333055",
+        "promotion_type": "206",
+        "title": "周末有一套 下单9.99元",
+        "start": "2019年12月20日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6333055",
+        "link_url": "promotelist://promote_id=6333055",
+        "quantity": "2235",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m5.ddimg.cn/96/24/1901152635-1_b_1.jpg",
+          "http://img3m1.ddimg.cn/52/2/1901093191-1_b_1.jpg",
+          "http://img3m3.ddimg.cn/17/24/1901168693-1_b_4.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335494",
+        "promotion_type": "207",
+        "title": "超品日1件4折",
+        "start": "2019年12月28日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6335494",
+        "link_url": "promotelist://promote_id=6335494",
+        "quantity": "1453",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/78/25/1300144209-1_b_1.jpg",
+          "http://img3m9.ddimg.cn/35/23/1438771589-1_b_2.jpg",
+          "http://img3m9.ddimg.cn/33/10/1297607289-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335301",
+        "promotion_type": "207",
+        "title": "12.28专区3件3折",
+        "start": "2019年12月28日",
+        "end": "2020年1月3日",
+        "url": "promotionProduct?collection_promo_id=6335301",
+        "link_url": "promotelist://promote_id=6335301",
+        "quantity": "1370",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m6.ddimg.cn/4/23/1516022446-1_b_2.jpg",
+          "http://img3m6.ddimg.cn/87/28/1515819876-1_b_1.jpg",
+          "http://img3m6.ddimg.cn/40/24/1522579846-1_b_3.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335099",
+        "promotion_type": "206",
+        "title": "99元任选5件",
+        "start": "2019年12月27日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6335099",
+        "link_url": "promotelist://promote_id=6335099",
+        "quantity": "1365",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m8.ddimg.cn/1/1/1104171058-1_b_9.jpg",
+          "http://img3m7.ddimg.cn/92/7/1236273977-1_b_16.jpg",
+          "http://img3m8.ddimg.cn/52/15/1175683858-1_b_4.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334362",
+        "promotion_type": "207",
+        "title": "3件3折",
+        "start": "2019年12月24日",
+        "end": "2020年1月15日",
+        "url": "promotionProduct?collection_promo_id=6334362",
+        "link_url": "promotelist://promote_id=6334362",
+        "quantity": "1112",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/34/31/1420298089-1_b_2.jpg",
+          "http://img3m9.ddimg.cn/24/9/1533766929-1_b_2.jpg",
+          "http://img3m9.ddimg.cn/31/32/1300537489-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333057",
+        "promotion_type": "206",
+        "title": "周末有一套 下单19.99元",
+        "start": "2019年12月20日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6333057",
+        "link_url": "promotelist://promote_id=6333057",
+        "quantity": "811",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m2.ddimg.cn/88/33/1901128372-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/4/6/1901178184-1_b_1.jpg",
+          "http://img3m6.ddimg.cn/87/20/1901172426-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334084",
+        "promotion_type": "207",
+        "title": "3件3折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334084",
+        "link_url": "promotelist://promote_id=6334084",
+        "quantity": "589",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m3.ddimg.cn/25/6/1532765743-1_b_1.jpg",
+          "http://img3m8.ddimg.cn/45/14/1238634288-1_b_1.jpg",
+          "http://img3m3.ddimg.cn/85/20/1528884013-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335209",
+        "promotion_type": "207",
+        "title": "韩都衣舍 2件2折",
+        "start": "2019年12月28日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6335209",
+        "link_url": "promotelist://promote_id=6335209",
+        "quantity": "535",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/72/10/1522313469-1_b_2.jpg",
+          "http://img3m9.ddimg.cn/69/21/1509808479-1_b_3.jpg",
+          "http://img3m9.ddimg.cn/17/31/1533328649-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335568",
+        "promotion_type": "206",
+        "title": "99元任选15件/69元任选9件",
+        "start": "2019年12月28日",
+        "end": "2020年2月7日",
+        "url": "promotionProduct?collection_promo_id=6335568",
+        "link_url": "promotelist://promote_id=6335568",
+        "quantity": "504",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m4.ddimg.cn/52/2/1286262304-1_b_2.jpg",
+          "http://img3m4.ddimg.cn/52/7/1285915804-1_b_4.jpg",
+          "http://img3m0.ddimg.cn/63/22/1501920450-1_b_6.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334188",
+        "promotion_type": "207",
+        "title": "12.24专区2件5折",
+        "start": "2019年12月24日",
+        "end": "2020年1月3日",
+        "url": "promotionProduct?collection_promo_id=6334188",
+        "link_url": "promotelist://promote_id=6334188",
+        "quantity": "424",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/65/0/1086400919-1_b_2.jpg",
+          "http://img3m6.ddimg.cn/34/25/1516021486-1_b_1.jpg",
+          "http://img3m6.ddimg.cn/27/26/1514913966-1_b_3.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335493",
+        "promotion_type": "207",
+        "title": "超品日1件3折",
+        "start": "2019年12月28日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6335493",
+        "link_url": "promotelist://promote_id=6335493",
+        "quantity": "416",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/72/13/1442032389-1_b_1.jpg",
+          "http://img3m9.ddimg.cn/62/35/1431279989-1_b_1.jpg",
+          "http://img3m9.ddimg.cn/16/26/1111287589-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334427",
+        "promotion_type": "207",
+        "title": "铅笔童装3件2折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334427",
+        "link_url": "promotelist://promote_id=6334427",
+        "quantity": "382",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/45/5/1520235729-1_b_2.jpg",
+          "http://img3m9.ddimg.cn/71/24/1520310599-1_b_3.jpg",
+          "http://img3m9.ddimg.cn/80/12/1518348329-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333069",
+        "promotion_type": "207",
+        "title": "森马超品返场1件4.5折",
+        "start": "2019年12月22日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6333069",
+        "link_url": "promotelist://promote_id=6333069",
+        "quantity": "333",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m4.ddimg.cn/27/16/1523687544-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/94/6/1073159698-1_b_12.jpg",
+          "http://img3m8.ddimg.cn/18/10/1082238318-1_b_9.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335412",
+        "promotion_type": "207",
+        "title": "28返场",
+        "start": "2019年12月28日",
+        "end": "2019年12月29日",
+        "url": "promotionProduct?collection_promo_id=6335412",
+        "link_url": "promotelist://promote_id=6335412",
+        "quantity": "302",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m7.ddimg.cn/81/34/1441504827-1_b_5.jpg",
+          "http://img3m9.ddimg.cn/15/18/1488025059-1_b_13.jpg",
+          "http://img3m4.ddimg.cn/7/27/1537876204-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334305",
+        "promotion_type": "207",
+        "title": "12.25-1.2年货节3件3折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334305",
+        "link_url": "promotelist://promote_id=6334305",
+        "quantity": "259",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m8.ddimg.cn/74/24/1205214788-1_b_1.jpg",
+          "http://img3m8.ddimg.cn/33/17/1205448288-1_b_1.jpg",
+          "http://img3m1.ddimg.cn/98/31/1337685821-1_b_3.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334967",
+        "promotion_type": "207",
+        "title": "太平鸟2件25折",
+        "start": "2019年12月27日",
+        "end": "2019年12月29日",
+        "url": "promotionProduct?collection_promo_id=6334967",
+        "link_url": "promotelist://promote_id=6334967",
+        "quantity": "251",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m0.ddimg.cn/7/8/1538467630-1_b_1.jpg",
+          "http://img3m0.ddimg.cn/81/10/1537567200-1_b_1.jpg",
+          "http://img3m0.ddimg.cn/92/35/1542358910-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335204",
+        "promotion_type": "207",
+        "title": "gxg 2件25折",
+        "start": "2019年12月28日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6335204",
+        "link_url": "promotelist://promote_id=6335204",
+        "quantity": "228",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m8.ddimg.cn/82/1/1090125118-1_b_1.jpg",
+          "http://img3m8.ddimg.cn/64/2/1236376018-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/37/36/1093793518-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335088",
+        "promotion_type": "207",
+        "title": "达芙妮集团年终清仓，限时2件2折",
+        "start": "2019年12月28日",
+        "end": "2020年1月1日",
+        "url": "promotionProduct?collection_promo_id=6335088",
+        "link_url": "promotelist://promote_id=6335088",
+        "quantity": "221",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m2.ddimg.cn/84/2/1530062112-1_b_2.jpg",
+          "http://img3m2.ddimg.cn/92/14/1530055982-1_b_1.jpg",
+          "http://img3m2.ddimg.cn/10/13/1530061642-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333498",
+        "promotion_type": "206",
+        "title": "49元任选5件",
+        "start": "2019年12月21日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6333498",
+        "link_url": "promotelist://promote_id=6333498",
+        "quantity": "214",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m2.ddimg.cn/92/33/1554600062-1_b_2.jpg",
+          "http://img3m2.ddimg.cn/60/19/1521902112-1_b_1.jpg",
+          "http://img3m2.ddimg.cn/97/24/1339398322-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6332641",
+        "promotion_type": "207",
+        "title": "binpaw2件1.5折",
+        "start": "2019年12月20日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6332641",
+        "link_url": "promotelist://promote_id=6332641",
+        "quantity": "212",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m5.ddimg.cn/79/9/1511010745-1_b_1.jpg",
+          "http://img3m5.ddimg.cn/93/36/1517223405-1_b_1.jpg",
+          "http://img3m5.ddimg.cn/45/24/1502552745-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6326182",
+        "promotion_type": "207",
+        "title": "时代华语折上7折",
+        "start": "2019年12月23日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6326182",
+        "link_url": "promotelist://promote_id=6326182",
+        "quantity": "206",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/44/23/23415029-1_b_3.jpg",
+          "http://img3m2.ddimg.cn/81/29/23629302-1_b_1.jpg",
+          "http://img3m8.ddimg.cn/93/36/24224898-1_b_13.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334049",
+        "promotion_type": "207",
+        "title": "3件3折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334049",
+        "link_url": "promotelist://promote_id=6334049",
+        "quantity": "180",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/34/1/1312999909-1_b_5.jpg",
+          "http://img3m9.ddimg.cn/45/26/1519879329-1_b_1.jpg",
+          "http://img3m9.ddimg.cn/91/29/1290324709-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333872",
+        "promotion_type": "207",
+        "title": "太平鸟 3件2折",
+        "start": "2019年12月23日",
+        "end": "2020年1月10日",
+        "url": "promotionProduct?collection_promo_id=6333872",
+        "link_url": "promotelist://promote_id=6333872",
+        "quantity": "175",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m4.ddimg.cn/18/25/1099228104-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/18/27/1101653604-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/27/7/1100941704-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335227",
+        "promotion_type": "207",
+        "title": "罗蒙 2件25",
+        "start": "2019年12月28日",
+        "end": "2020年1月1日",
+        "url": "promotionProduct?collection_promo_id=6335227",
+        "link_url": "promotelist://promote_id=6335227",
+        "quantity": "174",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m9.ddimg.cn/46/27/1513589959-1_b_2.jpg",
+          "http://img3m9.ddimg.cn/7/29/1543030639-1_b_1.jpg",
+          "http://img3m9.ddimg.cn/81/27/1403799489-1_b_5.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334492",
+        "promotion_type": "207",
+        "title": "探路者童装2件2.5折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334492",
+        "link_url": "promotelist://promote_id=6334492",
+        "quantity": "166",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m4.ddimg.cn/12/19/1242568614-1_b_3.jpg",
+          "http://img3m4.ddimg.cn/41/19/1242809114-1_b_2.jpg",
+          "http://img3m4.ddimg.cn/74/11/1242753014-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334140",
+        "promotion_type": "206",
+        "title": "限时99元3双",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334140",
+        "link_url": "promotelist://promote_id=6334140",
+        "quantity": "159",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m1.ddimg.cn/29/36/1512495101-1_b_1.jpg",
+          "http://img3m1.ddimg.cn/7/7/1509368461-1_b_1.jpg",
+          "http://img3m1.ddimg.cn/8/18/1517331131-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6332411",
+        "promotion_type": "207",
+        "title": "唐狮 2件2.5折",
+        "start": "2019年12月18日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6332411",
+        "link_url": "promotelist://promote_id=6332411",
+        "quantity": "142",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m7.ddimg.cn/20/33/1507848527-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/62/30/1244099204-1_b_1.jpg",
+          "http://img3m7.ddimg.cn/35/26/1502395127-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334592",
+        "promotion_type": "207",
+        "title": "限时1件3折",
+        "start": "2019年12月25日",
+        "end": "2020年1月3日",
+        "url": "promotionProduct?collection_promo_id=6334592",
+        "link_url": "promotelist://promote_id=6334592",
+        "quantity": "126",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m8.ddimg.cn/49/12/1531474708-1_b_1.jpg",
+          "http://img3m0.ddimg.cn/45/32/1375643160-1_b_7.jpg",
+          "http://img3m8.ddimg.cn/88/2/1525628698-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6305095",
+        "promotion_type": "206",
+        "title": "12月99元5件",
+        "start": "2019年12月1日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6305095",
+        "link_url": "promotelist://promote_id=6305095",
+        "quantity": "125",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m8.ddimg.cn/66/6/25198338-1_b_2.jpg",
+          "http://img3m6.ddimg.cn/14/25/23831096-1_b_24.jpg",
+          "http://img3m3.ddimg.cn/51/18/25122093-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334142",
+        "promotion_type": "206",
+        "title": "限时99元2双",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334142",
+        "link_url": "promotelist://promote_id=6334142",
+        "quantity": "114",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m0.ddimg.cn/96/3/1460721930-1_b_1.jpg",
+          "http://img3m0.ddimg.cn/52/16/1460757130-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/72/24/1251801414-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334308",
+        "promotion_type": "207",
+        "title": "12.25-1.2年货节满2件4折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334308",
+        "link_url": "promotelist://promote_id=6334308",
+        "quantity": "114",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m3.ddimg.cn/96/32/1508679213-1_b_2.jpg",
+          "http://img3m3.ddimg.cn/33/26/1508688753-1_b_2.jpg",
+          "http://img3m3.ddimg.cn/74/2/1508662163-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334262",
+        "promotion_type": "207",
+        "title": "MQD年货节专区2件3.5折",
+        "start": "2019年12月25日",
+        "end": "2019年12月29日",
+        "url": "promotionProduct?collection_promo_id=6334262",
+        "link_url": "promotelist://promote_id=6334262",
+        "quantity": "112",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m2.ddimg.cn/45/4/1538294022-1_b_2.jpg",
+          "http://img3m2.ddimg.cn/27/1/1538228862-1_b_2.jpg",
+          "http://img3m2.ddimg.cn/76/14/1538221882-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335489",
+        "promotion_type": "207",
+        "title": "美妆双旦1件3折",
+        "start": "2019年12月28日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6335489",
+        "link_url": "promotelist://promote_id=6335489",
+        "quantity": "109",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m8.ddimg.cn/49/20/1159565368-1_b_3.jpg",
+          "http://img3m8.ddimg.cn/82/8/1120592368-1_b_1.jpg",
+          "http://img3m8.ddimg.cn/68/2/1176367568-1_b_8.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334135",
+        "promotion_type": "207",
+        "title": "2件3折",
+        "start": "2019年12月24日",
+        "end": "2020年1月3日",
+        "url": "promotionProduct?collection_promo_id=6334135",
+        "link_url": "promotelist://promote_id=6334135",
+        "quantity": "107",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m1.ddimg.cn/49/27/1252343911-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/33/5/1418770518-1_b_2.jpg",
+          "http://img3m4.ddimg.cn/35/23/1531317284-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334298",
+        "promotion_type": "207",
+        "title": "2件3折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334298",
+        "link_url": "promotelist://promote_id=6334298",
+        "quantity": "106",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m5.ddimg.cn/55/26/1503253675-1_b_1.jpg",
+          "http://img3m5.ddimg.cn/30/15/1528821885-1_b_1.jpg",
+          "http://img3m6.ddimg.cn/0/1/1426566636-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334150",
+        "promotion_type": "207",
+        "title": "限时2件3折/1件3.5折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334150",
+        "link_url": "promotelist://promote_id=6334150",
+        "quantity": "103",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m1.ddimg.cn/33/6/1506909921-1_b_1.jpg",
+          "http://img3m1.ddimg.cn/93/6/1502862861-1_b_1.jpg",
+          "http://img3m1.ddimg.cn/17/2/1510481231-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334086",
+        "promotion_type": "207",
+        "title": "2件45折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334086",
+        "link_url": "promotelist://promote_id=6334086",
+        "quantity": "93",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m0.ddimg.cn/88/1/1339595620-1_b_2.jpg",
+          "http://img3m6.ddimg.cn/45/21/1211028336-1_b_2.jpg",
+          "http://img3m3.ddimg.cn/79/9/1523413663-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334504",
+        "promotion_type": "206",
+        "title": "99元16 88元14",
+        "start": "2019年12月24日",
+        "end": "2020年1月3日",
+        "url": "promotionProduct?collection_promo_id=6334504",
+        "link_url": "promotelist://promote_id=6334504",
+        "quantity": "92",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m8.ddimg.cn/52/17/1537925848-1_b_3.jpg",
+          "http://img3m5.ddimg.cn/2/34/1409579525-1_b_4.jpg",
+          "http://img3m6.ddimg.cn/88/26/1323181816-1_b_5.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334312",
+        "promotion_type": "207",
+        "title": "巴帝巴帝童装3件2折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334312",
+        "link_url": "promotelist://promote_id=6334312",
+        "quantity": "92",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m8.ddimg.cn/69/20/1534943688-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/8/35/1534281218-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/74/32/1519202198-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335573",
+        "promotion_type": "207",
+        "title": "28-30",
+        "start": "2019年12月28日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6335573",
+        "link_url": "promotelist://promote_id=6335573",
+        "quantity": "90",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m3.ddimg.cn/48/22/1273064313-1_b_3.jpg",
+          "http://img3m2.ddimg.cn/32/36/1537230452-1_b_1.jpg",
+          "http://img3m3.ddimg.cn/7/4/1273327513-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334050",
+        "promotion_type": "206",
+        "title": "99元2双-童鞋保暖季",
+        "start": "2019年12月25日",
+        "end": "2019年12月31日",
+        "url": "promotionProduct?collection_promo_id=6334050",
+        "link_url": "promotelist://promote_id=6334050",
+        "quantity": "86",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m9.ddimg.cn/8/20/1431866609-1_b_1.jpg",
+          "http://img3m9.ddimg.cn/85/25/1431805009-1_b_1.jpg",
+          "http://img3m2.ddimg.cn/52/18/1548581812-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6333731",
+        "promotion_type": "206",
+        "title": "99元3件 限时抢购",
+        "start": "2019年12月22日",
+        "end": "2019年12月30日",
+        "url": "promotionProduct?collection_promo_id=6333731",
+        "link_url": "promotelist://promote_id=6333731",
+        "quantity": "81",
+        "name": "N元场",
+        "img_url": [
+          "http://img3m5.ddimg.cn/75/28/1514354565-1_b_1.jpg",
+          "http://img3m5.ddimg.cn/81/34/1502552385-1_b_1.jpg",
+          "http://img3m5.ddimg.cn/9/31/1426173615-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6335387",
+        "promotion_type": "207",
+        "title": "2件3折",
+        "start": "2019年12月28日",
+        "end": "2020年1月15日",
+        "url": "promotionProduct?collection_promo_id=6335387",
+        "link_url": "promotelist://promote_id=6335387",
+        "quantity": "79",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m6.ddimg.cn/9/9/1360837476-1_b_3.jpg",
+          "http://img3m6.ddimg.cn/57/29/1366455576-1_b_2.jpg",
+          "http://img3m7.ddimg.cn/3/7/1148688687-1_b_2.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334425",
+        "promotion_type": "207",
+        "title": "小虎宝儿童装2件2.5折",
+        "start": "2019年12月25日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334425",
+        "link_url": "promotelist://promote_id=6334425",
+        "quantity": "79",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m6.ddimg.cn/56/2/1162422416-1_b_2.jpg",
+          "http://img3m8.ddimg.cn/43/35/1530681118-1_b_1.jpg",
+          "http://img3m8.ddimg.cn/87/25/1520914218-1_b_1.jpg"
+        ]
+      },
+      {
+        "promotion_id": "6334310",
+        "promotion_type": "207",
+        "title": "马拉丁童装2件2.5折",
+        "start": "2019年12月24日",
+        "end": "2020年1月2日",
+        "url": "promotionProduct?collection_promo_id=6334310",
+        "link_url": "promotelist://promote_id=6334310",
+        "quantity": "77",
+        "name": "满N件折",
+        "img_url": [
+          "http://img3m4.ddimg.cn/33/21/1539866724-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/43/9/1542307084-1_b_1.jpg",
+          "http://img3m4.ddimg.cn/0/4/1524585744-1_b_1.jpg"
+        ]
+      }
+    ],
+    "shops": [
+      {
+        "id": 0,
+        "content": [
+          {
+            "navType": 0,
+            "navName": "即刻秒杀",
+            "navSubName": "12.26-12.31教辅每满79减30",
+            "linkUrl": "http://touch.m.dangdang.com/seckill.php",
+            "titleImg": "http://z.dangdang.com/static/img/seckill-title.925eac7.png",
+            "backgroundImgUrl": "http://z.dangdang.com/static/img/9.9-background.d4afbba.png",
+            "linkWord": "查看更多",
+            "endDate": "2019-12-29 23:59:59",
+            "infos": [
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1564052189,
+                "productName": "新款单肩包时尚韩版潮流斜挎包少女森系随身装小包0906-A1",
+                "productImageUrl": "https://img3x9.ddimg.cn/95/29/1564052189-1_h.jpg",
+                "originPrice": "159.00",
+                "salePrice": "1.00",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 0,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1511484458,
+                "productName": "领券成交价68元】6册活着 皮囊 浮生六记 人间失格 月亮与六便士 罗生门 月亮和六便士毛姆沈复太宰治余华的书籍作品原著文学小说经典畅销书排行榜",
+                "productImageUrl": "https://img3x8.ddimg.cn/77/11/1511484458-1_h.jpg",
+                "originPrice": "657.80",
+                "salePrice": "268",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 1,
+                "commentCount": 99,
+                "averageScore": 4.59,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "endDate": "2019-12-29 23:59:59",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "123608",
+                    "couponValue": 200,
+                    "couponMinUseValue": 268,
+                    "couponStartDate": "2019-12-09 00:00:00",
+                    "couponEndDate": "2020-01-08 23:58:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575343929602",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "124196",
+                    "couponValue": 200,
+                    "couponMinUseValue": 268,
+                    "couponStartDate": "2019-12-03 20:50:00",
+                    "couponEndDate": "2020-01-02 23:58:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575376524035",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "125444",
+                    "couponValue": 230,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-09 11:10:00",
+                    "couponEndDate": "2020-01-08 23:58:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575860775692",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "126396",
+                    "couponValue": 230,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-14 13:20:00",
+                    "couponEndDate": "2020-01-14 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576299562123",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1569522902,
+                "productName": "【今日必抢】2020早春新款潮上衣女减龄破洞学生打底衫长袖T恤女7291",
+                "productImageUrl": "https://img3x2.ddimg.cn/68/33/1569522902-1_h.jpg",
+                "originPrice": "133.00",
+                "salePrice": "29.9",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 1,
+                "commentCount": 27,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "endDate": "2019-12-29 23:59:59",
+                "couponModel": [
+                  {
+                    "couponApplyId": "129103",
+                    "couponValue": 11.7,
+                    "couponMinUseValue": 89,
+                    "couponStartDate": "2019-12-28 22:08:00",
+                    "couponEndDate": "2019-12-30 01:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577541690078",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "129105",
+                    "couponValue": 20.6,
+                    "couponMinUseValue": 119,
+                    "couponStartDate": "2019-12-28 22:13:00",
+                    "couponEndDate": "2019-12-30 01:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577541806755",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "129102",
+                    "couponValue": 3.8,
+                    "couponMinUseValue": 59,
+                    "couponStartDate": "2019-12-28 22:06:00",
+                    "couponEndDate": "2019-12-30 01:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577541581531",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1412154925,
+                "productName": "【买一送一 到手2斤】洽洽盐焗南瓜子500g 恰恰好南仁南瓜子小吃盐焗味南瓜籽办公零食",
+                "productImageUrl": "https://img3x5.ddimg.cn/16/12/1412154925-1_h.jpg",
+                "originPrice": "99.00",
+                "salePrice": "29.90",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 0,
+                "commentCount": 56,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 27949476,
+                "productName": "华为崛起（深度解读华为从中国走向世界的崛起之路）（团购，请致电010-57993149）",
+                "productImageUrl": "https://img3x6.ddimg.cn/93/9/27949476-1_h.jpg",
+                "originPrice": "56.00",
+                "salePrice": "21.84",
+                "promotionTag": "秒杀|加价购|电子书加价购",
+                "promotionName": "12月29日秒杀16点场\t",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 2632,
+                "averageScore": 4.77,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1418803189,
+                "productName": "【秒杀价：149】笛莎童装女童羽绒服冬装新款中大童儿童爱心连帽中长款羽绒服",
+                "productImageUrl": "https://img3x9.ddimg.cn/34/5/1418803189-1_h.jpg",
+                "originPrice": "1169.00",
+                "salePrice": "149.00",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 0,
+                "commentCount": 116,
+                "averageScore": 4.96,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 23825811,
+                "productName": "孩子，你是在为自己读书",
+                "productImageUrl": "https://img3x1.ddimg.cn/75/31/23825811-1_h.jpg",
+                "originPrice": "29.80",
+                "salePrice": "11.62",
+                "promotionTag": "秒杀|加价购|电子书加价购",
+                "promotionName": "12月29日秒杀16点场\t",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 18879,
+                "averageScore": 4.74,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1576056824,
+                "productName": "【必抢榜单】中长款仿水貂绒加厚毛衣女宽松外穿2019秋冬新款套头洋气针织衫",
+                "productImageUrl": "https://img3x4.ddimg.cn/89/14/1576056824-1_h.jpg",
+                "originPrice": "588.00",
+                "salePrice": "66.00",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 0,
+                "commentCount": 30,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1540827439,
+                "productName": "【狂欢甩卖！惊喜抢购价55.9包邮】马丁靴 女士拼接保暖加绒中筒袜靴2019秋冬女式英伦风圆头休闲平跟短靴子",
+                "productImageUrl": "https://img3x9.ddimg.cn/52/31/1540827439-1_h.jpg",
+                "originPrice": "699.00",
+                "salePrice": "55.90",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 0,
+                "commentCount": 101,
+                "averageScore": 4.97,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "endDate": "2019-12-29 23:59:59"
+              },
+              {
+                "mapType": "secondKillProduct",
+                "productId": 1514069727,
+                "productName": "喜朗谷斑婴儿湿巾5包新生手口专用湿巾宝宝幼儿湿纸巾家用整箱",
+                "productImageUrl": "https://img3x7.ddimg.cn/60/16/1514069727-1_h.jpg",
+                "originPrice": "89.00",
+                "salePrice": "11.10",
+                "promotionTag": "秒杀",
+                "promotionName": "12月29日秒杀16点场\t",
+                "isCoupon": 0,
+                "commentCount": 699,
+                "averageScore": 4.93,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "endDate": "2019-12-29 23:59:59"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FIRST_PRODUCT_1",
+                "productId": 23255678,
+                "productName": "DK儿童百科全书系列超值礼品套装（精装全5册）（2018年全新修订版）",
+                "productImageUrl": "https://img3x8.ddimg.cn/83/31/23255678-1_h.jpg",
+                "originPrice": "660.00",
+                "salePrice": "330.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 88864,
+                "averageScore": 4.85,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "3",
+                "num": "3",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FIRST_PRODUCT_1",
+                "productId": 25583206,
+                "productName": "哈利·波特（套装1-7册）《语文》教材推荐阅读书目，外国儿童文学经典，新英国版封面平装版",
+                "productImageUrl": "https://img3x6.ddimg.cn/22/0/25583206-1_h.jpg",
+                "originPrice": "438.00",
+                "salePrice": "328.50",
+                "promotionTag": "加价购|电子书加价购",
+                "promotionName": "童书加价购",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 211258,
+                "averageScore": 4.6,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "3",
+                "num": "9",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FIRST_PRODUCT_1",
+                "productId": 25210667,
+                "productName": "汉声中国童话（全12册）（精美礼盒装，享誉世界的经典童话  代代相传的文化瑰宝）",
+                "productImageUrl": "https://img3x7.ddimg.cn/20/14/25210667-1_h.jpg",
+                "originPrice": "936.00",
+                "salePrice": "343.20",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 18251,
+                "averageScore": 4.57,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "3",
+                "num": "10",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FIRST_PRODUCT_1",
+                "productId": 25259302,
+                "productName": "银火箭少年科幻系列 （8册。亚洲首位“雨果奖”得主刘慈欣主编，根据《流浪地球》改编的电影大年初一上映。套装内图书获银河奖特等奖等多项国际大奖，全球销量超500万册）",
+                "productImageUrl": "https://img3x2.ddimg.cn/46/31/25259302-1_h.jpg",
+                "originPrice": "256.00",
+                "salePrice": "128.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 330094,
+                "averageScore": 4.95,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "3",
+                "num": "11",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "content": [
+          {
+            "navType": 2,
+            "navName": "9.9包邮",
+            "linkUrl": "http://z.dangdang.com/optimize/npn",
+            "titleImg": "http://z.dangdang.com/static/img/9.9-title.20aeda0.png",
+            "backgroundImgUrl": "http://z.dangdang.com/static/img/seckill-background.ee9a98f.png",
+            "linkWord": "查看更多",
+            "infos": [
+              {
+                "mapType": "ninenineProduct",
+                "productId": 1057462598,
+                "productName": "泰蜜熊百变环保无异味桌面化妆洗漱收纳盒",
+                "productImageUrl": "https://img3x8.ddimg.cn/38/8/1057462598-1_h.jpg",
+                "originPrice": "75.00",
+                "salePrice": "9.90",
+                "promotionTag": "限购",
+                "promotionName": "限时抢",
+                "isCoupon": 0,
+                "commentCount": 2145,
+                "averageScore": 4.57,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1"
+              },
+              {
+                "mapType": "ninenineProduct",
+                "productId": 1086147399,
+                "productName": "【旧书二手书8成新】三毛全集 滚滚红尘 三毛 北京十月文艺出版社9787530211021【正版现货速发】",
+                "productImageUrl": "https://img3x9.ddimg.cn/84/4/1086147399-1_h.jpg",
+                "originPrice": "22.00",
+                "salePrice": "9.90",
+                "isCoupon": 0,
+                "commentCount": 35,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "ninenineProduct",
+                "productId": 1109370398,
+                "productName": "泰蜜熊新年红包烫金硬纸大红包30个装（可备注需要什么文字的红包）",
+                "productImageUrl": "https://img3x8.ddimg.cn/59/27/1109370398-1_h.jpg",
+                "originPrice": "69.00",
+                "salePrice": "9.90",
+                "promotionTag": "限购",
+                "promotionName": "限时抢",
+                "isCoupon": 0,
+                "commentCount": 156,
+                "averageScore": 4.91,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1"
+              },
+              {
+                "mapType": "ninenineProduct",
+                "productId": 1132294198,
+                "productName": "索尔诺裤架加固铁艺裤挂S形多功能魔术裤夹裤子衣架衣柜收纳单支装1",
+                "productImageUrl": "https://img3x8.ddimg.cn/13/33/1132294198-1_h.jpg",
+                "originPrice": "109.00",
+                "salePrice": "8.90",
+                "promotionTag": "满N件折",
+                "promotionName": "2件88折",
+                "isCoupon": 0,
+                "commentCount": 70,
+                "averageScore": 4.91,
+                "memberNum": 0,
+                "saleNum": 0,
+                "cheapWord": "7.12",
+                "isCatalogProduct": "0"
+              },
+              {
+                "mapType": "ninenineProduct",
+                "productId": 1192931798,
+                "productName": "泰蜜熊一体成型PVC防滑厚底耐磨舒适卡通情侣款夏季凉拖鞋浴室防滑拖鞋酒店宾馆洗澡拖鞋",
+                "productImageUrl": "https://img3x8.ddimg.cn/14/35/1192931798-1_h.jpg",
+                "originPrice": "89.00",
+                "salePrice": "20.00",
+                "isCoupon": 0,
+                "commentCount": 1551,
+                "averageScore": 4.9,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1"
+              },
+              {
+                "mapType": "ninenineProduct",
+                "productId": 1220605041,
+                "productName": "百露 多功能魔术裤架 铁艺S型多层防滑裤架 衣架衣柜收纳裤挂裤夹",
+                "productImageUrl": "https://img3x1.ddimg.cn/84/16/1220605041-1_h.jpg",
+                "originPrice": "25.00",
+                "salePrice": "7.00",
+                "promotionTag": "限购",
+                "promotionName": "不参加活动的",
+                "isCoupon": 0,
+                "commentCount": 165,
+                "averageScore": 4.98,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_SECOND_PRODUCT_2",
+                "productId": 1083331798,
+                "productName": "【领券满300减215】【三只松鼠_碧根果120g】坚果炒货核桃长寿果",
+                "productImageUrl": "https://img3x8.ddimg.cn/43/29/1083331798-1_h.jpg",
+                "originPrice": "45.00",
+                "salePrice": "34.90",
+                "promotionTag": "限量购",
+                "promotionName": "12.30限购",
+                "isCoupon": 1,
+                "commentCount": 143342,
+                "averageScore": 4.4,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "type": "2",
+                "num": "26621",
+                "couponModel": [
+                  {
+                    "couponApplyId": "127212",
+                    "couponValue": 200,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652715270",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "127213",
+                    "couponValue": 129,
+                    "couponMinUseValue": 199,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652841591",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "125242",
+                    "couponValue": 5,
+                    "couponMinUseValue": 78,
+                    "couponStartDate": "2019-12-07 11:10:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "三只松鼠旗舰店",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575687395854",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_SECOND_PRODUCT_2",
+                "productId": 1083349498,
+                "productName": "【领券满300减215】【三只松鼠_开心果100g】坚果炒货原味无漂白",
+                "productImageUrl": "https://img3x8.ddimg.cn/22/6/1083349498-1_h.jpg",
+                "originPrice": "56.00",
+                "salePrice": "44.90",
+                "promotionTag": "限量购",
+                "promotionName": "12.30限购",
+                "isCoupon": 1,
+                "commentCount": 136598,
+                "averageScore": 4.57,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "type": "2",
+                "num": "21162",
+                "couponModel": [
+                  {
+                    "couponApplyId": "127212",
+                    "couponValue": 200,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652715270",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "127213",
+                    "couponValue": 129,
+                    "couponMinUseValue": 199,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652841591",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "125242",
+                    "couponValue": 5,
+                    "couponMinUseValue": 78,
+                    "couponStartDate": "2019-12-07 11:10:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "三只松鼠旗舰店",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575687395854",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_SECOND_PRODUCT_2",
+                "productId": 1199515298,
+                "productName": "【领券满300减215】【三只松鼠_夏威夷果160g】坚果炒货干果奶油味",
+                "productImageUrl": "https://img3x8.ddimg.cn/14/14/1199515298-1_h.jpg",
+                "originPrice": "67.90",
+                "salePrice": "43.90",
+                "promotionTag": "限量购",
+                "promotionName": "12.30限购",
+                "isCoupon": 1,
+                "commentCount": 65856,
+                "averageScore": 4.68,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "type": "2",
+                "num": "19503",
+                "couponModel": [
+                  {
+                    "couponApplyId": "127212",
+                    "couponValue": 200,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652715270",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "127213",
+                    "couponValue": 129,
+                    "couponMinUseValue": 199,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652841591",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "125242",
+                    "couponValue": 5,
+                    "couponMinUseValue": 78,
+                    "couponStartDate": "2019-12-07 11:10:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "三只松鼠旗舰店",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575687395854",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_SECOND_PRODUCT_2",
+                "productId": 1083375998,
+                "productName": "【领券满300减215】【三只松鼠_猪肉脯100g】靖江风味猪肉干",
+                "productImageUrl": "https://img3x8.ddimg.cn/89/14/1083375998-1_h.jpg",
+                "originPrice": "36.30",
+                "salePrice": "32.90",
+                "promotionTag": "限量购",
+                "promotionName": "12.30限购",
+                "isCoupon": 1,
+                "commentCount": 84139,
+                "averageScore": 4.71,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "type": "2",
+                "num": "18588",
+                "couponModel": [
+                  {
+                    "couponApplyId": "127212",
+                    "couponValue": 200,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652715270",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "127213",
+                    "couponValue": 129,
+                    "couponMinUseValue": 199,
+                    "couponStartDate": "2019-12-19 00:00:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1576652841591",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "125242",
+                    "couponValue": 5,
+                    "couponMinUseValue": 78,
+                    "couponStartDate": "2019-12-07 11:10:00",
+                    "couponEndDate": "2019-12-30 00:00:00",
+                    "couponUseScopeDesc": "三只松鼠旗舰店",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1575687395854",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "content": [
+          {
+            "navType": 3,
+            "navName": "拼团",
+            "linkUrl": "http://widgets.dangdang.com/pintuan/list/?cpath=&isshow=1&template=1",
+            "titleImg": "http://z.dangdang.com/static/img/pintuan-title.0c0d56e.png",
+            "backgroundImgUrl": "http://z.dangdang.com/static/img/pintuan-background.5ea2bd3.png",
+            "linkWord": "查看更多",
+            "infos": [
+              {
+                "mapType": "pinTuanProduct",
+                "productId": 27900853,
+                "productName": "快乐读书吧二年级上全套小鲤鱼跳龙门二年级注音版5册一只想飞的猫孤独的小螃蟹小狗的小房子小学生二年级课外书必读老师推荐",
+                "productImageUrl": "https://img3x3.ddimg.cn/79/4/27900853-1_h.jpg",
+                "originPrice": "60.00",
+                "salePrice": "48.00",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 24972,
+                "averageScore": 4.4,
+                "memberNum": 2,
+                "saleNum": 16053,
+                "ptPrice": 19.8,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              },
+              {
+                "mapType": "pinTuanProduct",
+                "productId": 27854383,
+                "productName": "一看就会的思维导图启蒙绘本（歪歪兔童书馆出品）",
+                "productImageUrl": "https://img3x3.ddimg.cn/40/6/27854383-1_h.jpg",
+                "originPrice": "128.00",
+                "salePrice": "64.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 65069,
+                "averageScore": 4.89,
+                "memberNum": 2,
+                "saleNum": 15042,
+                "ptPrice": 58.2,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              },
+              {
+                "mapType": "pinTuanProduct",
+                "productId": 25323113,
+                "productName": "皮特猫·3~6岁好性格养成书：共四辑（套装1~4辑）（乐观、自信、执著……荣获19项大奖的好性格榜样，在美国家喻户晓）",
+                "productImageUrl": "https://img3x3.ddimg.cn/2/17/25323113-1_h.jpg",
+                "originPrice": "559.60",
+                "salePrice": "279.80",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 162224,
+                "averageScore": 4.57,
+                "memberNum": 2,
+                "saleNum": 13144,
+                "ptPrice": 269.9,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              },
+              {
+                "mapType": "pinTuanProduct",
+                "productId": 25221741,
+                "productName": "上美老版经典故事连环画100种(当当独家定制,全100册）",
+                "productImageUrl": "https://img3x1.ddimg.cn/6/25/25221741-1_h.jpg",
+                "originPrice": "1280.00",
+                "salePrice": "576.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 3237,
+                "averageScore": 4.58,
+                "memberNum": 2,
+                "saleNum": 10799,
+                "ptPrice": 485,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "pinTuanProduct",
+                "productId": 25317902,
+                "productName": "法布尔昆虫记全10册 彩绘注音版（套装）",
+                "productImageUrl": "https://img3x2.ddimg.cn/38/23/25317902-1_h.jpg",
+                "originPrice": "158.00",
+                "salePrice": "42.10",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "11.1-12.31特惠",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 14602,
+                "averageScore": 4.66,
+                "memberNum": 2,
+                "saleNum": 10235,
+                "ptPrice": 37.9,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              },
+              {
+                "mapType": "pinTuanProduct",
+                "productId": 27931232,
+                "productName": "半小时漫画中国史1-4+世界史（共5册）（独家签章版）（看半小时漫画，通五千年历史！漫画式科普开创者二混子新作！）",
+                "productImageUrl": "https://img3x2.ddimg.cn/65/6/27931232-1_h.jpg",
+                "originPrice": "209.50",
+                "salePrice": "104.70",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 412472,
+                "averageScore": 4.72,
+                "memberNum": 2,
+                "saleNum": 8253,
+                "ptPrice": 99.9,
+                "isCatalogProduct": ""
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_THIRD_PRODUCT_3",
+                "productId": 23761145,
+                "productName": "人间失格（日本小说家太宰治的自传体小说，李现推荐）",
+                "productImageUrl": "https://img3x5.ddimg.cn/56/4/23761145-1_h.jpg",
+                "originPrice": "25.00",
+                "salePrice": "11.30",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 1593966,
+                "averageScore": 4.78,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "1",
+                "num": "582"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_THIRD_PRODUCT_3",
+                "productId": 25137790,
+                "productName": "活着（2017年新版）",
+                "productImageUrl": "https://img3x0.ddimg.cn/7/27/25137790-1_h.jpg",
+                "originPrice": "28.00",
+                "salePrice": "14.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 2521688,
+                "averageScore": 4.93,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "1",
+                "num": "406"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_THIRD_PRODUCT_3",
+                "productId": 25252408,
+                "productName": "神奇校车·图画书版（全12册，新增科学博览会1册）",
+                "productImageUrl": "https://img3x8.ddimg.cn/82/19/25252408-1_h.jpg",
+                "originPrice": "198.00",
+                "salePrice": "99.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 1227035,
+                "averageScore": 4.66,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "1",
+                "num": "394",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_THIRD_PRODUCT_3",
+                "productId": 23990140,
+                "productName": "正面管教(修订版)",
+                "productImageUrl": "https://img3x0.ddimg.cn/64/6/23990140-1_h.jpg",
+                "originPrice": "38.00",
+                "salePrice": "19.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 1093872,
+                "averageScore": 4.69,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "type": "1",
+                "num": "378"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "content": [
+          {
+            "navType": 4,
+            "navName": "今日促销",
+            "linkUrl": "http://z.dangdang.com/optimize/today_promote",
+            "titleImg": "http://z.dangdang.com/static/img/promote-title.69806b2.png",
+            "backgroundImgUrl": "http://z.dangdang.com/static/img/promote-background.b23d1c5.png",
+            "linkWord": "查看更多",
+            "infos": [
+              {
+                "mapType": "promotionProduct",
+                "productId": 25257593,
+                "productName": "乌丢丢的奇遇 曹文轩推荐儿童文学经典书系 33万多名读者热评！",
+                "productImageUrl": "https://img3x3.ddimg.cn/20/24/25257593-1_h.jpg",
+                "originPrice": "18.80",
+                "salePrice": "12.00",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 351429,
+                "averageScore": 4.69,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "promotionProduct",
+                "productId": 23472978,
+                "productName": "数学原来可以这样学（畅销日本300万册，小学生家长必备。让孩子爱上数学的神奇魔法书！随书赠送数学练习簿）",
+                "productImageUrl": "https://img3x8.ddimg.cn/78/30/23472978-1_h.jpg",
+                "originPrice": "32.80",
+                "salePrice": "23.90",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 179483,
+                "averageScore": 4.74,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              },
+              {
+                "mapType": "promotionProduct",
+                "productId": 23453874,
+                "productName": "福尔摩斯探案集（中小学新课标必读名著）130000多名读者热评！",
+                "productImageUrl": "https://img3x4.ddimg.cn/81/18/23453874-1_h.jpg",
+                "originPrice": "17.80",
+                "salePrice": "11.20",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 218167,
+                "averageScore": 4.85,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "promotionProduct",
+                "productId": 23435948,
+                "productName": "小学生必背古诗词75+80首 25万多读者好评，不同印次随机发货!",
+                "productImageUrl": "https://img3x8.ddimg.cn/74/0/23435948-1_h.jpg",
+                "originPrice": "28.00",
+                "salePrice": "22.40",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 256666,
+                "averageScore": 4.84,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "promotionProduct",
+                "productId": 22800646,
+                "productName": "假如给我三天光明（中小学语文新课标必读名著 ）420000多名读者热评！",
+                "productImageUrl": "https://img3x6.ddimg.cn/55/25/22800646-1_h.jpg",
+                "originPrice": "14.80",
+                "salePrice": "9.10",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 493819,
+                "averageScore": 4.77,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "promotionProduct",
+                "productId": 25100818,
+                "productName": "红星照耀中国（青少版）人民文学出版社",
+                "productImageUrl": "https://img3x8.ddimg.cn/61/18/25100818-1_h.jpg",
+                "originPrice": "33.00",
+                "salePrice": "24.75",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 397716,
+                "averageScore": 4.75,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FORTH_PRODUCT_4",
+                "productId": 1557914810,
+                "productName": "全店支持当当卡【当当自营】Huawei/华为 Mate30 (5G)麒麟990超感光徕卡三摄5G芯片智能手机mate 305g",
+                "productImageUrl": "https://img3x0.ddimg.cn/23/25/1557914810-1_h.jpg",
+                "originPrice": "6000.00",
+                "salePrice": "4499.00",
+                "promotionTag": "限购",
+                "promotionName": "限时抢",
+                "isCoupon": 0,
+                "commentCount": 33,
+                "averageScore": 4.88,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "type": "0",
+                "num": "1"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FORTH_PRODUCT_4",
+                "productId": 1557886030,
+                "productName": "全店支持当当卡【当当自营】Huawei/华为 Mate30 Pro (5G)麒麟990徕卡四摄5G芯片智能手机mate 30pro5g",
+                "productImageUrl": "https://img3x0.ddimg.cn/52/31/1557886030-1_h.jpg",
+                "originPrice": "8399.00",
+                "salePrice": "5999.00",
+                "promotionTag": "限购",
+                "promotionName": "限时抢",
+                "isCoupon": 0,
+                "commentCount": 21,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1",
+                "type": "0",
+                "num": "3"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FORTH_PRODUCT_4",
+                "productId": 61880028,
+                "productName": "当当优品 婴幼儿手口湿巾80抽家庭装",
+                "productImageUrl": "https://img3x8.ddimg.cn/78/7/61880028-1_h.jpg",
+                "originPrice": "119.00",
+                "salePrice": "19.00",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 17320,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "type": "0",
+                "num": "6"
+              }
+            ]
+          },
+          {
+            "navType": 1,
+            "navName": "榜单",
+            "linkUrl": "",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "KEY_FORTH_PRODUCT_4",
+                "productId": 1228264785,
+                "productName": "满减【良品铺子猪肉脯（原味）100g*1袋】猪肉铺猪肉干熟食肉类小吃零食休闲食品",
+                "productImageUrl": "https://img3x5.ddimg.cn/0/20/1228264785-1_h.jpg",
+                "originPrice": "99.00",
+                "salePrice": "28.90",
+                "promotionTag": "限量购",
+                "promotionName": "5件",
+                "isCoupon": 1,
+                "commentCount": 1202,
+                "averageScore": 4.99,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0",
+                "type": "0",
+                "num": "7",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128952",
+                    "couponValue": 129,
+                    "couponMinUseValue": 199,
+                    "couponStartDate": "2019-12-28 00:00:00",
+                    "couponEndDate": "2019-12-31 01:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577432949078",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128953",
+                    "couponValue": 188,
+                    "couponMinUseValue": 288,
+                    "couponStartDate": "2019-12-28 00:00:00",
+                    "couponEndDate": "2019-12-31 01:00:00",
+                    "couponUseScopeDesc": "指定商品",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577433046671",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Android-IPAD-Iphone-Touch-Mina-Swan-Toutiao-Alipay-Huawei-Qqminiapp",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "content": [
+          {
+            "navType": 5,
+            "navName": "为你推荐",
+            "linkUrl": "",
+            "titleImg": "",
+            "backgroundImgUrl": "http://z.dangdang.com/static/img/9.9-background.d4afbba.png",
+            "linkWord": "",
+            "infos": [
+              {
+                "mapType": "recommendProduct",
+                "productId": 25089801,
+                "productName": "云南野生牛肝菌营养与安全研究",
+                "productImageUrl": "https://img3x1.ddimg.cn/33/27/25089801-1_h.jpg",
+                "originPrice": "78.00",
+                "salePrice": "60.40",
+                "promotionTag": "电子书加价购",
+                "promotionName": "电子书加价购-默认促销",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 10,
+                "averageScore": 0,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 27882710,
+                "productName": "沈石溪十二生肖动物小说",
+                "productImageUrl": "https://img3x0.ddimg.cn/53/28/27882710-1_h.jpg",
+                "originPrice": "300.00",
+                "salePrice": "117.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 1,
+                "commentCount": 1257,
+                "averageScore": 4.94,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128577",
+                    "couponValue": 50,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-29 00:00:00",
+                    "couponEndDate": "2019-12-29 23:59:59",
+                    "couponUseScopeDesc": "童书",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577438899480",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 0
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1048313110,
+                "productName": "小企鹅心灵成长故事注音版(4册 新版）红鞋子 汤素兰童话注音版系列 小鼹鼠的土豆+袋鼠的袋袋里住了一窝鸟+小灰兔找朋友拼音读物一年级必读经典书目二三年级课外阅读必读书 明天出版社畅销儿童书籍",
+                "productImageUrl": "https://img3x0.ddimg.cn/31/28/1048313110-1_h.jpg",
+                "originPrice": "60.00",
+                "salePrice": "41.90",
+                "promotionTag": "限购",
+                "promotionName": "2",
+                "isCoupon": 1,
+                "commentCount": 2079,
+                "averageScore": 4.8,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 26483462,
+                "productName": "肉类加工工程师培养理论与实践",
+                "productImageUrl": "https://img3x2.ddimg.cn/71/9/26483462-1_h.jpg",
+                "originPrice": "69.00",
+                "salePrice": "54.50",
+                "promotionTag": "电子书加价购",
+                "promotionName": "电子书加价购-默认促销",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 3,
+                "averageScore": 0,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 22909544,
+                "productName": "服装裁剪疑难解答150例",
+                "productImageUrl": "https://img3x4.ddimg.cn/53/32/22909544-1_h.jpg",
+                "originPrice": "25.00",
+                "salePrice": "19.60",
+                "promotionTag": "电子书加价购",
+                "promotionName": "电子书加价购-默认促销",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 822,
+                "averageScore": 4.74,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1516257057,
+                "productName": "孔子家语 通解中华国学经典丛书套装文库 经典名著全本全注全译通解 记录孔子及孔门弟子思想言行 中华国学精粹书系 初中生小学生课外阅读书籍",
+                "productImageUrl": "https://img3x7.ddimg.cn/84/17/1516257057-1_h.jpg",
+                "originPrice": "49.82",
+                "salePrice": "12.00",
+                "promotionTag": "限购",
+                "promotionName": "跨年名店好书5折封顶",
+                "isCoupon": 1,
+                "commentCount": 2,
+                "averageScore": 0,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 20998892,
+                "productName": "最新小学生获奖作文1000篇 超43万读者热评 小学生作文书优秀分类小考满分作文素材书，一本搞定三四五六年级作文所有问题，让孩子轻松走出作文困境，波波乌作文",
+                "productImageUrl": "https://img3x2.ddimg.cn/2/23/20998892-1_h.jpg",
+                "originPrice": "38.00",
+                "salePrice": "26.20",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 451967,
+                "averageScore": 4.9,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "0"
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 25074240,
+                "productName": "宠物服装板样制图140例",
+                "productImageUrl": "https://img3x0.ddimg.cn/15/6/25074240-1_h.jpg",
+                "originPrice": "39.00",
+                "salePrice": "19.50",
+                "promotionTag": "限购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 558,
+                "averageScore": 4.45,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1176140367,
+                "productName": "黑猫警长+葫芦娃葫芦兄弟+阿凡提的故事注音版 绘本3 6岁 经典绘本 漫画书15册中国经典获奖童话故事书全集 畅销儿童绘本书3-6岁",
+                "productImageUrl": "https://img3x7.ddimg.cn/72/18/1176140367-1_h.jpg",
+                "originPrice": "132.00",
+                "salePrice": "57.90",
+                "promotionTag": "限购",
+                "promotionName": "跨年名店好书5折封顶",
+                "isCoupon": 1,
+                "commentCount": 643,
+                "averageScore": 4.93,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1176379967,
+                "productName": "小故事大道理全集注音版小学版全8册正版儿童文学经典名著小学生课外阅读经典书籍一年级必读经典书目二三年级课外阅读必读注音版儿童读物7-10岁老师推荐阅读适合1-2-3年级课外书",
+                "productImageUrl": "https://img3x7.ddimg.cn/92/6/1176379967-1_h.jpg",
+                "originPrice": "96.00",
+                "salePrice": "24.50",
+                "promotionTag": "限购",
+                "promotionName": "跨年名店好书5折封顶",
+                "isCoupon": 1,
+                "commentCount": 513,
+                "averageScore": 4.93,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1272911436,
+                "productName": "中华铅笔6610大皮头铅笔HB铅笔带橡皮头学生铅笔 20支装",
+                "productImageUrl": "https://img3x6.ddimg.cn/27/29/1272911436-1_h.jpg",
+                "originPrice": "19.80",
+                "salePrice": "12.50",
+                "isCoupon": 0,
+                "commentCount": 738,
+                "averageScore": 4.87,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "1"
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 25242297,
+                "productName": "三十六计（彩图注音版）小学生语文新课标必读丛书",
+                "productImageUrl": "https://img3x7.ddimg.cn/69/9/25242297-1_h.jpg",
+                "originPrice": "13.80",
+                "salePrice": "9.00",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 43824,
+                "averageScore": 4.78,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 22790517,
+                "productName": "走遍世界 图说天下 国家地理",
+                "productImageUrl": "https://img3x7.ddimg.cn/24/34/22790517-1_h.jpg",
+                "originPrice": "19.90",
+                "salePrice": "14.00",
+                "promotionTag": "N元场|加价购|电子书加价购",
+                "promotionName": "12月49元5件",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 15309,
+                "averageScore": 4.72,
+                "memberNum": 0,
+                "saleNum": 0,
+                "cheapWord": "9.80",
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 27870589,
+                "productName": "2019小学阅读全解 四年级 通用版",
+                "productImageUrl": "https://img3x9.ddimg.cn/10/6/27870589-1_h.jpg",
+                "originPrice": "30.80",
+                "salePrice": "29.60",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 1303,
+                "averageScore": 4.85,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1520414987,
+                "productName": "写给孩子的山海经童话绘本 巴蛇吞象 彩图注音版 异兽录 拼音读物一年级必读经典书目二三年级课外阅读必读书儿童故事书小学生课外阅读经典书籍123年级课外书必读明天出版社推荐",
+                "productImageUrl": "https://img3x7.ddimg.cn/14/35/1520414987-1_h.jpg",
+                "originPrice": "22.02",
+                "salePrice": "11.00",
+                "promotionTag": "限购",
+                "promotionName": "跨年名店好书5折封顶",
+                "isCoupon": 1,
+                "commentCount": 4,
+                "averageScore": 0,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 25198994,
+                "productName": "成语接龙（彩图注音版）小学生语文新课标必读丛书",
+                "productImageUrl": "https://img3x4.ddimg.cn/29/33/25198994-1_h.jpg",
+                "originPrice": "13.80",
+                "salePrice": "9.10",
+                "promotionTag": "满额减|加价购|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 49056,
+                "averageScore": 4.65,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 1518837992,
+                "productName": "现货速发 2019秋小学教材全解四年级语文上册RJ人教版小学教材全解4年级语文上RJ 课本同步解读辅导资料书薛金星同步讲解练习册",
+                "productImageUrl": "https://img3x2.ddimg.cn/89/17/1518837992-1_h.jpg",
+                "originPrice": "38.80",
+                "salePrice": "19.40",
+                "promotionTag": "限购",
+                "promotionName": "跨年名店好书5折封顶",
+                "isCoupon": 1,
+                "commentCount": 23,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": "",
+                "couponModel": [
+                  {
+                    "couponApplyId": "128571",
+                    "couponValue": 20,
+                    "couponMinUseValue": 200,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358611299",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128572",
+                    "couponValue": 30,
+                    "couponMinUseValue": 300,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358694141",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  },
+                  {
+                    "couponApplyId": "128569",
+                    "couponValue": 10,
+                    "couponMinUseValue": 99,
+                    "couponStartDate": "2019-12-27 00:00:00",
+                    "couponEndDate": "2020-01-02 23:59:59",
+                    "couponUseScopeDesc": "指定店铺",
+                    "couponH5Url": "",
+                    "activitySerialNum": "1577358543245",
+                    "activityDisplayPlatform": "2",
+                    "activityDisplayTerminal": "Toutiao-Qqminiapp-Touch-Mina-Alipay-Android-IPAD-Huawei-Swan-Iphone",
+                    "activitySupportPlatform": 1
+                  }
+                ]
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 27870578,
+                "productName": "2019秋 小学教材全练 四年级数学上 人教版(RJ版)",
+                "productImageUrl": "https://img3x8.ddimg.cn/98/32/27870578-1_h.jpg",
+                "originPrice": "32.80",
+                "salePrice": "31.50",
+                "promotionTag": "满额减|电子书加价购",
+                "promotionName": "12.26-12.31教辅每满79减30",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 1403,
+                "averageScore": 5,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 27859292,
+                "productName": "航海家的笔记本",
+                "productImageUrl": "https://img3x2.ddimg.cn/98/31/27859292-1_h.jpg",
+                "originPrice": "160.00",
+                "salePrice": "80.00",
+                "promotionTag": "限购|加价购|电子书加价购",
+                "promotionName": "12.26-12.31图书五折封顶",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 1375,
+                "averageScore": 4.93,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              },
+              {
+                "mapType": "recommendProduct",
+                "productId": 27896685,
+                "productName": "秘境：探寻全球仙境、废墟与乌托邦",
+                "productImageUrl": "https://img3x5.ddimg.cn/69/17/27896685-1_h.jpg",
+                "originPrice": "198.00",
+                "salePrice": "148.50",
+                "promotionTag": "加价购|电子书加价购",
+                "promotionName": "学生文具加价购",
+                "shopTag": "当当自营",
+                "isCoupon": 0,
+                "commentCount": 1446,
+                "averageScore": 4.77,
+                "memberNum": 0,
+                "saleNum": 0,
+                "isCatalogProduct": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

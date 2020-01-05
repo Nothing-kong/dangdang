@@ -1,0 +1,34 @@
+{
+    "data": {
+    "hongbaoyu": {
+    "activity_list": [
+    {
+    "action_page": [
+    "index",
+    "product",
+    "cms://page_id=mix",
+    "shop",
+    "ddshop",
+    "promotelist"
+    ],
+    "title": "发红包啦，快来抢一个!",
+    "activity_id": "20010100",
+    "icon": "https://img62.ddimg.cn/upload_img/00681/1/hongbao-1549077833.png",
+    "icon_h5": "http://img62.ddimg.cn/upload_img/00459/h5/redpct_icon-1541561310.gif",
+    "icon_h5_url": "http://img62.ddimg.cn/upload_img/00459/h5/redpct_icon-1541561310.gif",
+    "icon_h5_title": "icon",
+    "start_time": 1577808000,
+    "end_time": 1609430399,
+    "is_start": "0",
+    "is_in_page": "1",
+    "background_img_url": "https://img62.ddimg.cn/upload_img/00802/UED/bg2x-1576728748.jpg",
+    "meteor_img_url": "https://img61.ddimg.cn/upload_img/00802/UED/meteorshower-1576810999.gif",
+    "fireworks_img_url": "https://img60.ddimg.cn/upload_img/00610/ddshopping/fireworksonce-1577350165.png"
+    }
+    ],
+    "server_time": 1577721159
+    }
+    },
+    "errorCode": 0,
+    "errorMsg": "成功"
+    }

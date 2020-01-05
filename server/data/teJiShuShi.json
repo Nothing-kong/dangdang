@@ -1,0 +1,3444 @@
+{
+    "code": 0,
+    "data": {
+        "swiper": [
+            {
+              "img_url": "http://img61.ddimg.cn/upload_img/00658/333/001-1562674484.jpg",
+              "link_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang15",
+              "component_type": "1"
+            },
+            {
+              "img_url": "http://img60.ddimg.cn/upload_img/00743/suishiqi/640-280-1556616206.jpg",
+              "link_url": "http://z.dangdang.com/guan/index?page_id=848445",
+              "component_type": "1"
+            },
+            {
+              "img_url": "http://img62.ddimg.cn/upload_img/00785/ts4905/495-1242x546-1556605646.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_2019495",
+              "component_type": "1"
+            },
+            {
+              "img_url": "http://img60.ddimg.cn/upload_img/00743/suishiqi/200kb-1547464933.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20181026_4hay",
+              "component_type": "1"
+            }
+        ],
+        "nav": [
+          {
+            "id": 1,
+            "content": [
+              {
+                "color": "#FFFFFF",
+                "show_word": "49元5件",
+                "backgroud_img": "http://img61.ddimg.cn/upload_img/00705/yhj/01-5.31-ued.jpg",
+                "link_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang15"
+              },
+              {
+                "color": "#00000",
+                "show_word": "文学艺术",
+                "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20190114_0dem"
+              },
+              {
+                "color": "#00000",
+                "show_word": "人文社科",
+                "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20190320_5hmr"
+              },
+              {
+                "color": "#00000",
+                "show_word": "悦享生活",
+                "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_763777"
+              },
+              {
+                "color": "#00000",
+                "show_word": "经管励志",
+                "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20190430_ws4h"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "content": [
+              {
+                "color": "#FFFFFF",
+                "show_word": "低折特卖",
+                "backgroud_img": "http://img61.ddimg.cn/upload_img/00705/yhj/01-5.31-ued.jpg",
+                "link_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang11"
+              },
+              {
+                "color": "#00000",
+                "show_word": "29折封顶",
+                "link_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang12"
+              },
+              {
+                "color": "#00000",
+                "show_word": "39折封顶",
+                "link_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang13"
+              },
+              {
+                "color": "#00000",
+                "show_word": "超值套装",
+                "link_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang14"
+              },
+              {
+                "color": "#00000",
+                "show_word": "童书特惠",
+                "link_url": "http://touch.m.dangdang.com/topics.php?page_id=168288"
+              }
+            ]
+          }
+        ],
+        "sections": [
+          {
+            "id": 1,
+            "content": [
+              {
+                "id": 0,
+                "title": "爆款直降",
+                "title_img": "http://img62.ddimg.cn/upload_img/00743/suishiqi/baopinzhijiang-1545796654.jpg",
+                "title_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang11"
+
+              },
+              {
+                "id": 1,
+                "title": "爆款直降单品1",
+                "value": [
+                  {
+                    "product_id": "23979398",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23979398.html?t=1577602894';console",
+                    "img_url": "http://img3m8.ddimg.cn/14/31/23979398-1_h_36.jpg",
+                    "product_name": "小学生作文套装共4册 哇！作文真简单 当当网全国独家销售 超100000多名读者热评 开心作文小学3-6年级作文辅导书 附赠75节作文动画技法课 优秀作文 满分作文 分类作文 好词好句好段",
+                    "original_price": "91.20",
+                    "sale_price": "59.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": []
+                  },
+                  {
+                    "product_id": "26917424",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26917424.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/17/35/26917424-1_h_2.jpg",
+                    "product_name": "呀!故宫(精装)",
+                    "original_price": "68",
+                    "sale_price": "19.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27909964",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27909964.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/82/13/27909964-1_h_8.jpg",
+                    "product_name": "搜索力：帮你解决90%人生难题的思维能力",
+                    "original_price": "42.80",
+                    "sale_price": "12.41",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "12.80",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25342492",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25342492.html?t=1577602894';console",
+                    "img_url": "http://img3m2.ddimg.cn/76/8/25342492-1_h_6.jpg",
+                    "product_name": "四大名著（注音彩绘版）西游记红楼梦三国演义水浒传 小学生必读书目推荐（全4册套装）",
+                    "original_price": "100",
+                    "sale_price": "39",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27882633",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27882633.html?t=1577602894';console",
+                    "img_url": "http://img3m3.ddimg.cn/75/25/27882633-1_h_3.jpg",
+                    "product_name": "我们的历史 幼儿趣味中国历史绘本 套装共10册",
+                    "original_price": "298",
+                    "sale_price": "116.22",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27947744",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27947744.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/44/16/27947744-1_h_3.jpg",
+                    "product_name": "厉害是攒出来的",
+                    "original_price": "42.80",
+                    "sale_price": "12.41",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "12.80",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25582634",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25582634.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/44/20/25582634-1_h_9.jpg",
+                    "product_name": "可爱的物理(全8册)",
+                    "original_price": "108",
+                    "sale_price": "31.32",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26908557",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26908557.html?t=1577602894';console",
+                    "img_url": "http://img3m7.ddimg.cn/60/11/26908557-1_h_13.jpg",
+                    "product_name": "宝宝学说话(全10册)",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254490",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254490.html?t=1577602894';console",
+                    "img_url": "http://img3m0.ddimg.cn/83/27/23254490-1_h_7.jpg",
+                    "product_name": "365夜宝宝睡前故事",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27879831",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27879831.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/45/35/27879831-1_h_2.jpg",
+                    "product_name": "3-6岁中国风经典故事绘本（共20册）",
+                    "original_price": "200",
+                    "sale_price": "38",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "爆款直降单品2",
+                "value": [
+                  {
+                    "product_id": "26917791",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26917791.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/87/32/26917791-1_h_7.jpg",
+                    "product_name": "儿童财商培养系列绘本《小小理财师》（全8册）",
+                    "original_price": "96",
+                    "sale_price": "27.84",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25232945",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25232945.html?t=1577602894';console",
+                    "img_url": "http://img3m5.ddimg.cn/23/18/25232945-1_h_8.jpg",
+                    "product_name": "可爱的数学（全8册）",
+                    "original_price": "108",
+                    "sale_price": "31.32",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25479111",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25479111.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/75/23/25479111-1_h_6.jpg",
+                    "product_name": "呀!数学真好玩(全3册)",
+                    "original_price": "96",
+                    "sale_price": "27.84",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254492",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254492.html?t=1577602894';console",
+                    "img_url": "http://img3m2.ddimg.cn/85/29/23254492-1_h_5.jpg",
+                    "product_name": "恐龙王国大百科",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "4.35",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27865520",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27865520.html?t=1577602894';console",
+                    "img_url": "http://img3m0.ddimg.cn/89/6/27865520-1_h_8.jpg",
+                    "product_name": "《做有格局的自己》儿童大格局培养系列绘本（共8册）",
+                    "original_price": "108",
+                    "sale_price": "31.32",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23687852",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23687852.html?t=1577602894';console",
+                    "img_url": "http://img3m2.ddimg.cn/23/8/23687852-1_h_9.jpg",
+                    "product_name": "写给孩子的趣味图解中华上下五千年（全4册）",
+                    "original_price": "92",
+                    "sale_price": "26.68",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27940081",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27940081.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/4/12/27940081-1_h_5.jpg",
+                    "product_name": "幼儿大科学 我的大科学 绘本套装共10册",
+                    "original_price": "249",
+                    "sale_price": "97.11",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254497",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254497.html?t=1577602894';console",
+                    "img_url": "http://img3m7.ddimg.cn/90/34/23254497-1_h_2.jpg",
+                    "product_name": "昆虫记",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25253930",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25253930.html?t=1577602894';console",
+                    "img_url": "http://img3m0.ddimg.cn/20/24/25253930-1_h_6.jpg",
+                    "product_name": "幼儿英语分级阅读 入门级",
+                    "original_price": "96",
+                    "sale_price": "37.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "23.99",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25302902",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25302902.html?t=1577602894';console",
+                    "img_url": "http://img3m2.ddimg.cn/86/8/25302902-1_h_6.jpg",
+                    "product_name": "我和爸爸系列（全8册）",
+                    "original_price": "108",
+                    "sale_price": "31.32",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "content": [
+              {
+                "id": 0,
+                "floor_identification": "49元5件",
+                "title_img": "http://img60.ddimg.cn/upload_img/00754/suishiqi/49yuan5jian-1546585759.jpg",
+                "title_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang15"
+              },
+              {
+                "id": 1,
+                "floor_identification": "49元5件楼层1",
+                "value": [
+                  {
+                    "product_id": "25306006",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25306006.html?t=1577602894';console",
+                    "img_url": "http://img3m6.ddimg.cn/22/4/25306006-1_h_5.jpg",
+                    "product_name": "月亮与六便士",
+                    "original_price": "49.80",
+                    "sale_price": "24.90",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25582631",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25582631.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/41/17/25582631-1_h_2.jpg",
+                    "product_name": "动物绝对不能穿鞋子",
+                    "original_price": "39.80",
+                    "sale_price": "39.80",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26511841",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26511841.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/37/9/26511841-1_h_4.jpg",
+                    "product_name": "神奇战士历险记",
+                    "original_price": "36.80",
+                    "sale_price": "33.50",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23720715",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23720715.html?t=1577602894';console",
+                    "img_url": "http://img3m5.ddimg.cn/18/15/23720715-1_h_1.jpg",
+                    "product_name": "小鳄鱼的糖果牙齿：孩子不爱刷牙，怎么办？（精装绘本）",
+                    "original_price": "29.80",
+                    "sale_price": "26.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "1.60",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23720709",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23720709.html?t=1577602894';console",
+                    "img_url": "http://img3m9.ddimg.cn/12/9/23720709-1_h_1.jpg",
+                    "product_name": "爱唱反调的小松鼠：孩子行为叛逆，怎么办（精装绘本）",
+                    "original_price": "29.80",
+                    "sale_price": "26.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "2.59",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23517542",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23517542.html?t=1577602894';console",
+                    "img_url": "http://img3m2.ddimg.cn/92/9/23517542-1_h_13.jpg",
+                    "product_name": "强势：如何在工作、恋爱和人际交往中快速取得主导权？",
+                    "original_price": "42",
+                    "sale_price": "30.30",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "6.99",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25280266",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25280266.html?t=1577602894';console",
+                    "img_url": "http://img3m6.ddimg.cn/22/16/25280266-1_h_3.jpg",
+                    "product_name": "创意大师拉拉翻翻大惊喜系列：翻一翻，怪兽喜欢吃什么？",
+                    "original_price": "49.80",
+                    "sale_price": "38.50",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27860755",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27860755.html?t=1577602894';console",
+                    "img_url": "http://img3m5.ddimg.cn/76/14/27860755-1_h_2.jpg",
+                    "product_name": "两个愿望（新版）",
+                    "original_price": "39.80",
+                    "sale_price": "36.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23663880",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23663880.html?t=1577602894';console",
+                    "img_url": "http://img3m0.ddimg.cn/9/12/23663880-1_h_1.jpg",
+                    "product_name": "暖口袋亲子成长绘本（全4册）",
+                    "original_price": "48",
+                    "sale_price": "43.70",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25062577",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25062577.html?t=1577602894';console",
+                    "img_url": "http://img3m7.ddimg.cn/34/35/25062577-1_h_2.jpg",
+                    "product_name": "树洞里的家：孩子遇到挫折就灰心丧气，怎么办？",
+                    "original_price": "32.80",
+                    "sale_price": "28.90",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "49元5件楼层2",
+                "value": [
+                  {
+                    "product_id": "26915189",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26915189.html?t=1577602894';console",
+                    "img_url": "http://img3m9.ddimg.cn/59/20/26915189-1_h_3.jpg",
+                    "product_name": "蓝色森林",
+                    "original_price": "39.80",
+                    "sale_price": "36.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25582633",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25582633.html?t=1577602894';console",
+                    "img_url": "http://img3m3.ddimg.cn/43/19/25582633-1_h_2.jpg",
+                    "product_name": "儿童性教育绘本——了解自己，学会保护自己",
+                    "original_price": "39.80",
+                    "sale_price": "39.80",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27887669",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27887669.html?t=1577602894';console",
+                    "img_url": "http://img3m9.ddimg.cn/62/29/27887669-1_h_5.jpg",
+                    "product_name": "有趣的字母绘本",
+                    "original_price": "80",
+                    "sale_price": "52",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25333828",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25333828.html?t=1577602894';console",
+                    "img_url": "http://img3m8.ddimg.cn/25/2/25333828-1_h_3.jpg",
+                    "product_name": "西游记 七年级 无障碍阅读+中考真题 统编语文教材指定阅读丛书",
+                    "original_price": "29.80",
+                    "sale_price": "17.60",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "22674724",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/22674724.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/61/14/22674724-1_h_4.jpg",
+                    "product_name": "国学经典:鬼谷子全集",
+                    "original_price": "35",
+                    "sale_price": "18.80",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "5.25",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26314764",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26314764.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/69/31/26314764-1_h_2.jpg",
+                    "product_name": "陶瓷男孩（新版）",
+                    "original_price": "39.80",
+                    "sale_price": "36.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25333811",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25333811.html?t=1577602894';console",
+                    "img_url": "http://img3m1.ddimg.cn/8/22/25333811-1_h_2.jpg",
+                    "product_name": "居里夫人传 无障碍阅读+中考真题 统编语文教材指定阅读丛书",
+                    "original_price": "29.80",
+                    "sale_price": "17.60",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "24191046",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24191046.html?t=1577602894';console",
+                    "img_url": "http://img3m6.ddimg.cn/0/2/24191046-1_h_6.jpg",
+                    "product_name": "《恐龙世界奇遇记》",
+                    "original_price": "52",
+                    "sale_price": "41.60",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23720714",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23720714.html?t=1577602894';console",
+                    "img_url": "http://img3m4.ddimg.cn/17/14/23720714-1_h_1.jpg",
+                    "product_name": "爱挑食的小狐狸：孩子爱挑食，怎么办（精装绘本）",
+                    "original_price": "29.80",
+                    "sale_price": "26.20",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "2.40",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25125642",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25125642.html?t=1577602894';console",
+                    "img_url": "http://img3m2.ddimg.cn/36/15/25125642-1_h_3.jpg",
+                    "product_name": "小学生小古文100篇 部编版 语文教材配套阅读（套装全2册）",
+                    "original_price": "40",
+                    "sale_price": "27.60",
+                    "show_price_name": "sale_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "content": [
+              {
+                "id": 0,
+                "floor_identification": "套装专区",
+                "title_img": "http://img62.ddimg.cn/upload_img/00743/suishiqi/taozhuang-1545796654.jpg",
+                "title_url": "http://search.m.dangdang.com/giantmall.php?path_name=wang14"
+              },
+              {
+                "id": 1,
+                "floor_identification": "低价套装楼层1",
+                "value": [
+                  {
+                    "product_id": "25303818",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25303818.html?t=1577603061';console",
+                    "img_url": "http://img3m8.ddimg.cn/12/36/25303818-1_h_3.jpg",
+                    "product_name": "小学生分类作文 趣味写作课 创意思维 别怕作文套装全3册",
+                    "original_price": "135",
+                    "sale_price": "52.65",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26484655",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26484655.html?t=1577603061';console",
+                    "img_url": "http://img3m5.ddimg.cn/76/18/26484655-1_h_3.jpg",
+                    "product_name": "写给孩子的中国地理 套装共6册",
+                    "original_price": "128",
+                    "sale_price": "49.92",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26511536",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26511536.html?t=1577603061';console",
+                    "img_url": "http://img3m6.ddimg.cn/29/0/26511536-1_h_3.jpg",
+                    "product_name": "写给孩子的中国历史 套装共6册",
+                    "original_price": "128",
+                    "sale_price": "49.92",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27865517",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27865517.html?t=1577603061';console",
+                    "img_url": "http://img3m7.ddimg.cn/86/3/27865517-1_h_5.jpg",
+                    "product_name": "森林报绘本（套装12册）教育部推荐入选小学语文教材重点推荐书目 [3-6岁]",
+                    "original_price": "138",
+                    "sale_price": "40.02",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27865492",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27865492.html?t=1577603061';console",
+                    "img_url": "http://img3m2.ddimg.cn/61/15/27865492-1_h_5.jpg",
+                    "product_name": "数学思维游戏（套装全8册）：激发3-6岁儿童数学思维空间，解决生活中分类规律对比推理图形排序平均统计问题 [3-6岁]",
+                    "original_price": "96",
+                    "sale_price": "27.84",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "24182942",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24182942.html?t=1577603061';console",
+                    "img_url": "http://img3m2.ddimg.cn/14/1/24182942-1_h_2.jpg",
+                    "product_name": "传世名篇 诗词 散文 美丽国学 套装共2册",
+                    "original_price": "59.80",
+                    "sale_price": "17.34",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23644026",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23644026.html?t=1577603061';console",
+                    "img_url": "http://img3m6.ddimg.cn/54/27/23644026-1_h_2.jpg",
+                    "product_name": "全球通史（少年彩图版)（套装共10册）",
+                    "original_price": "199",
+                    "sale_price": "77.61",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25274932",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25274932.html?t=1577603061';console",
+                    "img_url": "http://img3m2.ddimg.cn/34/10/25274932-1_h_10.jpg",
+                    "product_name": "幼儿国学启蒙 全注音 彩色绘本 套装共12册",
+                    "original_price": "165.60",
+                    "sale_price": "59.62",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906196",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906196.html?t=1577603061';console",
+                    "img_url": "http://img3m6.ddimg.cn/76/19/27906196-1_h_3.jpg",
+                    "product_name": "小学数学计算题+数学应用题（套装2册）小学生四年级周周练彩色版 小学生专项同步强化训练天天练习",
+                    "original_price": "39.60",
+                    "sale_price": "15.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906197",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906197.html?t=1577603061';console",
+                    "img_url": "http://img3m7.ddimg.cn/77/20/27906197-1_h_2.jpg",
+                    "product_name": "小学数学计算题+数学应用题（套装2册）小学生五年级周周练彩色版 小学生专项同步强化训练天天练习",
+                    "original_price": "39.60",
+                    "sale_price": "15.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "floor_identification": "低价套装楼层2",
+                "value": [
+                  {
+                    "product_id": "25322248",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25322248.html?t=1577603061';console",
+                    "img_url": "http://img3m8.ddimg.cn/28/3/25322248-1_h_9.jpg",
+                    "product_name": "小学生初学写作文 看图写话 日记起步 作文起步（套装共3册） 1-2-3年级小学生作文辅导大全彩图版 一、二、三年级注音作文小学教辅读物 精选优秀范文 书剑手把手作文",
+                    "original_price": "75",
+                    "sale_price": "29.25",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25299073",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25299073.html?t=1577603061';console",
+                    "img_url": "http://img3m3.ddimg.cn/19/27/25299073-1_h_3.jpg",
+                    "product_name": "莫·威廉斯儿童益智幽默绘本第一辑:你千万别上当啊（新版）/金发姑娘和三头恐龙/哇哦，鳄鱼也想要惊喜(套装共3册)",
+                    "original_price": "109.80",
+                    "sale_price": "42.82",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23972658",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23972658.html?t=1577603061';console",
+                    "img_url": "http://img3m8.ddimg.cn/6/25/23972658-1_h_4.jpg",
+                    "product_name": "幼儿国学启蒙经典 彩绘全注音 套装共8册",
+                    "original_price": "110.40",
+                    "sale_price": "43.06",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27865523",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27865523.html?t=1577603061';console",
+                    "img_url": "http://img3m3.ddimg.cn/92/9/27865523-1_h_3.jpg",
+                    "product_name": "《读给孩子的诗》带给孩子的品味（套装8册）赠送免费收听全部诗歌 [3-6岁]",
+                    "original_price": "96",
+                    "sale_price": "18.24",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906194",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906194.html?t=1577603061';console",
+                    "img_url": "http://img3m4.ddimg.cn/74/17/27906194-1_h_3.jpg",
+                    "product_name": "小学数学计算题+数学应用题（套装2册）小学生二年级周周练彩色版 小学生专项同步强化训练天天练习",
+                    "original_price": "39.60",
+                    "sale_price": "15.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906198",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906198.html?t=1577603061';console",
+                    "img_url": "http://img3m8.ddimg.cn/78/21/27906198-1_h_2.jpg",
+                    "product_name": "小学数学计算题+数学应用题（套装2册）小学生六年级周周练彩色版 小学生专项同步强化训练天天练习",
+                    "original_price": "39.60",
+                    "sale_price": "15.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "24043018",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24043018.html?t=1577603061';console",
+                    "img_url": "http://img3m8.ddimg.cn/76/11/24043018-1_h_6.jpg",
+                    "product_name": "中国儿童成语故事 彩图全注音 套装共4册",
+                    "original_price": "59",
+                    "sale_price": "23.01",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906195",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906195.html?t=1577603061';console",
+                    "img_url": "http://img3m5.ddimg.cn/75/18/27906195-1_h_3.jpg",
+                    "product_name": "小学数学计算题+数学应用题（套装2册）小学生三年级周周练彩色版 小学生专项同步强化训练天天练习",
+                    "original_price": "39.60",
+                    "sale_price": "15.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906213",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906213.html?t=1577603061';console",
+                    "img_url": "http://img3m3.ddimg.cn/93/36/27906213-1_h_3.jpg",
+                    "product_name": "小学数学计算题+数学应用题（套装2册小学生一年级周周练彩色版 小学生专项同步强化训练天天练习",
+                    "original_price": "39.60",
+                    "sale_price": "15.44",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25163527",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25163527.html?t=1577603061';console",
+                    "img_url": "http://img3m7.ddimg.cn/4/12/25163527-1_h_6.jpg",
+                    "product_name": "国家地理环球探索百科 套装共12册",
+                    "original_price": "298.80",
+                    "sale_price": "86.65",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "content": [
+              {
+                "id": 0,
+                "floor_identification": "5元区",
+                "title_img": "http://img62.ddimg.cn/upload_img/00658/11/5yuanqu-1545796654-1564567251.jpg",
+                "title_url": ""
+              },
+              {
+                "id": 1,
+                "floor_identification": "5元区楼层1",
+                "value": [
+                  {
+                    "product_id": "20957095",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/20957095.html?t=1577603079';console",
+                    "img_url": "http://img3m5.ddimg.cn/82/36/20957095-1_h_2.jpg",
+                    "product_name": "我与北野武（《佐贺的超级阿嬷》作者岛田洋七倾情自述：和“超级艺人”北野武鲜为人知的故事）",
+                    "original_price": "16",
+                    "sale_price": "4.64",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "20934884",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/20934884.html?t=1577603079';console",
+                    "img_url": "http://img3m4.ddimg.cn/47/25/20934884-1_h_5.jpg",
+                    "product_name": "国医绝学健康馆-一学就会艾灸疗法治百病",
+                    "original_price": "10",
+                    "sale_price": "2.90",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "20837732",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/20837732.html?t=1577603079';console",
+                    "img_url": "http://img3m2.ddimg.cn/14/35/20837732-1_h_9.jpg",
+                    "product_name": "高血压、高血脂、高血糖对症食疗与按摩（国医绝学健康馆）",
+                    "original_price": "10",
+                    "sale_price": "2.90",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "22454152",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/22454152.html?t=1577603079';console",
+                    "img_url": "http://img3m2.ddimg.cn/61/36/22454152-1_h_5.jpg",
+                    "product_name": "小学生一级语文阅读与作文阶梯训练 1年级作文写作上下册一本短文练习同步阅读力测试分析 阅读理解能力强化作文写作提优 简单阅读写作阅读训练结合提高写作能力",
+                    "original_price": "14.80",
+                    "sale_price": "4.29",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "20837709",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/20837709.html?t=1577603079';console",
+                    "img_url": "http://img3m9.ddimg.cn/90/12/20837709-1_h_3.jpg",
+                    "product_name": "刮痧、拔罐祛百病（国医绝学健康馆）",
+                    "original_price": "10",
+                    "sale_price": "2.90",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25219400",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25219400.html?t=1577603079';console",
+                    "img_url": "http://img3m0.ddimg.cn/41/15/25219400-1_h_7.jpg",
+                    "product_name": "倾尽所能 静待花开 那时花开系列",
+                    "original_price": "16.80",
+                    "sale_price": "4.87",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "22460242",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/22460242.html?t=1577603079';console",
+                    "img_url": "http://img3m2.ddimg.cn/13/21/22460242-1_h_2.jpg",
+                    "product_name": "中学生语文作文初中生阅读阶梯训练九年级/9年级 初三年级作文写作上下册一本阅读与写作短文练习同步阅读力测试分析作文书 阅读理解能力强化作文写作提优 简单阅读阅读",
+                    "original_price": "16.80",
+                    "sale_price": "4.87",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "22460241",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/22460241.html?t=1577603079';console",
+                    "img_url": "http://img3m1.ddimg.cn/12/20/22460241-1_h_2.jpg",
+                    "product_name": "中学生语文作文初中生阅读阶梯训练八年级/8年级 初二初三年级作文写作上下册一本阅读与写作短文练习同步阅读力测试分析作文书 阅读理解能力强化作文写作提优 简单阅读阅读",
+                    "original_price": "16.80",
+                    "sale_price": "4.87",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23316287",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23316287.html?t=1577603079';console",
+                    "img_url": "http://img3m7.ddimg.cn/5/34/23316287-1_h_5.jpg",
+                    "product_name": "小学生作文英语阅读 ，图画也会说英语，英语越学越简单！神奇图解4年级100篇。",
+                    "original_price": "14.80",
+                    "sale_price": "4.29",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "20810635",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/20810635.html?t=1577603079';console",
+                    "img_url": "http://img3m5.ddimg.cn/43/22/20810635-1_h_2.jpg",
+                    "product_name": "本草纲目",
+                    "original_price": "10",
+                    "sale_price": "2.90",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "3.48",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "floor_identification": "5元区楼层2",
+                "value": [
+                  {
+                    "product_id": "23316286",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23316286.html?t=1577603079';console",
+                    "img_url": "http://img3m6.ddimg.cn/4/33/23316286-1_h_3.jpg",
+                    "product_name": "小学生作文英语阅读 ，图画也会说英语，英语越学越简单！神奇图解3年级100篇。",
+                    "original_price": "14.80",
+                    "sale_price": "4.29",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23945662",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23945662.html?t=1577603079';console",
+                    "img_url": "http://img3m2.ddimg.cn/37/2/23945662-1_h_2.jpg",
+                    "product_name": "查理日记10 法老王的秘密神殿",
+                    "original_price": "15",
+                    "sale_price": "4.35",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25219401",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25219401.html?t=1577603079';console",
+                    "img_url": "http://img3m1.ddimg.cn/42/16/25219401-1_h_7.jpg",
+                    "product_name": "青春里 我们用梦想雕刻时光 那时花开系列",
+                    "original_price": "16.80",
+                    "sale_price": "4.87",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25219398",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25219398.html?t=1577603079';console",
+                    "img_url": "http://img3m8.ddimg.cn/39/13/25219398-1_h_7.jpg",
+                    "product_name": "愿人生从容如水 那时花开系列",
+                    "original_price": "16.80",
+                    "sale_price": "4.87",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23737063",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23737063.html?t=1577603079';console",
+                    "img_url": "http://img3m3.ddimg.cn/31/9/23737063-1_h_1.jpg",
+                    "product_name": "查理日记7 -孤山祭的六芒之星",
+                    "original_price": "15",
+                    "sale_price": "4.35",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "22475205",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/22475205.html?t=1577603079';console",
+                    "img_url": "http://img3m5.ddimg.cn/27/36/22475205-1_h_5.jpg",
+                    "product_name": "国医绝学健康馆:5分钟速效刮痧排毒",
+                    "original_price": "10",
+                    "sale_price": "2.90",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23761085",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23761085.html?t=1577603079';console",
+                    "img_url": "http://img3m5.ddimg.cn/95/18/23761085-1_h_1.jpg",
+                    "product_name": "查理日记8·黑雾中的蜘蛛刺青",
+                    "original_price": "15",
+                    "sale_price": "4.35",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23783751",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23783751.html?t=1577603079';console",
+                    "img_url": "http://img3m1.ddimg.cn/90/3/23783751-1_h_1.jpg",
+                    "product_name": "查理日记9",
+                    "original_price": "15",
+                    "sale_price": "4.35",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23167991",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23167991.html?t=1577603079';console",
+                    "img_url": "http://img3m1.ddimg.cn/11/34/23167991-1_h_1.jpg",
+                    "product_name": "小学生必背古诗词75首情感体验诵读本 波波乌作文",
+                    "original_price": "9.80",
+                    "sale_price": "3.82",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23692207",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23692207.html?t=1577603080';console",
+                    "img_url": "http://img3m7.ddimg.cn/22/34/23692207-1_h_1.jpg",
+                    "product_name": "查理日记5·怪盗侠的魔术预告",
+                    "original_price": "15",
+                    "sale_price": "4.35",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "content": [
+              {
+                "id": 0,
+                "floor_identification": "10元区",
+                "title_img": "http://img60.ddimg.cn/upload_img/00658/11/5-10yuanqu-1545796654-1564567251.jpg"
+              },
+              {
+                "id": 1,
+                "floor_identification": "10元区楼层1",
+                "value": [
+                  {
+                    "product_id": "27882270",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27882270.html?t=1577603313';console",
+                    "img_url": "http://img3m0.ddimg.cn/9/32/27882270-1_h_2.jpg",
+                    "product_name": "2019年秋一本我爱同步作文五年级上册 全彩注音 部编人教版同步课内课外作文书",
+                    "original_price": "26.80",
+                    "sale_price": "7.77",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23718007",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23718007.html?t=1577603313';console",
+                    "img_url": "http://img3m7.ddimg.cn/82/8/23718007-1_h_1.jpg",
+                    "product_name": "99%的人不知道的历史真相",
+                    "original_price": "18",
+                    "sale_price": "7.02",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "3.51",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23490161",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23490161.html?t=1577603313';console",
+                    "img_url": "http://img3m1.ddimg.cn/35/8/23490161-1_h_1.jpg",
+                    "product_name": "羊皮卷:世界上最伟大的励志经典",
+                    "original_price": "18",
+                    "sale_price": "7.02",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "4.35",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25101057",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25101057.html?t=1577603313';console",
+                    "img_url": "http://img3m7.ddimg.cn/3/35/25101057-1_h_14.jpg",
+                    "product_name": "五年高考满分作文大全 2018高中生作文满分必刷题 五年高考作文满分素材大全 五年优秀作文考题荟萃！（高一、高二、高三年级适用）",
+                    "original_price": "29.80",
+                    "sale_price": "8.64",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25105414",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25105414.html?t=1577603313';console",
+                    "img_url": "http://img3m4.ddimg.cn/4/26/25105414-1_h_10.jpg",
+                    "product_name": "五年中考满分作文大全 近五年中考作文素材一应俱全 2017-2018中学生作文满分必刷题 权威解析全国各大考区初中生作文考题 2017年中考作文命题解读 预测2018年中考作文模拟题！（七年级、八年级、九年级适用）",
+                    "original_price": "29.80",
+                    "sale_price": "8.64",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25281465",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25281465.html?t=1577603313';console",
+                    "img_url": "http://img3m5.ddimg.cn/33/31/25281465-1_h_6.jpg",
+                    "product_name": "纽伯瑞国际儿童文学奖获奖作品：城堡镇的蓝猫",
+                    "original_price": "19.80",
+                    "sale_price": "7.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27882271",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27882271.html?t=1577603313';console",
+                    "img_url": "http://img3m1.ddimg.cn/10/33/27882271-1_h_1.jpg",
+                    "product_name": "2019年秋一本我爱同步作文六年级上册 全彩注音 部编人教版同步课内课外作文书",
+                    "original_price": "26.80",
+                    "sale_price": "7.77",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25281460",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25281460.html?t=1577603313';console",
+                    "img_url": "http://img3m0.ddimg.cn/28/26/25281460-1_h_5.jpg",
+                    "product_name": "纽伯瑞国际儿童文学奖获奖作品：胡桃木小姐",
+                    "original_price": "17.80",
+                    "sale_price": "6.94",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27883796",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27883796.html?t=1577603313';console",
+                    "img_url": "http://img3m6.ddimg.cn/50/4/27883796-1_h_2.jpg",
+                    "product_name": "小学英语听力小帮手 三年级上 PEP版  全彩版 同步教材  每日一练 108所名校名师 24组课堂训练 12套单元检测 4大模拟考试",
+                    "original_price": "19.80",
+                    "sale_price": "5.74",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25281466",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25281466.html?t=1577603313';console",
+                    "img_url": "http://img3m6.ddimg.cn/34/32/25281466-1_h_4.jpg",
+                    "product_name": "纽伯瑞国际儿童文学奖获奖作品：多伯瑞",
+                    "original_price": "19.80",
+                    "sale_price": "7.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "floor_identification": "10元区楼层2",
+                "value": [
+                  {
+                    "product_id": "25274931",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25274931.html?t=1577603313';console",
+                    "img_url": "http://img3m1.ddimg.cn/33/9/25274931-1_h_3.jpg",
+                    "product_name": "古诗词 幼儿国学启蒙 全注音 彩色绘本",
+                    "original_price": "13.80",
+                    "sale_price": "5.38",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27883797",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27883797.html?t=1577603313';console",
+                    "img_url": "http://img3m7.ddimg.cn/51/5/27883797-1_h_3.jpg",
+                    "product_name": "小学英语听力小帮手 四年级上 PEP版  全彩版 同步教材  每日一练 108所名校名师 24组课堂训练 12套单元检测 4大模拟考试",
+                    "original_price": "19.80",
+                    "sale_price": "5.74",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27883781",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27883781.html?t=1577603313';console",
+                    "img_url": "http://img3m1.ddimg.cn/35/26/27883781-1_h_2.jpg",
+                    "product_name": "小学语文默写小帮手 二年级上 统编版 全彩版 同步教材 每日一练 默写练习册 扫码听课文重点词语 108所名校名师 90组课堂训练 24次单元复习 30套综合测试",
+                    "original_price": "19.80",
+                    "sale_price": "5.74",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25225759",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25225759.html?t=1577603313';console",
+                    "img_url": "http://img3m9.ddimg.cn/64/10/25225759-1_h_3.jpg",
+                    "product_name": "你若不勇敢 谁替你坚强 升级版",
+                    "original_price": "38",
+                    "sale_price": "7.22",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27883799",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27883799.html?t=1577603313';console",
+                    "img_url": "http://img3m9.ddimg.cn/53/7/27883799-1_h_2.jpg",
+                    "product_name": "小学英语听力小帮手 六年级上 PEP版  全彩版 同步教材  每日一练 108所名校名师 24组课堂训练 12套单元检测 4大模拟考试",
+                    "original_price": "19.80",
+                    "sale_price": "5.74",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27881181",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27881181.html?t=1577603313';console",
+                    "img_url": "http://img3m1.ddimg.cn/9/16/27881181-1_h_6.jpg",
+                    "product_name": "小学生分类作文4年级 常用写作素材一应俱全 优秀满分获奖作文现查现用 小学四年级适用作文辅导书 书剑图书/书剑手把手作文",
+                    "original_price": "23",
+                    "sale_price": "8.97",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25099275",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25099275.html?t=1577603313';console",
+                    "img_url": "http://img3m5.ddimg.cn/3/29/25099275-1_h_3.jpg",
+                    "product_name": "小学生看图写话作业本·一年级（1年级）全新升级版  书剑手把手作文",
+                    "original_price": "16.80",
+                    "sale_price": "6.55",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27906208",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27906208.html?t=1577603313';console",
+                    "img_url": "http://img3m8.ddimg.cn/88/31/27906208-1_h_3.jpg",
+                    "product_name": "小学数学应用题二年级周周练彩色版 小学生应用题专项同步强化训练天天练习",
+                    "original_price": "19.80",
+                    "sale_price": "7.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "21031339",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/21031339.html?t=1577603313';console",
+                    "img_url": "http://img3m9.ddimg.cn/76/21/21031339-1_h_5.jpg",
+                    "product_name": "天堂向左，深圳往右",
+                    "original_price": "23.80",
+                    "sale_price": "6.90",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23966196",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23966196.html?t=1577603313';console",
+                    "img_url": "http://img3m6.ddimg.cn/78/1/23966196-1_h_6.jpg",
+                    "product_name": "成语故事 国学启蒙 绘本 全注音",
+                    "original_price": "13.80",
+                    "sale_price": "5.38",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "5.38",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "content": [
+              {
+                "id": 0,
+                "floor_identification": "15元区",
+                "title_img": "http://img62.ddimg.cn/upload_img/00803/1/10-15-1574996186.png",
+                "title_url": ""
+              },
+              {
+                "id": 1,
+                "floor_identification": "15元区楼层1",
+                "value": [
+                  {
+                    "product_id": "26917830",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26917830.html?t=1577603314';console",
+                    "img_url": "http://img3m0.ddimg.cn/27/34/26917830-1_h_6.jpg",
+                    "product_name": "思维导图 创造力培养游戏书 共4册 塑封",
+                    "original_price": "60",
+                    "sale_price": "11.40",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "28473859",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28473859.html?t=1577603314';console",
+                    "img_url": "http://img3m9.ddimg.cn/73/28/28473859-1_h_2.jpg",
+                    "product_name": "演讲思维：提升影响力的艺术",
+                    "original_price": "42.80",
+                    "sale_price": "12.41",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "12.80",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27883714",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27883714.html?t=1577603314';console",
+                    "img_url": "http://img3m4.ddimg.cn/67/33/27883714-1_h_5.jpg",
+                    "product_name": "影响力变现：你不必讨好所有人",
+                    "original_price": "42.80",
+                    "sale_price": "12.41",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "16.80",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "24031000",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24031000.html?t=1577603314';console",
+                    "img_url": "http://img3m0.ddimg.cn/37/18/24031000-1_h_8.jpg",
+                    "product_name": "0-3岁宝宝必读的十大经典童话（全10册）",
+                    "original_price": "30",
+                    "sale_price": "11.70",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26917790",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26917790.html?t=1577603314';console",
+                    "img_url": "http://img3m0.ddimg.cn/86/31/26917790-1_h_6.jpg",
+                    "product_name": "我们的二十四节气 思维导图 全4册 塑封",
+                    "original_price": "60",
+                    "sale_price": "11.40",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27860320",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27860320.html?t=1577603314';console",
+                    "img_url": "http://img3m0.ddimg.cn/37/23/27860320-1_h_3.jpg",
+                    "product_name": "驾,时间!吁,时间!(精装)",
+                    "original_price": "46",
+                    "sale_price": "13.34",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "28481549",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/28481549.html?t=1577603314';console",
+                    "img_url": "http://img3m9.ddimg.cn/41/22/28481549-1_h_3.jpg",
+                    "product_name": "共情沟通：征服人心的艺术",
+                    "original_price": "42.80",
+                    "sale_price": "12.41",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "12.80",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27932872",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27932872.html?t=1577603314';console",
+                    "img_url": "http://img3m2.ddimg.cn/22/18/27932872-1_h_2.jpg",
+                    "product_name": "我和我的野生动物朋友1（教育部“课外阅读推荐书目”初高中课外阅读经典读本）",
+                    "original_price": "39.80",
+                    "sale_price": "11.54",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "12.80",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25193103",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25193103.html?t=1577603314';console",
+                    "img_url": "http://img3m3.ddimg.cn/78/25/25193103-1_h_8.jpg",
+                    "product_name": "走红：如何打造个人IP",
+                    "original_price": "45",
+                    "sale_price": "13.05",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "29.99",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26917796",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26917796.html?t=1577603314';console",
+                    "img_url": "http://img3m6.ddimg.cn/92/0/26917796-1_h_3.jpg",
+                    "product_name": "《好玩的图形》我的第一套数学启蒙书（全6册）",
+                    "original_price": "78",
+                    "sale_price": "14.82",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+
+              },
+              {
+                "id": 2,
+                "floor_identification": "15元区楼层2",
+                "value": [
+                  {
+                    "product_id": "27865507",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27865507.html?t=1577603314';console",
+                    "img_url": "http://img3m7.ddimg.cn/76/30/27865507-1_h_7.jpg",
+                    "product_name": "《逗逗脑》思维游戏训练书 全世界聪明孩子都在玩（全6册）",
+                    "original_price": "78",
+                    "sale_price": "14.82",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "24016084",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24016084.html?t=1577603314';console",
+                    "img_url": "http://img3m4.ddimg.cn/70/13/24016084-1_h_5.jpg",
+                    "product_name": "美国世纪结束了吗？",
+                    "original_price": "39.80",
+                    "sale_price": "11.54",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "9.81",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "24004237",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/24004237.html?t=1577603314';console",
+                    "img_url": "http://img3m7.ddimg.cn/4/6/24004237-1_h_6.jpg",
+                    "product_name": "自私的父母",
+                    "original_price": "38",
+                    "sale_price": "11.02",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "12.75",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25281472",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25281472.html?t=1577603314';console",
+                    "img_url": "http://img3m2.ddimg.cn/40/1/25281472-1_h_5.jpg",
+                    "product_name": "纽伯瑞国际儿童文学奖获奖作品：银色大地的传说",
+                    "original_price": "29.80",
+                    "sale_price": "11.62",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23618483",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23618483.html?t=1577603314';console",
+                    "img_url": "http://img3m3.ddimg.cn/53/14/23618483-1_h_11.jpg",
+                    "product_name": "荣格自传：梦、记忆和思考",
+                    "original_price": "39.80",
+                    "sale_price": "11.54",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "4.82",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26918945",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26918945.html?t=1577603314';console",
+                    "img_url": "http://img3m5.ddimg.cn/53/2/26918945-1_h_4.jpg",
+                    "product_name": "活在大唐 精装读书会",
+                    "original_price": "49",
+                    "sale_price": "14.21",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26922742",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26922742.html?t=1577603314';console",
+                    "img_url": "http://img3m2.ddimg.cn/88/25/26922742-1_h_7.jpg",
+                    "product_name": "冲锋（畅销书作家左手韩写给青春成长鼎力之作，2019年全新呈现。）",
+                    "original_price": "42",
+                    "sale_price": "12.18",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25281464",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25281464.html?t=1577603314';console",
+                    "img_url": "http://img3m4.ddimg.cn/32/30/25281464-1_h_5.jpg",
+                    "product_name": "纽伯瑞国际儿童文学奖获奖作品：荒泉山",
+                    "original_price": "29.80",
+                    "sale_price": "11.62",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25118446",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25118446.html?t=1577603314';console",
+                    "img_url": "http://img3m6.ddimg.cn/67/34/25118446-1_h_6.jpg",
+                    "product_name": "披着羊皮的狼：如何与控制型人格相处（畅销全球20年！为什么我们反对亲密关系中的操纵与情感暴力？）",
+                    "original_price": "39",
+                    "sale_price": "11.31",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "6.99",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25103585",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25103585.html?t=1577603314';console",
+                    "img_url": "http://img3m5.ddimg.cn/56/10/25103585-1_h_3.jpg",
+                    "product_name": "最风流：生活在魏晋南北朝",
+                    "original_price": "32.80",
+                    "sale_price": "12.79",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "10.99",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "content": [
+              {
+                "id": 0,
+                "floor_identification": "20元专区",
+                "title_img": "http://img60.ddimg.cn/upload_img/00803/1/15-20-1574996249.png",
+                "title_url": ""
+              },
+              {
+                "id": 1,
+                "floor_identification": "20元专区楼层1",
+                "value": [
+                  {
+                    "product_id": "23254500",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254500.html?t=1577603314';console",
+                    "img_url": "http://img3m0.ddimg.cn/93/0/23254500-1_h_5.jpg",
+                    "product_name": "安徒生童话",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254485",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254485.html?t=1577603314';console",
+                    "img_url": "http://img3m5.ddimg.cn/78/22/23254485-1_h_11.jpg",
+                    "product_name": "世界兵器大百科",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254494",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254494.html?t=1577603314';console",
+                    "img_url": "http://img3m4.ddimg.cn/87/31/23254494-1_h_7.jpg",
+                    "product_name": "中国成语故事",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254491",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254491.html?t=1577603314';console",
+                    "img_url": "http://img3m1.ddimg.cn/84/28/23254491-1_h_4.jpg",
+                    "product_name": "动物世界大百科",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27860302",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27860302.html?t=1577603314';console",
+                    "img_url": "http://img3m2.ddimg.cn/19/5/27860302-1_h_12.jpg",
+                    "product_name": "四季的变化:科普认知绘本(全4册)",
+                    "original_price": "68",
+                    "sale_price": "19.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "25114710",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/25114710.html?t=1577603314';console",
+                    "img_url": "http://img3m0.ddimg.cn/93/35/25114710-1_h_5.jpg",
+                    "product_name": "冰心儿童文学全集：冰心三部曲《繁星·春水》《寄小读者》《小桔灯》",
+                    "original_price": "68",
+                    "sale_price": "19.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23834876",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23834876.html?t=1577603314';console",
+                    "img_url": "http://img3m6.ddimg.cn/32/31/23834876-1_h_4.jpg",
+                    "product_name": "梦想飞船之神奇的地球（全6册）",
+                    "original_price": "87",
+                    "sale_price": "16.53",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27949987",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27949987.html?t=1577603314';console",
+                    "img_url": "http://img3m7.ddimg.cn/10/2/27949987-1_h_3.jpg",
+                    "product_name": "3-6岁皮皮狗生活馆-大图大字情商培养绘本（共6册）",
+                    "original_price": "60",
+                    "sale_price": "17.40",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27860318",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27860318.html?t=1577603314';console",
+                    "img_url": "http://img3m8.ddimg.cn/35/21/27860318-1_h_11.jpg",
+                    "product_name": "你好,我的晚安童诗(精装)",
+                    "original_price": "58",
+                    "sale_price": "16.82",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254488",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254488.html?t=1577603314';console",
+                    "img_url": "http://img3m8.ddimg.cn/81/25/23254488-1_h_7.jpg",
+                    "product_name": "世界酷车大百科",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "floor_identification": "20专区楼层2",
+                "value": [
+                  {
+                    "product_id": "23254489",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254489.html?t=1577603314';console",
+                    "img_url": "http://img3m9.ddimg.cn/82/26/23254489-1_h_7.jpg",
+                    "product_name": "格林童话",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26316532",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26316532.html?t=1577603314';console",
+                    "img_url": "http://img3m2.ddimg.cn/55/23/26316532-1_h_3.jpg",
+                    "product_name": "真假小宝:漫画版(全6册)",
+                    "original_price": "87",
+                    "sale_price": "16.53",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "26918824",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/26918824.html?t=1577603314';console",
+                    "img_url": "http://img3m4.ddimg.cn/31/29/26918824-1_h_6.jpg",
+                    "product_name": "全脑开发游戏书 思维导图专注力 全6册 塑封",
+                    "original_price": "87",
+                    "sale_price": "16.53",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27884645",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27884645.html?t=1577603314';console",
+                    "img_url": "http://img3m5.ddimg.cn/8/2/27884645-1_h_4.jpg",
+                    "product_name": "原来我们是神仙",
+                    "original_price": "42",
+                    "sale_price": "16.38",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254483",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254483.html?t=1577603314';console",
+                    "img_url": "http://img3m3.ddimg.cn/76/20/23254483-1_h_1.jpg",
+                    "product_name": "地球奥秘大百科",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23962841",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23962841.html?t=1577603314';console",
+                    "img_url": "http://img3m1.ddimg.cn/89/13/23962841-1_h_6.jpg",
+                    "product_name": "我上学了——可能会遇到这些事（全6册）",
+                    "original_price": "66",
+                    "sale_price": "19.14",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254503",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254503.html?t=1577603314';console",
+                    "img_url": "http://img3m3.ddimg.cn/96/3/23254503-1_h_2.jpg",
+                    "product_name": "我的第一本环球旅行书",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "23254496",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/23254496.html?t=1577603314';console",
+                    "img_url": "http://img3m6.ddimg.cn/89/33/23254496-1_h_7.jpg",
+                    "product_name": "伴随男孩成长的好故事",
+                    "original_price": "88",
+                    "sale_price": "16.72",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "27877019",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/27877019.html?t=1577603314';console",
+                    "img_url": "http://img3m9.ddimg.cn/5/35/27877019-1_h_2.jpg",
+                    "product_name": "3-6岁大图大字 宝宝枕边故事书 扫码有声读物 （共4册）",
+                    "original_price": "51.20",
+                    "sale_price": "19.97",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "product_id": "22455308",
+                    "link_url": "javascript:if(typeof openQuitAppClick === 'function'){openQuitAppClick();}window.location.href='http://product.m.dangdang.com/22455308.html?t=1577603314';console",
+                    "img_url": "http://img3m8.ddimg.cn/29/8/22455308-1_h_2.jpg",
+                    "product_name": "春宴",
+                    "original_price": "39",
+                    "sale_price": "15.21",
+                    "show_price_name": "bd_promo_price",
+                    "is_show_promo_label": "-1",
+                    "ebook_price": "",
+                    "product_tags": [
+                      {
+                        "name": "促",
+                        "type": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "guessLikeBooks": [
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23761145,
+            "total_review_count": 1591617,
+            "product_name": "人间失格",
+            "original_price": "25.00",
+            "image_url": "http://img3m5.ddimg.cn/56/4/23761145-1_b_6.jpg",
+            "price": "11.30",
+            "show_price_name": "sale_price",
+            "ebook_price": "4.99",
+            "product_url": "http://product.m.dangdang.com/23761145.html?t=1577598046",
+            "price1": "11",
+            "price2": "30"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23990140,
+            "total_review_count": 1087048,
+            "product_name": "正面管教",
+            "original_price": "38.00",
+            "image_url": "http://img3m0.ddimg.cn/64/6/23990140-1_b_10.jpg",
+            "price": "19.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "12.99",
+            "product_url": "http://product.m.dangdang.com/23990140.html?t=1577598046",
+            "price1": "19",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25137790,
+            "total_review_count": 2516370,
+            "product_name": "活着",
+            "original_price": "28.00",
+            "image_url": "http://img3m0.ddimg.cn/7/27/25137790-1_b_4.jpg",
+            "price": "14.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "9.99",
+            "product_url": "http://product.m.dangdang.com/25137790.html?t=1577598046",
+            "price1": "14",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27890908,
+            "total_review_count": 342005,
+            "product_name": "2019年12月星火英语四级真题备考2019试卷全真试题+标准模拟刷题真题词汇写作听力口语",
+            "original_price": "59.80",
+            "image_url": "http://img3m8.ddimg.cn/34/12/27890908-1_b_5.jpg",
+            "price": "26.60",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/27890908.html?t=1577598046",
+            "price1": "26",
+            "price2": "60"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 28470463,
+            "total_review_count": 113586,
+            "product_name": "乖，摸摸头2.0",
+            "original_price": "39.60",
+            "image_url": "http://img3m3.ddimg.cn/43/36/28470463-1_b_18.jpg",
+            "price": "28.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "19.99",
+            "product_url": "http://product.m.dangdang.com/28470463.html?t=1577598046",
+            "price1": "28",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25252408,
+            "total_review_count": 1225424,
+            "product_name": "神奇校车·图画书版",
+            "original_price": "198.00",
+            "image_url": "http://img3m8.ddimg.cn/82/19/25252408-1_b_19.jpg",
+            "price": "99.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25252408.html?t=1577598046",
+            "price1": "99",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 20039611,
+            "total_review_count": 976569,
+            "product_name": "小熊和最好的爸爸",
+            "original_price": "35.00",
+            "image_url": "http://img3m1.ddimg.cn/31/4/20039611-1_b_9.jpg",
+            "price": "17.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/20039611.html?t=1577598046",
+            "price1": "17",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 26264595,
+            "total_review_count": 868406,
+            "product_name": "二级建造师 2019教材 2019版二级建造师 建设工程施工管理",
+            "original_price": "62.00",
+            "image_url": "http://img3m5.ddimg.cn/93/34/26264595-1_b_2.jpg",
+            "price": "52.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/26264595.html?t=1577598046",
+            "price1": "52",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23271503,
+            "total_review_count": 598456,
+            "product_name": "断舍离",
+            "original_price": "32.00",
+            "image_url": "http://img3m3.ddimg.cn/68/20/23271503-1_b_10.jpg",
+            "price": "15.20",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23271503.html?t=1577598046",
+            "price1": "15",
+            "price2": "20"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 26921715,
+            "total_review_count": 271650,
+            "product_name": "人生海海",
+            "original_price": "55.00",
+            "image_url": "http://img3m5.ddimg.cn/51/34/26921715-1_b_2.jpg",
+            "price": "27.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "24.99",
+            "product_url": "http://product.m.dangdang.com/26921715.html?t=1577598046",
+            "price1": "27",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 24039082,
+            "total_review_count": 502839,
+            "product_name": "现代汉语词典 商务印书馆",
+            "original_price": "109.00",
+            "image_url": "http://img3m2.ddimg.cn/1/34/24039082-1_b_10.jpg",
+            "price": "93.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/24039082.html?t=1577598046",
+            "price1": "93",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 22463950,
+            "total_review_count": 236909,
+            "product_name": "樊登推荐 你就是孩子最好的玩具",
+            "original_price": "29.80",
+            "image_url": "http://img3m0.ddimg.cn/58/29/22463950-1_b_3.jpg",
+            "price": "14.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/22463950.html?t=1577598046",
+            "price1": "14",
+            "price2": "90"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23579654,
+            "total_review_count": 970504,
+            "product_name": "三体：全三册 刘慈欣代表作，亚洲首部“雨果奖”获奖作品！",
+            "original_price": "93.00",
+            "image_url": "http://img3m4.ddimg.cn/32/35/23579654-1_b_3.jpg",
+            "price": "46.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "34.99",
+            "product_url": "http://product.m.dangdang.com/23579654.html?t=1577598046",
+            "price1": "46",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25218540,
+            "total_review_count": 653732,
+            "product_name": "信谊世界精选图画书·猜猜我有多爱你",
+            "original_price": "38.80",
+            "image_url": "http://img3m0.ddimg.cn/72/6/25218540-1_b_3.jpg",
+            "price": "19.40",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25218540.html?t=1577598046",
+            "price1": "19",
+            "price2": "40"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27907090,
+            "total_review_count": 72911,
+            "product_name": "丁香医生健康日历2020",
+            "original_price": "98.00",
+            "image_url": "http://img3m0.ddimg.cn/79/25/27907090-1_b_6.jpg",
+            "price": "38.20",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/27907090.html?t=1577598046",
+            "price1": "38",
+            "price2": "20"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25119332,
+            "total_review_count": 1452497,
+            "product_name": "东野圭吾：白夜行",
+            "original_price": "59.60",
+            "image_url": "http://img3m2.ddimg.cn/62/32/25119332-1_b_9.jpg",
+            "price": "59.60",
+            "show_price_name": "sale_price",
+            "ebook_price": "23.99",
+            "product_url": "http://product.m.dangdang.com/25119332.html?t=1577598046",
+            "price1": "59",
+            "price2": "60"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27880773,
+            "total_review_count": 97244,
+            "product_name": "鬼谷子+墨菲定律+人性的弱点+狼道+羊皮卷全套 受益一生的5本书正版书籍 为人处世书籍 畅销书 狼图腾",
+            "original_price": "206.40",
+            "image_url": "http://img3m3.ddimg.cn/96/15/27880773-1_b_2.jpg",
+            "price": "28.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/27880773.html?t=1577598046",
+            "price1": "28",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23546266,
+            "total_review_count": 742801,
+            "product_name": "夏洛的网",
+            "original_price": "26.00",
+            "image_url": "http://img3m6.ddimg.cn/7/21/23546266-1_b_6.jpg",
+            "price": "19.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23546266.html?t=1577598046",
+            "price1": "19",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 24175371,
+            "total_review_count": 820816,
+            "product_name": "作家榜经典：月亮与六便士",
+            "original_price": "39.80",
+            "image_url": "http://img3m1.ddimg.cn/66/15/24175371-1_b_103.jpg",
+            "price": "18.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "3.99",
+            "product_url": "http://product.m.dangdang.com/24175371.html?t=1577598046",
+            "price1": "18",
+            "price2": "90"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25334272,
+            "total_review_count": 436605,
+            "product_name": "非暴力沟通",
+            "original_price": "49.00",
+            "image_url": "http://img3m2.ddimg.cn/73/2/25334272-1_b_1.jpg",
+            "price": "29.40",
+            "show_price_name": "sale_price",
+            "ebook_price": "6.99",
+            "product_url": "http://product.m.dangdang.com/25334272.html?t=1577598046",
+            "price1": "29",
+            "price2": "40"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25238195,
+            "total_review_count": 2563477,
+            "product_name": "追风筝的人",
+            "original_price": "36.00",
+            "image_url": "http://img3m5.ddimg.cn/26/14/25238195-1_b_3.jpg",
+            "price": "18.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "8.99",
+            "product_url": "http://product.m.dangdang.com/25238195.html?t=1577598046",
+            "price1": "18",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23444350,
+            "total_review_count": 833619,
+            "product_name": "神奇校车·桥梁书版",
+            "original_price": "150.00",
+            "image_url": "http://img3m0.ddimg.cn/61/3/23444350-1_b_4.jpg",
+            "price": "75.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23444350.html?t=1577598046",
+            "price1": "75",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27890907,
+            "total_review_count": 221832,
+            "product_name": "2019年12月星火英语六级真题备考2019试卷全真试题+标准模拟刷题真题词汇写作听力口语",
+            "original_price": "59.80",
+            "image_url": "http://img3m7.ddimg.cn/33/11/27890907-1_b_4.jpg",
+            "price": "26.60",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/27890907.html?t=1577598046",
+            "price1": "26",
+            "price2": "60"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25167661,
+            "total_review_count": 418583,
+            "product_name": "红岩",
+            "original_price": "36.00",
+            "image_url": "http://img3m1.ddimg.cn/79/2/25167661-1_b_3.jpg",
+            "price": "25.20",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25167661.html?t=1577598046",
+            "price1": "25",
+            "price2": "20"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25090502,
+            "total_review_count": 1125355,
+            "product_name": "平凡的世界：全三册",
+            "original_price": "108.00",
+            "image_url": "http://img3m2.ddimg.cn/41/25/25090502-1_b_5.jpg",
+            "price": "108.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "59.99",
+            "product_url": "http://product.m.dangdang.com/25090502.html?t=1577598046",
+            "price1": "108",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23751637,
+            "total_review_count": 1135834,
+            "product_name": "浮生六记",
+            "original_price": "32.00",
+            "image_url": "http://img3m7.ddimg.cn/52/5/23751637-1_b_34.jpg",
+            "price": "15.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "2.99",
+            "product_url": "http://product.m.dangdang.com/23751637.html?t=1577598046",
+            "price1": "15",
+            "price2": "80"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25257593,
+            "total_review_count": 347902,
+            "product_name": "乌丢丢的奇遇 曹文轩推荐儿童文学经典书系 33万多名读者热评！",
+            "original_price": "18.80",
+            "image_url": "http://img3m3.ddimg.cn/20/24/25257593-1_b_8.jpg",
+            "price": "12.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25257593.html?t=1577598046",
+            "price1": "12",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25272786,
+            "total_review_count": 1151860,
+            "product_name": "窗边的小豆豆",
+            "original_price": "39.50",
+            "image_url": "http://img3m6.ddimg.cn/66/10/25272786-1_b_3.jpg",
+            "price": "29.60",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25272786.html?t=1577598046",
+            "price1": "29",
+            "price2": "60"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23778791,
+            "total_review_count": 638382,
+            "product_name": "少年读史记",
+            "original_price": "100.00",
+            "image_url": "http://img3m1.ddimg.cn/80/1/23778791-1_b_4.jpg",
+            "price": "50.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23778791.html?t=1577598046",
+            "price1": "50",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25100818,
+            "total_review_count": 394847,
+            "product_name": "红星照耀中国人民文学出版社",
+            "original_price": "33.00",
+            "image_url": "http://img3m8.ddimg.cn/61/18/25100818-1_b_3.jpg",
+            "price": "24.75",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25100818.html?t=1577598046",
+            "price1": "24",
+            "price2": "75"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23445575,
+            "total_review_count": 652010,
+            "product_name": "万历十五年 一本好书 腾讯视频栏目推荐",
+            "original_price": "26.00",
+            "image_url": "http://img3m5.ddimg.cn/98/7/23445575-1_b_5.jpg",
+            "price": "13.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "6.99",
+            "product_url": "http://product.m.dangdang.com/23445575.html?t=1577598046",
+            "price1": "13",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 26490676,
+            "total_review_count": 281262,
+            "product_name": "亲密关系：通往灵魂的桥梁",
+            "original_price": "45.00",
+            "image_url": "http://img3m6.ddimg.cn/58/8/26490676-1_b_5.jpg",
+            "price": "22.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/26490676.html?t=1577598046",
+            "price1": "22",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25138856,
+            "total_review_count": 1437013,
+            "product_name": "马尔克斯：百年孤独",
+            "original_price": "55.00",
+            "image_url": "http://img3m6.ddimg.cn/83/20/25138856-1_b_2.jpg",
+            "price": "55.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "35.99",
+            "product_url": "http://product.m.dangdang.com/25138856.html?t=1577598046",
+            "price1": "55",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25261327,
+            "total_review_count": 262025,
+            "product_name": "米小圈上学记一年级",
+            "original_price": "100.00",
+            "image_url": "http://img3m7.ddimg.cn/91/21/25261327-1_b_3.jpg",
+            "price": "50.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25261327.html?t=1577598046",
+            "price1": "50",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27867305,
+            "total_review_count": 135507,
+            "product_name": "半小时漫画唐诗",
+            "original_price": "49.90",
+            "image_url": "http://img3m5.ddimg.cn/92/15/27867305-1_b_6.jpg",
+            "price": "24.70",
+            "show_price_name": "sale_price",
+            "ebook_price": "11.99",
+            "product_url": "http://product.m.dangdang.com/27867305.html?t=1577598046",
+            "price1": "24",
+            "price2": "70"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27931943,
+            "total_review_count": 437507,
+            "product_name": "半小时漫画中国史4",
+            "original_price": "49.90",
+            "image_url": "http://img3m3.ddimg.cn/83/14/27931943-1_b_6.jpg",
+            "price": "24.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "14.99",
+            "product_url": "http://product.m.dangdang.com/27931943.html?t=1577598046",
+            "price1": "24",
+            "price2": "90"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23909227,
+            "total_review_count": 204670,
+            "product_name": "不吼不叫：如何平静地让孩子与父母合作",
+            "original_price": "32.80",
+            "image_url": "http://img3m7.ddimg.cn/34/12/23909227-1_b_4.jpg",
+            "price": "15.60",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23909227.html?t=1577598046",
+            "price1": "15",
+            "price2": "60"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25308985,
+            "total_review_count": 263618,
+            "product_name": "丰子恺万般滋味，都是生活",
+            "original_price": "42.00",
+            "image_url": "http://img3m5.ddimg.cn/31/23/25308985-1_b_8.jpg",
+            "price": "21.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "10.99",
+            "product_url": "http://product.m.dangdang.com/25308985.html?t=1577598046",
+            "price1": "21",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27872661,
+            "total_review_count": 857145,
+            "product_name": "皮囊",
+            "original_price": "49.80",
+            "image_url": "http://img3m1.ddimg.cn/3/6/27872661-1_b_13.jpg",
+            "price": "24.70",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/27872661.html?t=1577598046",
+            "price1": "24",
+            "price2": "70"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25278440,
+            "total_review_count": 339416,
+            "product_name": "任溶溶系列：没头脑和不高兴",
+            "original_price": "18.00",
+            "image_url": "http://img3m0.ddimg.cn/77/3/25278440-1_b_7.jpg",
+            "price": "8.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25278440.html?t=1577598046",
+            "price1": "8",
+            "price2": "90"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23453874,
+            "total_review_count": 216918,
+            "product_name": "福尔摩斯探案集130000多名读者热评！",
+            "original_price": "17.80",
+            "image_url": "http://img3m4.ddimg.cn/81/18/23453874-1_b_4.jpg",
+            "price": "11.20",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23453874.html?t=1577598046",
+            "price1": "11",
+            "price2": "20"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 20998892,
+            "total_review_count": 448737,
+            "product_name": "最新小学生获奖作文1000篇 超43万读者热评 小学生作文书优秀分类小考满分作文素材书，一本搞定三四五六年级作文所有问题，让孩子轻松走出作文困境，波波乌作文",
+            "original_price": "38.00",
+            "image_url": "http://img3m2.ddimg.cn/2/23/20998892-1_b_32.jpg",
+            "price": "26.20",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/20998892.html?t=1577598046",
+            "price1": "26",
+            "price2": "20"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25285092,
+            "total_review_count": 1281198,
+            "product_name": "天才在左 疯子在右",
+            "original_price": "49.80",
+            "image_url": "http://img3m2.ddimg.cn/96/32/25285092-1_b_4.jpg",
+            "price": "46.30",
+            "show_price_name": "sale_price",
+            "ebook_price": "19.99",
+            "product_url": "http://product.m.dangdang.com/25285092.html?t=1577598046",
+            "price1": "46",
+            "price2": "30"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27847515,
+            "total_review_count": 138557,
+            "product_name": "摆渡人3无境之爱",
+            "original_price": "46.00",
+            "image_url": "http://img3m5.ddimg.cn/3/20/27847515-1_b_6.jpg",
+            "price": "22.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "9.99",
+            "product_url": "http://product.m.dangdang.com/27847515.html?t=1577598046",
+            "price1": "22",
+            "price2": "80"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27878722,
+            "total_review_count": 238770,
+            "product_name": "小孩",
+            "original_price": "39.60",
+            "image_url": "http://img3m2.ddimg.cn/25/36/27878722-1_b_20.jpg",
+            "price": "18.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "29.99",
+            "product_url": "http://product.m.dangdang.com/27878722.html?t=1577598046",
+            "price1": "18",
+            "price2": "80"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23435948,
+            "total_review_count": 254854,
+            "product_name": "小学生必背古诗词75+80首 25万多读者好评，不同印次随机发货!",
+            "original_price": "28.00",
+            "image_url": "http://img3m8.ddimg.cn/74/0/23435948-1_b_20.jpg",
+            "price": "22.40",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/23435948.html?t=1577598046",
+            "price1": "22",
+            "price2": "40"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 24044642,
+            "total_review_count": 670264,
+            "product_name": "如何说孩子才会听 怎么听孩子才肯说",
+            "original_price": "36.80",
+            "image_url": "http://img3m2.ddimg.cn/17/7/24044642-1_b_18.jpg",
+            "price": "18.40",
+            "show_price_name": "sale_price",
+            "ebook_price": "3.99",
+            "product_url": "http://product.m.dangdang.com/24044642.html?t=1577598046",
+            "price1": "18",
+            "price2": "40"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 26264589,
+            "total_review_count": 406187,
+            "product_name": "二级建造师 2019教材 2019版二级建造师考试用书 建筑工程管理与实务",
+            "original_price": "69.00",
+            "image_url": "http://img3m9.ddimg.cn/87/28/26264589-1_b_2.jpg",
+            "price": "58.30",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/26264589.html?t=1577598046",
+            "price1": "58",
+            "price2": "30"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 24008779,
+            "total_review_count": 261772,
+            "product_name": "古汉语常用字字典",
+            "original_price": "39.90",
+            "image_url": "http://img3m9.ddimg.cn/91/34/24008779-1_b_18.jpg",
+            "price": "34.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/24008779.html?t=1577598046",
+            "price1": "34",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 26482571,
+            "total_review_count": 174085,
+            "product_name": "肖秀荣2020考研政治1000题",
+            "original_price": "69.80",
+            "image_url": "http://img3m1.ddimg.cn/71/6/26482571-1_b_5.jpg",
+            "price": "48.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/26482571.html?t=1577598046",
+            "price1": "48",
+            "price2": "90"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25246609,
+            "total_review_count": 270152,
+            "product_name": "乌合之众 : 大众心理研究",
+            "original_price": "26.00",
+            "image_url": "http://img3m9.ddimg.cn/25/29/25246609-1_b_1.jpg",
+            "price": "11.70",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25246609.html?t=1577598046",
+            "price1": "11",
+            "price2": "70"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25295369,
+            "total_review_count": 464134,
+            "product_name": "云边有个小卖部",
+            "original_price": "42.00",
+            "image_url": "http://img3m9.ddimg.cn/77/23/25295369-1_b_12.jpg",
+            "price": "20.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "9.99",
+            "product_url": "http://product.m.dangdang.com/25295369.html?t=1577598046",
+            "price1": "20",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 24041704,
+            "total_review_count": 566597,
+            "product_name": "东野圭吾：恶意",
+            "original_price": "39.50",
+            "image_url": "http://img3m4.ddimg.cn/49/29/24041704-1_b_6.jpg",
+            "price": "39.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "14.99",
+            "product_url": "http://product.m.dangdang.com/24041704.html?t=1577598046",
+            "price1": "39",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 25298376,
+            "total_review_count": 1135049,
+            "product_name": "小王子",
+            "original_price": "39.80",
+            "image_url": "http://img3m6.ddimg.cn/15/33/25298376-1_b_19.jpg",
+            "price": "19.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/25298376.html?t=1577598046",
+            "price1": "19",
+            "price2": "90"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 28469677,
+            "total_review_count": 39072,
+            "product_name": "了不起的我：自我发展的心理学",
+            "original_price": "69.00",
+            "image_url": "http://img3m7.ddimg.cn/49/27/28469677-1_b_20.jpg",
+            "price": "34.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/28469677.html?t=1577598046",
+            "price1": "34",
+            "price2": "50"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 22819334,
+            "total_review_count": 841674,
+            "product_name": "围城",
+            "original_price": "39.00",
+            "image_url": "http://img3m4.ddimg.cn/32/28/22819334-1_b_3.jpg",
+            "price": "27.30",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/22819334.html?t=1577598046",
+            "price1": "27",
+            "price2": "30"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 23566280,
+            "total_review_count": 568204,
+            "product_name": "人性的弱点",
+            "original_price": "32.00",
+            "image_url": "http://img3m0.ddimg.cn/23/18/23566280-1_b_4.jpg",
+            "price": "16.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "1.99",
+            "product_url": "http://product.m.dangdang.com/23566280.html?t=1577598046",
+            "price1": "16",
+            "price2": "00"
+          },
+          {
+            "request_id": "201912291340206127_000077146160714585",
+            "product_id": 27871865,
+            "total_review_count": 72598,
+            "product_name": "笑背古诗：漫画版，中国诗词大会点评嘉宾推荐 含小学生必背古诗词75首+80首 适合小学生的国学经典儿童诗歌 当当首发独家",
+            "original_price": "140.00",
+            "image_url": "http://img3m5.ddimg.cn/98/24/27871865-1_b_21.jpg",
+            "price": "70.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/27871865.html?t=1577598046",
+            "price1": "70",
+            "price2": "00"
+          }
+        ]
+    }
+}

@@ -1,0 +1,2095 @@
+{
+  "shuffling":{
+      "name": "轮播",
+      "value": [
+          {
+              "dd_src": "e894e184297826a6",
+              "dd_name": "第一坑位",
+              "block": "第一坑位",
+              "img_url": "http://img59.ddimg.cn/206770073864889_y.jpg",
+              "link_url": "http://shop.m.dangdang.com/20677.html?t=1577513664",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "fed817184b9915bf",
+              "dd_name": "第二坑位",
+              "block": "第二坑位",
+              "img_url": "http://img63.ddimg.cn/upload_img/00628/dangdang/1242--524-1577093854.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20191226_childern",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "7e24e0173e64dbc3",
+              "dd_name": "第三坑位",
+              "block": "第三坑位",
+              "img_url": "http://img63.ddimg.cn/upload_img/00738/123/1242x524-28-1577415416.jpg",
+              "link_url": "http://shop.m.dangdang.com/13670.html?t=1577513664",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "9062c07d11c5c3f4",
+              "dd_name": "第四坑位",
+              "block": "第四坑位",
+              "img_url": "http://img57.ddimg.cn/116550083544347_y.jpg",
+              "link_url": "http://shop.m.dangdang.com/20602.html?t=1577513664",
+              "component_type": "1",
+              "is_only_img": "1"
+          }
+      ]
+  },
+  "categoryImg":{
+      "name": "分类",
+      "value": [
+        {
+            "dd_src": "a6574a30cf2c6fef",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/nvzhuang-1562825517.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=153699",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "952b1336351eec12",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00760/kxj/neiyi-1562825634.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=170096",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "679720ba3abc74f0",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00601/111/tongqiu1-1567600213.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20191226_childern",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "9652a06fa58755aa",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00727/123/248i-1568974963.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=183490",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "04a3ee60813e9fd8",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/yund-1562826213.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=109648",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+          {
+              "dd_src": "90d1a981bf659aa6",
+              "dd_name": "二一坑位",
+              "block": "二一坑位",
+              "img_url": "http://img59.ddimg.cn/215060131455779_y.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=155080",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "d4b0e66466600592",
+              "dd_name": "二二坑位",
+              "block": "二二坑位",
+              "img_url": "http://img63.ddimg.cn/upload_img/00601/111/xaingbao-1563447990.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=184995",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "bfba442d2e641550",
+              "dd_name": "二三坑位",
+              "block": "二三坑位",
+              "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/zhubao-1562826331.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=180883",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "7e4816d52b901600",
+              "dd_name": "二四坑位",
+              "block": "二四坑位",
+              "img_url": "http://img62.ddimg.cn/upload_img/00601/111/iconshubao-1565946839.jpg",
+              "link_url": "http://shop.m.dangdang.com/21911.html?t=1577513664",
+              "component_type": "1",
+              "is_only_img": "1"
+          },
+          {
+              "dd_src": "0c62c312ec27ddb0",
+              "dd_name": "二五坑位",
+              "block": "二五坑位",
+              "img_url": "http://img61.ddimg.cn/upload_img/00768/kaixueji/x-quanbufenlei-1546074618.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20180511_classify",
+              "component_type": "1",
+              "is_only_img": "1"
+          }
+
+      ]
+  },
+  "Upcoming":{
+      "name": "活动预告",
+      "value": [
+          {
+              "dd_src": "69ba878c3c02427a",
+              "dd_name": "第一坑位",
+              "block": "第一坑位",
+              "img_url": "http://img53.ddimg.cn/42360135650413_y.jpg",
+              "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20181115_hdyg",
+              "component_type": "1",
+              "is_only_img": "1"
+          }
+      ]
+  },
+  "buyFashion":{
+      "name": "购时尚购实惠",
+      "title_img": "http://img62.ddimg.cn/upload_img/00768/kaixueji/g-1546075040.jpg"
+  },
+  "entrance":{
+      "name": "入口栏目",
+      "value": [
+          {
+              "sub_title_color": "#999999",
+              "is_only_img": "1",
+              "main_title": "",
+              "sub_title": "",
+              "dd_src": "9d63893c7fa7b802",
+              "dd_name": "第一坑位",
+              "block": "第一坑位",
+              "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/shangxin-1562727168.png",
+              "link_url": "http://search.m.dangdang.com/empty_func.php?t=1577513664",
+              "component_type": "1"
+          },
+          {
+              "sub_title_color": "#999999",
+              "is_only_img": "1",
+              "main_title": "",
+              "sub_title": "",
+              "dd_src": "03e37f80bed29962",
+              "dd_name": "第二坑位",
+              "block": "第二坑位",
+              "img_url": "http://img60.ddimg.cn/upload_img/00760/kaixueji/pintuan-1562727168.png",
+              "link_url": "http://widgets.dangdang.com/pintuan/list/?cpath=&isshow=1&template=1",
+              "component_type": "1"
+          },
+          {
+              "sub_title_color": "#999999",
+              "is_only_img": "1",
+              "main_title": "",
+              "sub_title": "",
+              "dd_src": "619b00db32719b8a",
+              "dd_name": "第三坑位",
+              "block": "第三坑位",
+              "img_url": "http://img60.ddimg.cn/upload_img/00760/kaixueji/miaosha-1562727168.png",
+              "link_url": "http://touch.m.dangdang.com/seckill.php?t=1577513664",
+              "component_type": "1"
+          }
+      ]
+  },
+  "brand":{
+        "name":"今日大牌",
+        "title_img": "http://img61.ddimg.cn/upload_img/00768/kaixueji/lou-jinridapai-1546077897.jpg",
+        "img_url": "http://img56.ddimg.cn/198970073952566_y.jpg",
+        "value1": [
+            {
+                "sub_title_color": "#999999",
+                "is_only_img": "1",
+                "main_title": "",
+                "sub_title": "",
+                "dd_src": "99f377451ab9a496",
+                "dd_name": "一一坑位",
+                "block": "一一坑位",
+                "img_url": "http://img58.ddimg.cn/198970073952528_y.jpg",
+                "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=21910&category_id=219100290000",
+                "component_type": "1"
+            },
+            {
+                "sub_title_color": "#999999",
+                "is_only_img": "1",
+                "main_title": "",
+                "sub_title": "",
+                "dd_src": "4c6304535670d01e",
+                "dd_name": "一二坑位",
+                "block": "一二坑位",
+                "img_url": "http://img59.ddimg.cn/198970073952529_y.jpg",
+                "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=21910&category_id=219100250000",
+                "component_type": "1"
+            },
+            {
+                "sub_title_color": "#999999",
+                "is_only_img": "1",
+                "dd_src": "0686a11c29b4f433",
+                "main_title": "",
+                "sub_title": "",
+                "dd_name": "一三坑位",
+                "block": "一三坑位",
+                "img_url": "http://img52.ddimg.cn/198970073952532_y.jpg",
+                "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=21910&category_id=219100260000",
+                "component_type": "1"
+            }
+        ],
+
+        "value2": [
+            {
+                "sub_title_color": "#999999",
+                "is_only_img": "1",
+                "main_title": "",
+                "sub_title": "",
+                "dd_src": "8827891c02fa7422",
+                "dd_name": "二一坑位",
+                "block": "二一坑位",
+                "img_url": "http://img54.ddimg.cn/198970073952534_y.jpg",
+                "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=21910&category_id=219100310000",
+                "component_type": "1"
+            },
+            {
+                "sub_title_color": "#999999",
+                "is_only_img": "1",
+                "main_title": "",
+                "sub_title": "",
+                "dd_src": "0f019484b9d37eca",
+                "dd_name": "二二坑位",
+                "block": "二二坑位",
+                "img_url": "http://img56.ddimg.cn/198970073952536_y.jpg",
+                "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=21910&category_id=219100060000",
+                "component_type": "1"
+            },
+            {
+                "sub_title_color": "#999999",
+                "is_only_img": "1",
+                "main_title": "",
+                "sub_title": "",
+                "dd_src": "1a083821d14fabd7",
+                "dd_name": "二三坑位",
+                "block": "二三坑位",
+                "img_url": "http://img59.ddimg.cn/198970073952539_y.jpg",
+                "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=21910&category_id=219100270000",
+                "component_type": "1"
+            }
+        ]
+  },
+  "shopUpdate":{
+      "name":"店铺上新",
+      "title_img": "http://img61.ddimg.cn/upload_img/00760/kaixueji/dianpushangxin-1546917242.jpg",
+      "value": [
+            {
+                "cate_id": "10010337",
+                "shop_id": "18692",
+                "product_id": "1568294507",
+                "img_url": "http://img3m7.ddimg.cn/65/1/1568294507-1_h_1.jpg",
+                "shop_logo": "http://img60.ddimg.cn/2018/8/16/2018081613493195349.jpg",
+                "shop_name": "芬腾旗舰店",
+                "link_url": "http://hb.dangdang.com/mdd/new_product.php?cid=10010337&page_id=787819"
+            },
+            {
+                "cate_id": "4001896",
+                "shop_id": "21424",
+                "product_id": "1552684355",
+                "img_url": "http://img3m5.ddimg.cn/35/1/1552684355-1_h_1.jpg",
+                "shop_logo": "http://img61.ddimg.cn/2018/5/14/2018051410044653168.jpg",
+                "shop_name": "crocs品牌专卖店",
+                "link_url": "http://hb.dangdang.com/mdd/new_product.php?cid=4001896&page_id=787819"
+            },
+            {
+                "cate_id": "4003844",
+                "shop_id": "8132",
+                "product_id": "1518664527",
+                "img_url": "http://img3m7.ddimg.cn/72/8/1518664527-1_h_1.jpg",
+                "shop_logo": "http://img34.ddimg.cn/imgother/201504/23_0/20150423144246954.jpg",
+                "shop_name": "AMII旗舰店",
+                "link_url": "http://hb.dangdang.com/mdd/new_product.php?cid=4003844&page_id=787819"
+            }
+      ]
+  },
+  "wClothing":{
+      "name":"女装",
+      "title_img": "http://img61.ddimg.cn/upload_img/00760/kaixueji/nvzhuang-1577442529.jpg",
+      "shuffling": [
+        {
+            "dd_src": "ecf1dba2857f8b47",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img55.ddimg.cn/81320114374195_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/8132.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "f2cd6ff6fa06b89a",
+            "dd_name": "第二坑位",
+            "block": "第二坑位",
+            "img_url": "http://img56.ddimg.cn/101880081253206_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22452.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "3311754004137a37",
+            "dd_name": "第四坑位",
+            "block": "第四坑位",
+            "img_url": "http://img50.ddimg.cn/206620113077440_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/20662.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "f8d446c1cde50841",
+            "dd_name": "第六坑位",
+            "block": "第六坑位",
+            "img_url": "http://img50.ddimg.cn/223130065927680_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22313.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "d4ead2cf479151f6",
+            "dd_name": "第七坑位",
+            "block": "第七坑位",
+            "img_url": "http://img50.ddimg.cn/116550080379220_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/20602.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "826d5389f5557906",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img59.ddimg.cn/116550072031179_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008149",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "45340530516286dd",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img57.ddimg.cn/116550072031177_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008151",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "ba6075185c60f0c2",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img55.ddimg.cn/116550072031175_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008150",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "505917a1d053f007",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img58.ddimg.cn/116550072031178_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008152",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "6a19b7f905f957bc",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img51.ddimg.cn/116550072031181_y.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=153699",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "1e8f86fa9c41521d",
+            "dd_name": "二一坑位",
+            "block": "二一坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00760/kaixueji/laxiabeier-1546486525.jpg",
+            "link_url": "http://shop.m.dangdang.com/16475.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "717bd6b66f975a43",
+            "dd_name": "二二坑位",
+            "block": "二二坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00760/kaixueji/yinman-1546486674.jpg",
+            "link_url": "http://shop.m.dangdang.com/5384.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "fac18708a2bcfbcc",
+            "dd_name": "二三坑位",
+            "block": "二三坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00760/kaixueji/efuli-1546486873.jpg",
+            "link_url": "http://shop.m.dangdang.com/21606.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "058ddcc75a0ae437",
+            "dd_name": "二四坑位",
+            "block": "二四坑位",
+            "img_url": "http://img53.ddimg.cn/116550075995463_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22443.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "de8f6deca93b9e68",
+            "dd_name": "二五坑位",
+            "block": "二五坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00760/kaixueji/lily-1546487043.jpg",
+            "link_url": "http://shop.m.dangdang.com/20662.html?t=1577693585",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ]
+  },
+  "mClothing":{
+      "name":"男装",
+      "title_img": "http://img62.ddimg.cn/upload_img/00760/kaixueji/nanzhuang-1562726154.jpg",
+      "shuffling": [
+        {
+            "dd_src": "74adf20d161ec71e",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00738/123/1242x524-31-1577692908.jpg",
+            "link_url": "http://shop.m.dangdang.com/21605.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "99c5d31501753c37",
+            "dd_name": "第二坑位",
+            "block": "第二坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00738/123/1242x524-hl-1577345993.jpg",
+            "link_url": "http://shop.m.dangdang.com/21311.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "1678f2713287c8cf",
+            "dd_name": "第三坑位",
+            "block": "第三坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00727/123/1242x524-glm-1573633838.jpg",
+            "link_url": "http://shop.m.dangdang.com/16187.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "8560d19e80e9c938",
+            "dd_name": "第四坑位",
+            "block": "第四坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00738/123/zws-1575628201.jpg",
+            "link_url": "http://shop.m.dangdang.com/21511.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "8485e62960ca9cb0",
+            "dd_name": "第五坑位",
+            "block": "第五坑位",
+            "img_url": "http://img57.ddimg.cn/218420110613057_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/21842.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "d7b0267ef469aff0",
+            "dd_name": "第六坑位",
+            "block": "第六坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00727/123/1242-yjl-1574930550.jpg",
+            "link_url": "http://shop.m.dangdang.com/22449.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "5de70ac8b47a546e",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00727/123/zz-1573610115.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008128",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "bd9bbf1ab8ebc0fa",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00738/123/248x248-2-1568087534.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010302",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "ac43624b44d6b534",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00727/123/mf-1573610157.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010278",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "8c4a1e026c2abd70",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00727/123/yrf-1573610186.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010279",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "d91dfc52f0137030",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00727/123/nanzhuang-1562766380.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=183490",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "dd635ffddd3b7717",
+            "dd_name": "二一坑位",
+            "block": "二一坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00727/123/248s-1573610037.jpg",
+            "link_url": "http://shop.m.dangdang.com/8525.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "4960bdd6c79bc995",
+            "dd_name": "二二坑位",
+            "block": "二二坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00727/123/248x248-1567068979.jpg",
+            "link_url": "http://shop.m.dangdang.com/13670.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "bde06871f7c056f4",
+            "dd_name": "二三坑位",
+            "block": "二三坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00738/123/248-1568020562.jpg",
+            "link_url": "http://shop.m.dangdang.com/22409.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "8dac0328df6b2fe7",
+            "dd_name": "二四坑位",
+            "block": "二四坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00738/123/248-gxg-1568088297.jpg",
+            "link_url": "http://shop.m.dangdang.com/21605.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "a80d0804551faecf",
+            "dd_name": "二五坑位",
+            "block": "二五坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00727/123/lm-1573610087.jpg",
+            "link_url": "http://shop.m.dangdang.com/21850.html?t=1577694229",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+    ]
+  },
+  "cClothing":{
+      "name":"童装",
+      "title_img": "http://img61.ddimg.cn/upload_img/00760/kxj/tongzhuang-1562725998.jpg",
+      "shuffling": [
+        {
+            "dd_src": "4eb70ff3b127614e",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00628/dangdang/1242-856_01-1577094071.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20191226_childern",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "downImg": [
+        {
+            "dd_src": "930d63d438522220",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00628/dangdang/1242-856_02-1577094071.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=mix_20191226_childern",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "b2eb8edae61702d1",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00628/dangdang/balabala-1576825322.jpg",
+            "link_url": "http://shop.m.dangdang.com/4236.html?t=1577694580",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "18e7efd5d60b2022",
+            "dd_name": "第二坑位",
+            "block": "第二坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00628/dangdang/annaier-1576825322.jpg",
+            "link_url": "http://shop.m.dangdang.com/20760.html?t=1577694580",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "b1ca906f1b0fbb56",
+            "dd_name": "第三坑位",
+            "block": "第三坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00628/dangdang/dishini-1576825322.jpg",
+            "link_url": "http://shop.m.dangdang.com/10748.html?t=1577694580",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "073c9c5215c55f8f",
+            "dd_name": "第四坑位",
+            "block": "第四坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00628/dangdang/xiabushi-1576825322.jpg",
+            "link_url": "http://shop.m.dangdang.com/21670.html?t=1577694580",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "460ccf77cebbd504",
+            "dd_name": "第五坑位",
+            "block": "第五坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00628/dangdang/361du-1576825322.jpg",
+            "link_url": "http://shop.m.dangdang.com/21659.html?t=1577694581",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ]
+  },
+  "sport":{
+      "name":"运动",
+      "title_img": "http://img61.ddimg.cn/upload_img/00760/kxj/yundonghuwai-1562725841.jpg",
+      "shuffling": [
+        {
+            "dd_src": "21c7c4b7fbd6f384",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img51.ddimg.cn/198970073863391_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/8064.html?t=1577694811",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "a811da8160cfbb48",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00760/kaixueji/naike-1546497466.jpg",
+            "link_url": "http://shop.m.dangdang.com/19084.html?t=1577694811",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "101a93a0520641b8",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00760/kaixueji/yaseshi-1546497548.jpg",
+            "link_url": "http://shop.m.dangdang.com/12359.html?t=1577694811",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "530a1ded0c2864dc",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00760/kaixueji/jiaming-1546497610.jpg",
+            "link_url": "http://shop.m.dangdang.com/19975.html?t=1577694811",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "9ba85084351b6c41",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img57.ddimg.cn/198970072298507_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/9957.html?t=1577694811",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "33aa6bf0425f9a9e",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img51.ddimg.cn/198970072298131_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22522.html?t=1577694811",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "009b2d80160d0fbd",
+            "dd_name": "二一坑位",
+            "block": "二一坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/paobuxie-1546498204.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4002385",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "5d757c6b4cf4b048",
+            "dd_name": "二二坑位",
+            "block": "二二坑位",
+            "img_url": "http://img55.ddimg.cn/198970072298785_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4002551",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "a5c9d506e440d729",
+            "dd_name": "二三坑位",
+            "block": "二三坑位",
+            "img_url": "http://img54.ddimg.cn/198970072298784_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009574",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "2489f45b1c367f9c",
+            "dd_name": "二四坑位",
+            "block": "二四坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/yundongqicai-1546498549.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4002902",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "56cfb15cb81ff7d8",
+            "dd_name": "二五坑位",
+            "block": "二五坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00760/kaixueji/yujia-1546498647.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010880",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ]
+  },
+  "shoes":{
+      "name":"男女鞋",
+      "title_img": "http://img60.ddimg.cn/upload_img/00760/kaixueji/nannvxie-1562726201.jpg",
+      "title_url": "http://touch.m.dangdang.com/topics.php?page_id=155080",
+      "shuffling": [
+        {
+            "dd_src": "21115f21c9aa0500",
+            "dd_name": "第二坑位",
+            "block": "第二坑位",
+            "img_url": "http://img58.ddimg.cn/214240065782038_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/21424.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "ea3c57a45c5b18a6",
+            "dd_name": "第三坑位",
+            "block": "第三坑位",
+            "img_url": "http://img59.ddimg.cn/182870073918709_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/18287.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "fc121c3915de0f1a",
+            "dd_name": "第五坑位",
+            "block": "第五坑位",
+            "img_url": "http://img56.ddimg.cn/225590075860756_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22559.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "5552d0c892285ffa",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img60.ddimg.cn/upload_img/00760/kaixueji/stsat-1546500640.jpg",
+            "link_url": "http://shop.m.dangdang.com/21506.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "c70ff81224a4e874",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img50.ddimg.cn/182870073920110_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/18287.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "a4beae8c462eab41",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/sikaiqi-1546500915.jpg",
+            "link_url": "http://shop.m.dangdang.com/21458.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "d8e61c1af29d2398",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img55.ddimg.cn/221900072122265_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22190.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "79a999b64fc99cde",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/huili-1546501337.jpg",
+            "link_url": "http://shop.m.dangdang.com/20677.html?t=1577695045",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "7dd51bc363a736eb",
+            "dd_name": "二一坑位",
+            "block": "二一坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00760/kaixueji/danxie-1546501614.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4002853",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "e3c1b3b3068da13a",
+            "dd_name": "二二坑位",
+            "block": "二二坑位",
+            "img_url": "http://img62.ddimg.cn/upload_img/00760/kaixueji/xiaobaixie-1546501728.jpg",
+            "link_url": "http://search.m.dangdang.com/search.php?keyword=小白鞋",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "cfb8ccecd273df37",
+            "dd_name": "二三坑位",
+            "block": "二三坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00760/kaixueji/xiuxianxie-1546501820.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010044",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "869c73c0c9d8cd9f",
+            "dd_name": "二四坑位",
+            "block": "二四坑位",
+            "img_url": "http://img63.ddimg.cn/upload_img/00760/kaixueji/fanbuxie-1546501951.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4002854",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "2b87fa30bc054244",
+            "dd_name": "二五坑位",
+            "block": "二五坑位",
+            "img_url": "http://img61.ddimg.cn/upload_img/00760/kaixueji/huwaixiuxian-1546502095.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4003874",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ]
+  },
+  "scoks":{
+      "name":"内衣袜品",
+      "title_img": "http://img60.ddimg.cn/upload_img/00760/kaixueji/neiyi-1562726098.jpg",
+      "title_url": "http://touch.m.dangdang.com/topics.php?page_id=170096",
+      "shuffling": [
+        {
+            "dd_src": "466e4bb98685a894",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img56.ddimg.cn/116550082003966_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22381.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "37dc9790da4ed9af",
+            "dd_name": "第二坑位",
+            "block": "第二坑位",
+            "img_url": "http://img58.ddimg.cn/211090075774118_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/21109.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "f63c958bd5115184",
+            "dd_name": "第三坑位",
+            "block": "第三坑位",
+            "img_url": "http://img55.ddimg.cn/186920114254415_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/18692.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "ed996e918c39eb25",
+            "dd_name": "第四坑位",
+            "block": "第四坑位",
+            "img_url": "http://img51.ddimg.cn/223460135264201_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22346.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "e0fa1a034a088b1a",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img53.ddimg.cn/116550072118963_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/18692.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "bbf5ed3da73e2b4c",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img56.ddimg.cn/116550072119006_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/21499.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "e9d097d364768055",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img51.ddimg.cn/116550072118951_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/21109.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "b6a0bed964da23c5",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img52.ddimg.cn/116550072118972_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/7762.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "b72ac5f0b58f0928",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img55.ddimg.cn/116550072118985_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/20243.html?t=1577695295",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "0f7f9ff73dde0c48",
+            "dd_name": "二一坑位",
+            "block": "二一坑位",
+            "img_url": "http://img58.ddimg.cn/116550072119378_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008157",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "fedb4e8b70098234",
+            "dd_name": "二二坑位",
+            "block": "二二坑位",
+            "img_url": "http://img53.ddimg.cn/116550072119013_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010708",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "232cc934c289ae65",
+            "dd_name": "二三坑位",
+            "block": "二三坑位",
+            "img_url": "http://img59.ddimg.cn/116550072118989_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010597",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "8181e307933bf5db",
+            "dd_name": "二四坑位",
+            "block": "二四坑位",
+            "img_url": "http://img56.ddimg.cn/116550072118996_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010709",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "16a91023d9c9f8ba",
+            "dd_name": "二五坑位",
+            "block": "二五坑位",
+            "img_url": "http://img56.ddimg.cn/116550072118976_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4010596",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ]
+  },
+  "bags":{
+    "name":"箱包",
+    "title_img": "http://img63.ddimg.cn/upload_img/00760/kaixueji/xiangbao-1562725744.jpg",
+    "title_url": "http://touch.m.dangdang.com/topics.php?page_id=184995",
+    "shuffling": [
+        {
+            "dd_src": "0bec9518a05cda72",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img50.ddimg.cn/93640065454310_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/9364.html?t=1577695605",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+    ],
+    "downImg": [
+        {
+            "dd_src": "5bf5e3a0862c9262",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img59.ddimg.cn/93640065454309_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/9364.html?t=1577695605",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+    ],
+    "value": [
+        {
+            "dd_src": "f02569cfc272534b",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img52.ddimg.cn/93640065454292_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=9364&keyword=单肩",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "33f2d7379fdd91f8",
+            "dd_name": "第二坑位",
+            "block": "第二坑位",
+            "img_url": "http://img56.ddimg.cn/93640065454296_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=9364&keyword=双肩",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "c28682ed140b8daa",
+            "dd_name": "第三坑位",
+            "block": "第三坑位",
+            "img_url": "http://img57.ddimg.cn/93640065454297_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=9364&keyword=斜跨",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "3c9924aa350465c8",
+            "dd_name": "第四坑位",
+            "block": "第四坑位",
+            "img_url": "http://img51.ddimg.cn/93640065454291_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=9364&keyword=99元2件",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "8c62cd903ee7a849",
+            "dd_name": "第五坑位",
+            "block": "第五坑位",
+            "img_url": "http://img50.ddimg.cn/93640065454290_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/shop.php?action=shop_search&shop_id=9364&keyword=1件2折",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+    ]
+  },
+  "jewelry":{
+      "name":"珠宝饰品",
+      "title_img": "http://img63.ddimg.cn/upload_img/00760/kxj/zhubao-1562815769.jpg",
+      "title_url": "http://touch.m.dangdang.com/topics.php?page_id=180883",
+      "shuffling": [
+        {
+            "dd_src": "2dba98e884396aed",
+            "dd_name": "第一坑位",
+            "block": "第一坑位",
+            "img_url": "http://img54.ddimg.cn/220000069160244_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/22000.html?t=1577695783",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "1a5d1c65b3016b87",
+            "dd_name": "第三坑位",
+            "block": "第三坑位",
+            "img_url": "http://img55.ddimg.cn/198310049264355_y.jpg",
+            "link_url": "http://shop.m.dangdang.com/19831.html?t=1577695783",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+      ],
+      "value": [
+        {
+            "dd_src": "1726ef2c46f6582c",
+            "dd_name": "一一坑位",
+            "block": "一一坑位",
+            "img_url": "http://img54.ddimg.cn/116550072121704_y.jpg",
+            "link_url": "http://search.m.dangdang.com/search.php?keyword=黄金&cid=4009606",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "c65d75cfd040034f",
+            "dd_name": "一二坑位",
+            "block": "一二坑位",
+            "img_url": "http://img57.ddimg.cn/116550072121707_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009612",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "769328463204278b",
+            "dd_name": "一三坑位",
+            "block": "一三坑位",
+            "img_url": "http://img56.ddimg.cn/116550072121696_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4008328",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "33ab301d87fb9c6f",
+            "dd_name": "一四坑位",
+            "block": "一四坑位",
+            "img_url": "http://img58.ddimg.cn/116550072121708_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009622",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "7791934c6d933f08",
+            "dd_name": "一五坑位",
+            "block": "一五坑位",
+            "img_url": "http://img53.ddimg.cn/116550072121693_y.jpg",
+            "link_url": "http://search.m.dangdang.com/search.php?keyword=铂金&cid=4009606",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "9103a47c4a6473f1",
+            "dd_name": "二一坑位",
+            "block": "二一坑位",
+            "img_url": "http://img50.ddimg.cn/116550072121710_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009623",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "1e0255e86e53285a",
+            "dd_name": "二二坑位",
+            "block": "二二坑位",
+            "img_url": "http://img56.ddimg.cn/116550072121706_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009626",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "49f87660d77dfad2",
+            "dd_name": "二三坑位",
+            "block": "二三坑位",
+            "img_url": "http://img59.ddimg.cn/116550072121709_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009624",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "d8b49260208da053",
+            "dd_name": "二四坑位",
+            "block": "二四坑位",
+            "img_url": "http://img54.ddimg.cn/116550072121694_y.jpg",
+            "link_url": "http://search.m.dangdang.com/category.php?cid=4009625",
+            "component_type": "1",
+            "is_only_img": "1"
+        },
+        {
+            "dd_src": "0e5ad9c9c378ee12",
+            "dd_name": "二五坑位",
+            "block": "二五坑位",
+            "img_url": "http://img52.ddimg.cn/116550072125872_y.jpg",
+            "link_url": "http://touch.m.dangdang.com/topics.php?page_id=180883",
+            "component_type": "1",
+            "is_only_img": "1"
+        }
+    ]
+  },
+  "like":{
+      "name":"猜你喜欢",
+      "title_img":"http://img63.ddimg.cn/upload_img/00760/kaixueji/lou-cainixihuan-1546505256.jpg",
+      "value": [
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1508151414,
+            "total_review_count": 828,
+            "product_name": "【4.5折价：71.6元，仅限12.25-12.31岁末狂欢！】森马卫衣女2019秋季新款宽松oversized韩版套头连帽外套ins闺蜜装",
+            "original_price": "199.00",
+            "image_url": "http://img3m4.ddimg.cn/66/1/1508151414-1_b_1.jpg",
+            "price": "159.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1508151414_2.jpg",
+            "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1508151414_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1508151414.html?t=1577696053",
+            "price1": "159",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1506492404,
+            "total_review_count": 829,
+            "product_name": "【2.7折价：48.3元，仅限12.25-12.31岁末狂欢！】森马宽松毛衫女秋冬季木耳边上衣保暖毛衣潮流镂空粗针打底衫潮流",
+            "original_price": "179.00",
+            "image_url": "http://img3m4.ddimg.cn/98/34/1506492404-1_b_2.jpg",
+            "price": "179.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1506492404_2.jpg",
+            "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1506492404_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1506492404.html?t=1577696053",
+            "price1": "179",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1523687544,
+            "total_review_count": 775,
+            "product_name": "【4.5折价：49.1元，仅限12.25-12.31岁末狂欢！】森马高领毛衣女2019冬新款撞色条纹慵懒风针织毛衫潮流黑色套头衫",
+            "original_price": "139.00",
+            "image_url": "http://img3m4.ddimg.cn/27/16/1523687544-1_b_2.jpg",
+            "price": "109.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1523687544_2.jpg",
+            "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1523687544_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1523687544.html?t=1577696053",
+            "price1": "109",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1061340118,
+            "total_review_count": 859,
+            "product_name": "【2.7折价：48.3元，仅限12.25-12.31岁末狂欢！】森马针织衫女2018冬季新款女装针织衫半高领打底保暖上衣潮流",
+            "original_price": "179.00",
+            "image_url": "http://img3m8.ddimg.cn/25/2/1061340118-1_b_4.jpg",
+            "price": "179.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1061340118_2.jpg",
+            "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1061340118_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1061340118.html?t=1577696053",
+            "price1": "179",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1531194817,
+            "total_review_count": 398,
+            "product_name": "【到手价：70元】Amii洋气高领套头长袖毛衣女2019秋冬新款外穿修身打底针织衫上衣",
+            "original_price": "1019.90",
+            "image_url": "http://img3m7.ddimg.cn/31/26/1531194817-1_b_2.jpg",
+            "price": "189.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1531194817.html?t=1577696053",
+            "price1": "189",
+            "price2": "90"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1513994855,
+            "total_review_count": 469,
+            "product_name": "【99元2件/叠加30元礼券】茵曼2019秋季新款简约纯色百搭高领显瘦纯色打底套头针织衫上衣女【1893142649】",
+            "original_price": "359.00",
+            "image_url": "http://img3m5.ddimg.cn/32/32/1513994855-1_b_1.jpg",
+            "price": "359.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223161855295_1513994855_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223161855295_1513994855_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1513994855.html?t=1577696053",
+            "price1": "359",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1518684817,
+            "total_review_count": 389,
+            "product_name": "【到手价：42元】Amii休闲针织t恤衫女2019秋新款网纱半高领内搭打底衫薄",
+            "original_price": "599.00",
+            "image_url": "http://img3m7.ddimg.cn/67/22/1518684817-1_b_2.jpg",
+            "price": "161.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1518684817.html?t=1577696053",
+            "price1": "161",
+            "price2": "90"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1514900587,
+            "total_review_count": 377,
+            "product_name": "【双“旦”限时抢购 到手价：39元/再叠加优惠券】高梵女经典条纹半高领打底衫休闲舒适",
+            "original_price": "229.00",
+            "image_url": "http://img3m7.ddimg.cn/13/4/1514900587-1_b_2.jpg",
+            "price": "39.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1514900587.html?t=1577696053",
+            "price1": "39",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1513990695,
+            "total_review_count": 376,
+            "product_name": "【99元2件/叠加30元礼券】茵曼2019秋季新款文艺森系纯色短款毛衣背心马甲女外穿v领学院风【1893132574】",
+            "original_price": "479.00",
+            "image_url": "http://img3m5.ddimg.cn/30/16/1513990695-1_b_2.jpg",
+            "price": "479.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223161855295_1513990695_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223161855295_1513990695_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1513990695.html?t=1577696053",
+            "price1": "479",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1252343911,
+            "total_review_count": 230,
+            "product_name": "【双旦狂欢 3折到手价 80元】chic早慵懒风针织开衫新款韩版宽松百搭毛衣长袖开衫上衣女",
+            "original_price": "269.00",
+            "image_url": "http://img3m1.ddimg.cn/49/27/1252343911-1_b_2.jpg",
+            "price": "269.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1252343911.html?t=1577696053",
+            "price1": "269",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1418770518,
+            "total_review_count": 564,
+            "product_name": "【双旦狂欢 3折到手价 68元】一字领针织衫女秋装新款韩版甜美五分袖修身显瘦短款打底毛衣",
+            "original_price": "229.00",
+            "image_url": "http://img3m8.ddimg.cn/33/5/1418770518-1_b_2.jpg",
+            "price": "229.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1418770518.html?t=1577696053",
+            "price1": "229",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1524595337,
+            "total_review_count": 235,
+            "product_name": "【到手价：98元】Amii慵懒风卷边宽松毛衣女秋冬新款半高领套头打底外穿长袖针织衫",
+            "original_price": "475.90",
+            "image_url": "http://img3m7.ddimg.cn/89/14/1524595337-1_b_2.jpg",
+            "price": "217.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1524595337.html?t=1577696053",
+            "price1": "217",
+            "price2": "90"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1252513011,
+            "total_review_count": 489,
+            "product_name": "【双旦狂欢 3折到手价 59元】条纹衬衫女士2019秋夏新款韩版百搭显瘦休闲长袖雪纺衬衣宽松",
+            "original_price": "199.00",
+            "image_url": "http://img3m1.ddimg.cn/57/0/1252513011-1_b_1.jpg",
+            "price": "199.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1252513011.html?t=1577696053",
+            "price1": "199",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1534116687,
+            "total_review_count": 250,
+            "product_name": "【到手价：98元】Amii极简港风职业气质衬衫女2019秋季新款双层暗门襟休闲长袖上衣",
+            "original_price": "475.90",
+            "image_url": "http://img3m7.ddimg.cn/15/6/1534116687-1_b_2.jpg",
+            "price": "217.90",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1534116687.html?t=1577696053",
+            "price1": "217",
+            "price2": "90"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1531332624,
+            "total_review_count": 146,
+            "product_name": "【双旦狂欢 3折到手价 50元】打底衫女秋季薄款2019心机半高领性感套头百搭修身显瘦纯色针织",
+            "original_price": "169.00",
+            "image_url": "http://img3m4.ddimg.cn/30/8/1531332624-1_b_1.jpg",
+            "price": "169.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1531332624.html?t=1577696053",
+            "price1": "169",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1524680697,
+            "total_review_count": 233,
+            "product_name": "【双“旦”限时抢购 到手价：39元/再叠加优惠券】高梵2019新款条纹针织打底衫外穿内搭韩版套头毛衣柔软舒适时尚潮",
+            "original_price": "229.00",
+            "image_url": "http://img3m7.ddimg.cn/12/15/1524680697-1_b_1.jpg",
+            "price": "39.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1524680697.html?t=1577696053",
+            "price1": "39",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1462497641,
+            "total_review_count": 153,
+            "product_name": "Lily冬粉紫韩版直筒中长款双面呢大衣羊毛大衣女",
+            "original_price": "2799.00",
+            "image_url": "http://img3m1.ddimg.cn/44/10/1462497641-1_b_2.jpg",
+            "price": "699.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1462497641.html?t=1577696053",
+            "price1": "699",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1527967703,
+            "total_review_count": 243,
+            "product_name": "【商场同款】伊芙丽风衣1189263021",
+            "original_price": "1680.00",
+            "image_url": "http://img3m3.ddimg.cn/20/15/1527967703-1_b_1.jpg",
+            "price": "840.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1527967703.html?t=1577696053",
+            "price1": "840",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1529104763,
+            "total_review_count": 220,
+            "product_name": "伊芙丽冬装新款宽松中长款双面呢大衣女1AB970053D",
+            "original_price": "1980.00",
+            "image_url": "http://img3m3.ddimg.cn/65/28/1529104763-1_b_1.jpg",
+            "price": "1,980.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1529104763.html?t=1577696053",
+            "price1": "1,980",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1355471769,
+            "total_review_count": 316,
+            "product_name": "【2.5折价：59.75元】茵曼秋装新款文艺棉麻蕾丝拼接船领条纹长袖上衣女衬衫【1883011014】",
+            "original_price": "359.00",
+            "image_url": "http://img3m9.ddimg.cn/3/5/1355471769-1_b_3.jpg",
+            "price": "239.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223161855295_1355471769_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223161855295_1355471769_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1355471769.html?t=1577696053",
+            "price1": "239",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1514958937,
+            "total_review_count": 177,
+            "product_name": "【双“旦”限时抢购 到手价：149元/再叠加优惠券】高梵女2019新款轻暖羽绒服红外蓄热微防水",
+            "original_price": "799.00",
+            "image_url": "http://img3m7.ddimg.cn/52/5/1514958937-1_b_2.jpg",
+            "price": "149.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1514958937.html?t=1577696053",
+            "price1": "149",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1529107393,
+            "total_review_count": 150,
+            "product_name": "伊芙丽冬装新款宽松中长款双面呢大衣女1AB971512D",
+            "original_price": "2380.00",
+            "image_url": "http://img3m3.ddimg.cn/22/31/1529107393-1_b_1.jpg",
+            "price": "2,380.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1529107393.html?t=1577696053",
+            "price1": "2,380",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1437349829,
+            "total_review_count": 1562,
+            "product_name": "【双“旦”限时抢购 到手价：119元/再叠加优惠券】高梵羽绒马甲女短款秋冬新款韩版白鸭绒背心休闲宽松羽绒外套",
+            "original_price": "1299.00",
+            "image_url": "http://img3m9.ddimg.cn/14/25/1437349829-1_b_11.jpg",
+            "price": "109.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1437349829.html?t=1577696053",
+            "price1": "109",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1212910574,
+            "total_review_count": 3322,
+            "product_name": "【领券立减120元！到手价：75元】裂帛2018秋刺绣兜针织裤松紧腰长裤子加绒休闲裤女51151414",
+            "original_price": "768.00",
+            "image_url": "http://img3m4.ddimg.cn/95/32/1212910574-1_b_5.jpg",
+            "price": "249.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1212910574.html?t=1577696053",
+            "price1": "249",
+            "price2": "80"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1006193115,
+            "total_review_count": 544,
+            "product_name": "【年终聚惠，一件三折！到手价：110元！】裂帛2019春新款时尚圆领绣花休闲甜美风清新韩版学生长袖卫衣女",
+            "original_price": "768.00",
+            "image_url": "http://img3m5.ddimg.cn/81/19/1006193115-1_b_1.jpg",
+            "price": "366.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1006193115.html?t=1577696053",
+            "price1": "366",
+            "price2": "80"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1546460842,
+            "total_review_count": 127,
+            "product_name": "【2件2折】ONE MORE2018冬装新款小脚牛仔裤",
+            "original_price": "595.00",
+            "image_url": "http://img3m2.ddimg.cn/58/36/1546460842-1_b_2.jpg",
+            "price": "595.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img63.ddimg.cn/promotion/atmosphereImage/20191226175108855_1546460842_2.jpg",
+            "atmosphere_image_56x56": "http://img63.ddimg.cn/promotion/atmosphereImage/20191226175108855_1546460842_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1546460842.html?t=1577696053",
+            "price1": "595",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1062627610,
+            "total_review_count": 168,
+            "product_name": "Lily春新款女装帅气纯色高腰修身阔腿裤直筒裤118400C5106",
+            "original_price": "599.00",
+            "image_url": "http://img3m0.ddimg.cn/22/5/1062627610-1_b_1.jpg",
+            "price": "149.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1062627610.html?t=1577696053",
+            "price1": "149",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1322648110,
+            "total_review_count": 105,
+            "product_name": "Lily秋冬新款女装加厚黑色收腰中长款连帽羽绒服118430D1508",
+            "original_price": "1899.00",
+            "image_url": "http://img3m0.ddimg.cn/91/8/1322648110-1_b_1.jpg",
+            "price": "479.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1322648110.html?t=1577696053",
+            "price1": "479",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1396035010,
+            "total_review_count": 291,
+            "product_name": "Lily春新款女装浅粉H型毛衣百褶网纱裙两件套连衣裙",
+            "original_price": "949.00",
+            "image_url": "http://img3m0.ddimg.cn/73/35/1396035010-1_b_2.jpg",
+            "price": "279.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1396035010.html?t=1577696053",
+            "price1": "279",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1422510822,
+            "total_review_count": 117,
+            "product_name": "【2件2折】ONE MORE2018冬装新款素色阔腿裤11GM830302",
+            "original_price": "529.00",
+            "image_url": "http://img3m2.ddimg.cn/18/16/1422510822-1_b_1.jpg",
+            "price": "529.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1422510822.html?t=1577696053",
+            "price1": "529",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1537264142,
+            "total_review_count": 79,
+            "product_name": "【2件2折】ONE MORE2019冬装新款茧型毛呢大衣女中长款外套落肩小个子妮子",
+            "original_price": "1300.00",
+            "image_url": "http://img3m2.ddimg.cn/62/19/1537264142-1_b_2.jpg",
+            "price": "1,300.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img63.ddimg.cn/promotion/atmosphereImage/20191226175108855_1537264142_2.jpg",
+            "atmosphere_image_56x56": "http://img63.ddimg.cn/promotion/atmosphereImage/20191226175108855_1537264142_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1537264142.html?t=1577696053",
+            "price1": "1,300",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1376310997,
+            "total_review_count": 652,
+            "product_name": "【年终聚惠，一件三折！到手价：55元！】裂帛女装2019夏装新款刺绣V领后交叉带上衣针织修身短袖T恤女",
+            "original_price": "529.00",
+            "image_url": "http://img3m7.ddimg.cn/28/19/1376310997-1_b_2.jpg",
+            "price": "183.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1376310997.html?t=1577696053",
+            "price1": "183",
+            "price2": "80"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1538658327,
+            "total_review_count": 28,
+            "product_name": "七格格长袖t恤女秋装2019新款冬季韩版半高领修身学生百搭上衣潮",
+            "original_price": "519.00",
+            "image_url": "http://img3m7.ddimg.cn/30/7/1538658327-1_b_2.jpg",
+            "price": "239.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1538658327.html?t=1577696053",
+            "price1": "239",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1334926836,
+            "total_review_count": 135,
+            "product_name": "【年终聚惠，一件三折！到手价：71元！】裂帛长袖衬衫女2019春夏新款立领洋气少女设计感小众雪纺花边衬衣",
+            "original_price": "925.00",
+            "image_url": "http://img3m6.ddimg.cn/45/25/1334926836-1_b_1.jpg",
+            "price": "236.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1334926836.html?t=1577696053",
+            "price1": "236",
+            "price2": "80"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1535576597,
+            "total_review_count": 28,
+            "product_name": "韩版坠感阔腿裤秋装女2019新款宽松高腰毛呢焦糖色直筒九分裤子潮",
+            "original_price": "670.00",
+            "image_url": "http://img3m7.ddimg.cn/71/7/1535576597-1_b_1.jpg",
+            "price": "119.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1535576597.html?t=1577696053",
+            "price1": "119",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1088461204,
+            "total_review_count": 20,
+            "product_name": "黄色格纹连帽中长款双面羊毛呢大衣女春装2019新款单排扣毛呢外套",
+            "original_price": "1999.00",
+            "image_url": "http://img3m4.ddimg.cn/61/14/1088461204-1_b_2.jpg",
+            "price": "1,999.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191224164055693_1088461204_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191224164055693_1088461204_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1088461204.html?t=1577696053",
+            "price1": "1,999",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1099235304,
+            "total_review_count": 37,
+            "product_name": "哥斯拉圆领条纹亮片套头毛衣女2019新款春装卡通宽松针织衫太平鸟",
+            "original_price": "869.00",
+            "image_url": "http://img3m4.ddimg.cn/90/10/1099235304-1_b_1.jpg",
+            "price": "869.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191224164055693_1099235304_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191224164055693_1099235304_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1099235304.html?t=1577696053",
+            "price1": "869",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1075646610,
+            "total_review_count": 47,
+            "product_name": "老爹裤宽松牛仔裤春秋装女新款韩版显瘦直筒冬季高腰阔腿裤子",
+            "original_price": "899.00",
+            "image_url": "http://img3m0.ddimg.cn/27/0/1075646610-1_b_1.jpg",
+            "price": "569.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1075646610.html?t=1577696053",
+            "price1": "569",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1100950804,
+            "total_review_count": 20,
+            "product_name": "焦糖色拼接千鸟格大衣女中长款春装2019新款复古英伦风毛呢外套女",
+            "original_price": "1299.00",
+            "image_url": "http://img3m4.ddimg.cn/19/5/1100950804-1_b_2.jpg",
+            "price": "1,299.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191224164055693_1100950804_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191224164055693_1100950804_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1100950804.html?t=1577696053",
+            "price1": "1,299",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1514194087,
+            "total_review_count": 42,
+            "product_name": "七格格长袖t恤女装2019新款潮秋冬黑色针织修身心机上衣打底衫夏",
+            "original_price": "399.00",
+            "image_url": "http://img3m7.ddimg.cn/76/19/1514194087-1_b_2.jpg",
+            "price": "269.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1514194087.html?t=1577696053",
+            "price1": "269",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1112491818,
+            "total_review_count": 196,
+            "product_name": "【限时清仓：75】【再享满399减60券】妖精的口袋Y早秋半身裙欧货半裙秋装新款chic中长款网纱裙子",
+            "original_price": "426.00",
+            "image_url": "http://img3m8.ddimg.cn/9/16/1112491818-1_b_1.jpg",
+            "price": "75.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1112491818.html?t=1577696053",
+            "price1": "75",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1362455130,
+            "total_review_count": 275,
+            "product_name": "【单品直降价：87.4元】初语 冬季新品 字母绣花袋鼠兜宽松连帽卫衣女8640521606",
+            "original_price": "999.00",
+            "image_url": "http://img3m0.ddimg.cn/3/23/1362455130-1_b_4.jpg",
+            "price": "87.40",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1362455130.html?t=1577696053",
+            "price1": "87",
+            "price2": "40"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1532717964,
+            "total_review_count": 16,
+            "product_name": "【2件3折：122】【再享满399减60券】妖精的口袋初恋毛衣秋新款慵懒风v领短款修身韩版休闲套头上衣女装",
+            "original_price": "693.00",
+            "image_url": "http://img3m4.ddimg.cn/63/31/1532717964-1_b_2.jpg",
+            "price": "407.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1532717964.html?t=1577696053",
+            "price1": "407",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1062474659,
+            "total_review_count": 118,
+            "product_name": "Lagogo2019夏季新款不规则黑白色高腰阔腿短裤假半身裙女修身百搭",
+            "original_price": "299.00",
+            "image_url": "http://img3m9.ddimg.cn/26/12/1062474659-1_b_1.jpg",
+            "price": "149.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1062474659.html?t=1577696053",
+            "price1": "149",
+            "price2": "50"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1097652489,
+            "total_review_count": 35,
+            "product_name": "【单品直降价：101.8元】初语酷卫衣潮秋装新款女原宿风长袖韩版宽松连帽加绒外套",
+            "original_price": "1358.00",
+            "image_url": "http://img3m9.ddimg.cn/87/18/1097652489-1_b_1.jpg",
+            "price": "101.80",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1097652489.html?t=1577696053",
+            "price1": "101",
+            "price2": "80"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1056684350,
+            "total_review_count": 402,
+            "product_name": "【单品直降价：88.5元】初语春装新款假两件卫衣女中长款宽松连帽帅气拼接抓绒女装潮",
+            "original_price": "999.00",
+            "image_url": "http://img3m0.ddimg.cn/29/18/1056684350-1_b_2.jpg",
+            "price": "88.50",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1056684350.html?t=1577696053",
+            "price1": "88",
+            "price2": "50"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1522183629,
+            "total_review_count": 18,
+            "product_name": "【单品直降价：59.6元】初语2019秋季新款卡通文艺打底衫小口袋上衣女印花宽松长袖t恤女",
+            "original_price": "599.00",
+            "image_url": "http://img3m9.ddimg.cn/21/3/1522183629-1_b_2.jpg",
+            "price": "59.60",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1522183629.html?t=1577696053",
+            "price1": "59",
+            "price2": "60"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1523689024,
+            "total_review_count": 19,
+            "product_name": "【2件3折：66】【再享满399减60券】妖精的口袋2019秋新款碎花百褶不规则中长款半身裙雪纺蛋糕裙女",
+            "original_price": "414.00",
+            "image_url": "http://img3m4.ddimg.cn/22/16/1523689024-1_b_2.jpg",
+            "price": "220.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1523689024.html?t=1577696053",
+            "price1": "220",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1519488384,
+            "total_review_count": 19,
+            "product_name": "【2件3折：74】【再享满399减60券】妖精的口袋液体裤女紧身打底裤2019秋季新款黑色修身运动裤铅笔裤",
+            "original_price": "499.00",
+            "image_url": "http://img3m4.ddimg.cn/51/23/1519488384-1_b_2.jpg",
+            "price": "247.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1519488384.html?t=1577696053",
+            "price1": "247",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1484020948,
+            "total_review_count": 24,
+            "product_name": "Lagogo/拉谷谷2018年冬季新款时尚复古格纹女休闲裤子HCKK54XA65",
+            "original_price": "359.00",
+            "image_url": "http://img3m8.ddimg.cn/58/10/1484020948-1_b_2.jpg",
+            "price": "143.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1484020948.html?t=1577696053",
+            "price1": "143",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1500750717,
+            "total_review_count": 66,
+            "product_name": "【到手价：119，专区2件再9折，超级大牌日，仅限12.29一天】MOCO露肩七分袖条纹圆领性感露背T恤MA173TEE217 摩安珂",
+            "original_price": "599.00",
+            "image_url": "http://img3m7.ddimg.cn/15/7/1500750717-1_b_3.jpg",
+            "price": "599.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500750717_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500750717_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1500750717.html?t=1577696053",
+            "price1": "599",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1500826357,
+            "total_review_count": 21,
+            "product_name": "【到手价：363，超级大牌日，每满300减30上不封顶，仅限12.29一天】MOCO碎花小心机不规则chic连衣裙女夏新款显瘦气质中长款收腰",
+            "original_price": "1299.00",
+            "image_url": "http://img3m7.ddimg.cn/19/19/1500826357-1_b_3.jpg",
+            "price": "1,299.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500826357_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500826357_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1500826357.html?t=1577696053",
+            "price1": "1,299",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1500810377,
+            "total_review_count": 11,
+            "product_name": "【到手价：282，专区2件再9折，超级大牌日，仅限12.29一天】MOCO夏季新品修身剪边流苏牛仔铅笔裤MA182PAT417 摩安珂",
+            "original_price": "899.00",
+            "image_url": "http://img3m7.ddimg.cn/77/23/1500810377-1_b_2.jpg",
+            "price": "899.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500810377_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500810377_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1500810377.html?t=1577696053",
+            "price1": "899",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1436454830,
+            "total_review_count": 8,
+            "product_name": "Lagogo/拉谷谷2019夏季新款甜美撞色亮丝短袖T恤女IATT315A07",
+            "original_price": "259.00",
+            "image_url": "http://img3m0.ddimg.cn/74/19/1436454830-1_b_1.jpg",
+            "price": "55.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1436454830.html?t=1577696053",
+            "price1": "55",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1500753457,
+            "total_review_count": 27,
+            "product_name": "【到手价：148，超级大牌日，每满300减30上不封顶，仅限12.29一天】MOCO个性无袖贴布印花赛车图案纯棉T恤背心MA172TOP215 摩安珂",
+            "original_price": "669.00",
+            "image_url": "http://img3m7.ddimg.cn/82/9/1500753457-1_b_3.jpg",
+            "price": "669.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500753457_2.jpg",
+            "atmosphere_image_56x56": "http://img61.ddimg.cn/promotion/atmosphereImage/20191223154051051_1500753457_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1500753457.html?t=1577696053",
+            "price1": "669",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1474838258,
+            "total_review_count": 76,
+            "product_name": "Lagogo拉谷谷2019年秋季新款女装拉链纯色高腰连衣裙女无袖A字裙",
+            "original_price": "459.00",
+            "image_url": "http://img3m8.ddimg.cn/14/17/1474838258-1_b_1.jpg",
+            "price": "185.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "product_url": "http://product.m.dangdang.com/1474838258.html?t=1577696053",
+            "price1": "185",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1441711018,
+            "total_review_count": 669,
+            "product_name": "【2.7折价：53.7元，仅限12.25-12.31岁末狂欢！】森马牛仔裤女2019春季新款休闲时尚卷边直筒显瘦九分裤学生潮流",
+            "original_price": "199.00",
+            "image_url": "http://img3m8.ddimg.cn/55/24/1441711018-1_b_4.jpg",
+            "price": "199.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1441711018_2.jpg",
+            "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1441711018_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1441711018.html?t=1577696053",
+            "price1": "199",
+            "price2": "00"
+        },
+        {
+            "request_id": "201912301654135699_000185383660404218",
+            "product_id": 1525136024,
+            "total_review_count": 580,
+            "product_name": "【2.7折价：64.5元，仅限12.25-12.31岁末狂欢！】森马木耳边毛衫女2019冬新款宽松圆领套头灯笼袖针织上衣镂空毛衣",
+            "original_price": "239.00",
+            "image_url": "http://img3m4.ddimg.cn/38/20/1525136024-1_b_2.jpg",
+            "price": "239.00",
+            "show_price_name": "sale_price",
+            "ebook_price": "",
+            "atmosphere_image_180x180": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1525136024_2.jpg",
+            "atmosphere_image_56x56": "http://img60.ddimg.cn/promotion/atmosphereImage/20191206170933968_1525136024_1.jpg",
+            "product_url": "http://product.m.dangdang.com/1525136024.html?t=1577696053",
+            "price1": "239",
+            "price2": "00"
+        }
+      ]
+  }
+  
+}
